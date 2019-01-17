@@ -9,27 +9,17 @@ function Index() {
       <Helmet>
         <title>freeCodeCamp Guide</title>
         <meta
-          content='Short, concise guides and how-tos for the busy developer.'
+          content='freeCodeCamp study group directory.'
           name='description'
         />
       </Helmet>
-      <h2>freeCodeCamp Guide</h2>
-      <p>
-        {'This website is full of articles about all things related to ' +
-          'programming. You can use the search bar above to find something ' +
-          'you would like to learn about, or use the navigation to explore ' +
-          'the content.'}
-      </p>
-      <p>There are articles on:</p>
-      <ul>
-        <li>SQL</li>
-        <li>Mathematics</li>
-        <li>JavaScript</li>
-        <li>Bootstrap</li>
-        <li>Git</li>
-        <li>and a whole lot more</li>
-      </ul>
-      <h3>Not sure where to start?</h3>
+      <h2>Join a nearby freeCodeCamp study group.</h2>
+      &nbsp;
+      <h3>Code together with other people in your city.</h3>
+      <h4>Join the study group closest to you or find a place using the
+      navigation or the search bar.
+      </h4>
+      &nbsp;
       <p>
         {"If you want to learn programming but you're not sure where to " +
           'start, check out '}
@@ -43,17 +33,15 @@ function Index() {
         {'. It has a curriculum that starts from zero and helps you learn' +
           ' to code.'}
       </p>
-      <h3>Contribute to the Guide</h3>
       <p>
-        {'This site and the articles on it are '}
-        <a
-          href='https://github.com/freeCodeCamp/guides'
-          rel='noopener noreferrer'
-          target='_blank'
-          >
-          open source
-        </a>
-        {'. Your help in making it better is greatly appreciated!'}
+      {"Note: If you can't find a study group near you, you can "}
+      <a
+        href='#'
+        rel='noopener noreferrer'
+        target='_blank'
+        >
+        create one.
+      </a>
       </p>
       <hr />
       <p>Happy coding!</p>
