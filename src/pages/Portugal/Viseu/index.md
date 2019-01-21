@@ -1,28 +1,19 @@
 ---
 title: Viseu
 country: Portugal
-state: 
+state: undefined
 city: Viseu
-neighborhood: 
+neighborhood: undefined
 coordinates: 40.657471, -7.913866
-plusCode:
+plusCode: undefined
+socialName: Facebook
+socialURL: https://www.facebook.com/groups/free.code.camp.viseu
+chatName: undefined
+chatURL: undefined
+eventName: undefined
+eventURL: undefined
+leaderName: undefined
+leaderURL: undefined
+oldPhoto: undefined
+coverPhoto: undefined
 ---
-
-##Country: Portugal
-##State: 
-##City: Viseu
-##Neighborhood: 
-*****
-Join our [Facebook group](https://www.facebook.com/groups/free.code.camp.viseu).
-
-You can chat with us on [chat app]().
-
-Our Group leader is [leader]()
-
-Here are some pictures from our recent events:
-![study-group-image]()
-
-Here's a stream of one of our recent events:
-[video hosting platform embed]
-
-We have events every Tuesday. You can RSVP for an event on [event platform]().

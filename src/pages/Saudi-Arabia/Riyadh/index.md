@@ -1,28 +1,19 @@
 ---
 title: Riyadh
 country: Saudi Arabia
-state: 
+state: undefined
 city: Riyadh
-neighborhood: 
+neighborhood: undefined
 coordinates: 24.631969, 46.715065
-plusCode:
+plusCode: undefined
+socialName: Facebook
+socialURL: https://www.facebook.com/groups/free.code.camp.Riyadh
+chatName: undefined
+chatURL: undefined
+eventName: undefined
+eventURL: undefined
+leaderName: undefined
+leaderURL: undefined
+oldPhoto: undefined
+coverPhoto: undefined
 ---
-
-##Country: Saudi Arabia
-##State: 
-##City: Riyadh
-##Neighborhood: 
-*****
-Join our [Facebook group](https://www.facebook.com/groups/free.code.camp.Riyadh).
-
-You can chat with us on [chat app]().
-
-Our Group leader is [leader]()
-
-Here are some pictures from our recent events:
-![study-group-image]()
-
-Here's a stream of one of our recent events:
-[video hosting platform embed]
-
-We have events every Tuesday. You can RSVP for an event on [event platform]().

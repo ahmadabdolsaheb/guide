@@ -1,9 +1,11 @@
+/* eslint-disable no-alert, react/jsx-sort-props */
 import React from 'react';
 import PropTypes from 'prop-types';
 import { graphql } from 'gatsby';
 import Helmet from 'react-helmet';
 
 import Breadcrumbs from '../templateComponents/Breadcrumbs';
+import GroupInfo from '../templateComponents/GroupInfo';
 import Layout from '../components/Layout';
 
 const propTypes = {
@@ -25,17 +27,37 @@ class Article extends React.Component {
   }
   render() {
     const {
-      location: { pathname },
+      location: {
+        pathname
+       },
       data: {
         markdownRemark: {
           html,
           fields: { slug },
-          frontmatter: { title }
+          frontmatter: {
+            title,
+            country,
+            state,
+            city,
+            neighborhood,
+            coordinates,
+            plusCode,
+            socialName,
+            socialURL,
+            chatName,
+            chatURL,
+            eventName,
+            eventURL,
+            leaderName,
+            leaderURL,
+            oldPhoto,
+            coverPhoto
+           }
         }
       },
       pageContext: { meta }
     } = this.props;
-    console.log(title);
+    console.log('"social"' + socialURL);
     return (
       <Layout>
         <Helmet>
@@ -60,6 +82,27 @@ class Article extends React.Component {
           <meta content={meta.featureImage} property='og:image' />
         </Helmet>
         <Breadcrumbs path={pathname} />
+        {country ?
+          <GroupInfo
+          country={country}
+          state={state}
+          city={city}
+          neighborhood={neighborhood}
+          coordinates={coordinates}
+          plusCode={plusCode}
+          socialName={socialName}
+          socialURL={socialURL}
+          chatName={chatName}
+          chatURL={chatURL}
+          eventName={eventName}
+          eventURL={eventURL}
+          leaderName={leaderName}
+          leaderURL={leaderURL}
+          oldPhoto={oldPhoto}
+          coverPhoto={coverPhoto}
+          /> :
+          ''
+        }
         <article
           className='article'
           dangerouslySetInnerHTML={{ __html: html }}
@@ -88,6 +131,22 @@ export const pageQuery = graphql`
       }
       frontmatter {
         title
+        country
+        state
+        city
+        neighborhood
+        coordinates
+        plusCode
+        socialName
+        socialURL
+        chatName
+        chatURL
+        eventName
+        eventURL
+        leaderName
+        leaderURL
+        oldPhoto
+        coverPhoto
       }
     }
   }

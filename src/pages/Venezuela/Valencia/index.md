@@ -1,28 +1,19 @@
 ---
 title: Valencia
 country: Venezuela
-state: 
+state: undefined
 city: Valencia
-neighborhood: 
+neighborhood: undefined
 coordinates: 39.469901, -0.375951
-plusCode:
+plusCode: undefined
+socialName: Facebook
+socialURL: https://www.facebook.com/groups/free.code.camp.valencia.venezuela
+chatName: undefined
+chatURL: undefined
+eventName: undefined
+eventURL: undefined
+leaderName: undefined
+leaderURL: undefined
+oldPhoto: undefined
+coverPhoto: undefined
 ---
-
-##Country: Venezuela
-##State: 
-##City: Valencia
-##Neighborhood: 
-*****
-Join our [Facebook group](https://www.facebook.com/groups/free.code.camp.valencia.venezuela).
-
-You can chat with us on [chat app]().
-
-Our Group leader is [leader]()
-
-Here are some pictures from our recent events:
-![study-group-image]()
-
-Here's a stream of one of our recent events:
-[video hosting platform embed]
-
-We have events every Tuesday. You can RSVP for an event on [event platform]().

@@ -1,28 +1,19 @@
 ---
 title: Mayagüez
 country: Puerto Rico
-state: 
+state: undefined
 city: Mayagüez
-neighborhood: 
+neighborhood: undefined
 coordinates: 18.201116, -67.139112
-plusCode:
+plusCode: undefined
+socialName: Facebook
+socialURL: https://www.facebook.com/groups/free.code.camp.mayaguez.pr
+chatName: undefined
+chatURL: undefined
+eventName: undefined
+eventURL: undefined
+leaderName: undefined
+leaderURL: undefined
+oldPhoto: undefined
+coverPhoto: undefined
 ---
-
-##Country: Puerto Rico
-##State: 
-##City: Mayagüez
-##Neighborhood: 
-*****
-Join our [Facebook group](https://www.facebook.com/groups/free.code.camp.mayaguez.pr).
-
-You can chat with us on [chat app]().
-
-Our Group leader is [leader]()
-
-Here are some pictures from our recent events:
-![study-group-image]()
-
-Here's a stream of one of our recent events:
-[video hosting platform embed]
-
-We have events every Tuesday. You can RSVP for an event on [event platform]().

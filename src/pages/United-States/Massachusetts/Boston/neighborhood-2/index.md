@@ -5,24 +5,15 @@ state: Massachusetts
 city: Boston
 neighborhood: Two
 coordinates: 42.37021370000001,-71.0388601
-plusCode:
+plusCode: undefined
+socialName: Facebook
+socialURL: https://www.facebook.com/groups/free.code.camp.east.boston
+chatName: undefined
+chatURL: undefined
+eventName: undefined
+eventURL: undefined
+leaderName: undefined
+leaderURL: undefined
+oldPhoto: undefined
+coverPhoto: undefined
 ---
-
-##Country: United States
-##State: Massachusetts
-##City: Boston
-##Neighborhood: Two
-*****
-Join our [Facebook group](https://www.facebook.com/groups/free.code.camp.east.boston).
-
-You can chat with us on [chat app]().
-
-Our Group leader is [leader]()
-
-Here are some pictures from our recent events:
-![study-group-image]()
-
-Here's a stream of one of our recent events:
-[video hosting platform embed]
-
-We have events every Tuesday. You can RSVP for an event on [event platform]().

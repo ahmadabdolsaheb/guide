@@ -3,26 +3,17 @@ title: Fadeyi
 country: Nigeria
 state: Lagos
 city: Fadeyi
-neighborhood: 
+neighborhood: undefined
 coordinates: 6.528482899999999,3.3628242
-plusCode:
+plusCode: undefined
+socialName: Facebook
+socialURL: https://www.facebook.com/groups/freeCodeCamp.Fadeyi/
+chatName: undefined
+chatURL: undefined
+eventName: undefined
+eventURL: undefined
+leaderName: undefined
+leaderURL: undefined
+oldPhoto: undefined
+coverPhoto: undefined
 ---
-
-##Country: Nigeria
-##State: Lagos
-##City: Fadeyi
-##Neighborhood: 
-*****
-Join our [Facebook group](https://www.facebook.com/groups/freeCodeCamp.Fadeyi/).
-
-You can chat with us on [chat app]().
-
-Our Group leader is [leader]()
-
-Here are some pictures from our recent events:
-![study-group-image]()
-
-Here's a stream of one of our recent events:
-[video hosting platform embed]
-
-We have events every Tuesday. You can RSVP for an event on [event platform]().
