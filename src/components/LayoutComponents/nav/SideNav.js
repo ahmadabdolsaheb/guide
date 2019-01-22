@@ -27,14 +27,12 @@ class SideNav extends Component {
   }
 
   componentWillMount() {
-
     /*
     gatsby needs to check if window is defined for the build
     */
     if (typeof window !== 'undefined' && document.getElementById('side-nav')) {
-      let lastScrollTop = document.getElementById('side-nav');
-      this.setState( {
-        scrollTop: lastScrollTop.scrollTop
+      this.setState({
+        scrollTop: document.getElementById('side-nav').scrollTop
       });
     }
   }
