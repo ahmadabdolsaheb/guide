@@ -39,7 +39,7 @@ function GroupInfo(props) {
   function social(socialURL, socialName) {
     return (
       <p>
-        Join our<a href= {socialURL} > {socialName} group</a>
+        Join our<a href={socialURL}> {socialName} group</a>
       </p>
     );
   }
@@ -70,23 +70,26 @@ function GroupInfo(props) {
 
   return (
     <div>
-      <h1>{neighborhood !== 'undefined' ? neighborhood + ',' : ''}
-      </h1>
+      <h1>{neighborhood !== 'undefined' ? neighborhood + ',' : ''}</h1>
       <h1>{city !== 'undefined' ? city + ',' : ''}</h1>
       <h1>{state !== 'undefined' ? state + ',' : ''}</h1>
       <h1>{country !== 'undefined' ? country : ''}</h1>
-      <hr/>
-      {socialURL !== 'undefined' || socialName !== 'undefined' ?
-      social(socialURL, socialName) : ''}
+      <hr />
+      {socialURL !== 'undefined' || socialName !== 'undefined'
+        ? social(socialURL, socialName)
+        : ''}
 
-      {chatURL !== 'undefined' || chatName !== 'undefined' ?
-       chat(chatURL, chatName) : ''}
+      {chatURL !== 'undefined' || chatName !== 'undefined'
+        ? chat(chatURL, chatName)
+        : ''}
 
-      {leaderURL !== 'undefined' || leaderName !== 'undefined' ?
-       leader(chatURL, chatName) : ''}
+      {leaderURL !== 'undefined' || leaderName !== 'undefined'
+        ? leader(chatURL, chatName)
+        : ''}
 
-      {eventURL !== 'undefined' || eventName !== 'undefined' ?
-       eventDiv(chatURL, chatName) : ''}
+      {eventURL !== 'undefined' || eventName !== 'undefined'
+        ? eventDiv(chatURL, chatName)
+        : ''}
       <hr />
     </div>
   );

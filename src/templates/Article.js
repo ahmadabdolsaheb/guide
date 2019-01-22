@@ -27,9 +27,7 @@ class Article extends React.Component {
   }
   render() {
     const {
-      location: {
-        pathname
-       },
+      location: { pathname },
       data: {
         markdownRemark: {
           html,
@@ -52,7 +50,7 @@ class Article extends React.Component {
             leaderURL,
             oldPhoto,
             coverPhoto
-           }
+          }
         }
       },
       pageContext: { meta }
@@ -82,27 +80,28 @@ class Article extends React.Component {
           <meta content={meta.featureImage} property='og:image' />
         </Helmet>
         <Breadcrumbs path={pathname} />
-        {country ?
+        {country ? (
           <GroupInfo
-          country={country}
-          state={state}
-          city={city}
-          neighborhood={neighborhood}
-          coordinates={coordinates}
-          plusCode={plusCode}
-          socialName={socialName}
-          socialURL={socialURL}
-          chatName={chatName}
-          chatURL={chatURL}
-          eventName={eventName}
-          eventURL={eventURL}
-          leaderName={leaderName}
-          leaderURL={leaderURL}
-          oldPhoto={oldPhoto}
-          coverPhoto={coverPhoto}
-          /> :
+            country={country}
+            state={state}
+            city={city}
+            neighborhood={neighborhood}
+            coordinates={coordinates}
+            plusCode={plusCode}
+            socialName={socialName}
+            socialURL={socialURL}
+            chatName={chatName}
+            chatURL={chatURL}
+            eventName={eventName}
+            eventURL={eventURL}
+            leaderName={leaderName}
+            leaderURL={leaderURL}
+            oldPhoto={oldPhoto}
+            coverPhoto={coverPhoto}
+          />
+        ) : (
           ''
-        }
+        )}
         <article
           className='article'
           dangerouslySetInnerHTML={{ __html: html }}
