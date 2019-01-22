@@ -16,7 +16,7 @@ function Breadcrumbs(props) {
   console.log(path);
   const pathMap = path
     // remove leading and trailing slash
-    .replace(/^\/([a-z0-9/-]+[^/])\/?$/i, '$1')
+    .replace(/^[\/]+|[\/]+$/g, '')
     .split('/')
     .reduce((accu, current, i, pathArray) => {
       console.log(current);
@@ -35,9 +35,7 @@ function Breadcrumbs(props) {
     .map(key => pathMap[key])
     .map((page, i, thisArray) => {
       // escape the pages with empty titles
-      if (page.title === '') {
-        return <span />;
-      } else if (i === thisArray.length - 1) {
+      if (i === thisArray.length - 1) {
         return (
           <li className='active' key={i}>
             {page.title}
