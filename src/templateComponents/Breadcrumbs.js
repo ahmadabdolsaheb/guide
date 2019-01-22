@@ -36,7 +36,7 @@ function Breadcrumbs(props) {
     .map((page, i, thisArray) => {
       // escape the pages with empty titles
       if (page.title === '') {
-        return <span/>;
+        return <span />;
       } else if (i === thisArray.length - 1) {
         return (
           <li className='active' key={i}>
