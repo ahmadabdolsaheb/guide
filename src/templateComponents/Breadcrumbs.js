@@ -13,11 +13,13 @@ function Breadcrumbs(props) {
     return null;
   }
 
+  console.log(path);
   const pathMap = path
     // remove leading and trailing slash
     .replace(/^\/([a-z0-9/-]+[^/])\/?$/i, '$1')
     .split('/')
     .reduce((accu, current, i, pathArray) => {
+      console.log(current);
       const path =
         i !== 0 ? accu[pathArray[i - 1]].path + `/${current}` : `/${current}`;
       return {
@@ -32,7 +34,10 @@ function Breadcrumbs(props) {
   const crumbs = Object.keys(pathMap)
     .map(key => pathMap[key])
     .map((page, i, thisArray) => {
-      if (i === thisArray.length - 1) {
+      // escape the pages with empty titles
+      if (page.title === '') {
+        return <span/>;
+      } else if (i === thisArray.length - 1) {
         return (
           <li className='active' key={i}>
             {page.title}
@@ -45,7 +50,6 @@ function Breadcrumbs(props) {
         </li>
       );
     });
-
   return <ol className='breadcrumb'>{crumbs}</ol>;
 }
 

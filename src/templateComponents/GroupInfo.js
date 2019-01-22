@@ -34,8 +34,6 @@ function GroupInfo(props) {
     leaderURL
   } = props;
 
-  console.log('country' + country);
-
   function social(socialURL, socialName) {
     return (
       <p>

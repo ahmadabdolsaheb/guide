@@ -27,7 +27,6 @@ class Article extends React.Component {
   }
   render() {
     const {
-      location: { pathname },
       data: {
         markdownRemark: {
           html,
@@ -55,7 +54,6 @@ class Article extends React.Component {
       },
       pageContext: { meta }
     } = this.props;
-    console.log('"social"' + socialURL);
     return (
       <Layout>
         <Helmet>
@@ -79,7 +77,7 @@ class Article extends React.Component {
           />
           <meta content={meta.featureImage} property='og:image' />
         </Helmet>
-        <Breadcrumbs path={pathname} />
+        <Breadcrumbs path={slug} />
         {country ? (
           <GroupInfo
             country={country}
