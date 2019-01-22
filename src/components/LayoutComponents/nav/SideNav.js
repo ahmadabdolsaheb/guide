@@ -27,8 +27,8 @@ class SideNav extends Component {
   }
 
   componentWillMount() {
-    let lastScrollTop = document.getElementById('side-nav');
-    if (lastScrollTop) {
+    if (document) {
+      let lastScrollTop = document.getElementById('side-nav');
       this.setState({
         scrollTop: lastScrollTop.scrollTop
       });
