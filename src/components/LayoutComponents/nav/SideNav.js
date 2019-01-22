@@ -20,17 +20,19 @@ function parentFilter(node) {
 class SideNav extends Component {
   constructor(...props) {
     super(...props);
-    this.state = {scrollTop: 0};
+    this.state = { scrollTop: 0 };
     this.renderChildren = this.renderChildren.bind(this);
     this.renderPanels = this.renderPanels.bind(this);
     this.renderParent = this.renderParent.bind(this);
   }
 
   componentWillMount() {
-    let lastScrollTop = document.getElementById('side-nav').scrollTop;
-    this.setState({
-      scrollTop: lastScrollTop
-    });
+    let lastScrollTop = document.getElementById('side-nav');
+    if (lastScrollTop) {
+      this.setState({
+        scrollTop: lastScrollTop.scrollTop
+      });
+    }
   }
 
   componentDidMount() {
