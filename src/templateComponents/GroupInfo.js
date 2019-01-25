@@ -1,93 +1,68 @@
-/* eslint-disable no-alert, react/sort-prop-types */
+/* eslint-disable no-alert, react/sort-prop-types, no-nested-ternary  */
 import React from 'react';
 import PropTypes from 'prop-types';
 
 const propTypes = {
-  country: PropTypes.string.isRequired,
-  state: PropTypes.string.isRequired,
-  city: PropTypes.string.isRequired,
-  neighborhood: PropTypes.string.isRequired,
-  coordinates: PropTypes.string.isRequired,
-  socialName: PropTypes.string.isRequired,
-  socialURL: PropTypes.string.isRequired,
-  chatName: PropTypes.string.isRequired,
-  chatURL: PropTypes.string.isRequired,
-  eventName: PropTypes.string.isRequired,
-  eventURL: PropTypes.string.isRequired,
-  leaderName: PropTypes.string.isRequired,
-  leaderURL: PropTypes.string.isRequired
+  location: PropTypes.object.isRequired,
+  social: PropTypes.object,
+  chat: PropTypes.object,
+  event: PropTypes.object,
+  leaders: PropTypes.array,
+  photos: PropTypes.object
 };
 
 function GroupInfo(props) {
   const {
-    country,
-    state,
-    city,
-    neighborhood,
-    socialName,
-    socialURL,
-    chatName,
-    chatURL,
-    eventName,
-    eventURL,
-    leaderName,
-    leaderURL
+    location: {
+      country,
+      state,
+      city,
+      neighborhood
+    },
+    social,
+    chat,
+    event,
+    leaders
   } = props;
 
-  function social(socialURL, socialName) {
+  function fillInfo(text, item) {
+    if (checkifempty(item)) { return '';}
     return (
       <p>
-        Join our<a href={socialURL}> {socialName} group</a>
+         {text} <a href={item.URL}>{item.name}</a>.
       </p>
     );
   }
-
-  function chat(chatURL, chatName) {
-    return (
-      <p>
-        Chat with us on <a href={chatURL}> {chatName} </a>
-      </p>
-    );
+  function leadersInfo(leaders) {
+      if (checkifempty(leaders)) { return '';}
+      return (
+        <p>
+          Our group leader{leaders.length > 1 ? 's are ' : ' is '}
+          {leaders.map(function(item, i) {
+            return (
+              <span>
+              {i === 0 ? '' : i < leaders.length - 1 ? ', ' : ', and ' }
+              <a href={item.URL} key = {i} > {item.name}</a>
+              </span>);
+          })}
+        </p>
+      );
   }
 
-  function leader(leaderURL, leadertName) {
-    return (
-      <p>
-        Our Group leader is <a href={leaderURL}>{leadertName}</a>
-      </p>
-    );
+  function checkifempty(first) {
+    return !first.name || !first.name;
   }
-
-  function eventDiv(eventURL, eventName) {
-    return (
-      <p>
-        Visit our event calendar on <a href={eventURL}>{eventName}</a>
-      </p>
-    );
-  }
-
   return (
     <div>
-      <h1>{neighborhood !== 'undefined' ? neighborhood + ',' : ''}</h1>
-      <h1>{city !== 'undefined' ? city + ',' : ''}</h1>
-      <h1>{state !== 'undefined' ? state + ',' : ''}</h1>
-      <h1>{country !== 'undefined' ? country : ''}</h1>
+      {neighborhood ? <h1>{neighborhood + ','}</h1> : ''}
+      {city ? <h1>{city + ','}</h1> : ''}
+      {state ? <h1>{state + ','}</h1> : ''}
+      {country ? <h1>{country}</h1> : ''}
       <hr />
-      {socialURL !== 'undefined' || socialName !== 'undefined'
-        ? social(socialURL, socialName)
-        : ''}
-
-      {chatURL !== 'undefined' || chatName !== 'undefined'
-        ? chat(chatURL, chatName)
-        : ''}
-
-      {leaderURL !== 'undefined' || leaderName !== 'undefined'
-        ? leader(chatURL, chatName)
-        : ''}
-
-      {eventURL !== 'undefined' || eventName !== 'undefined'
-        ? eventDiv(chatURL, chatName)
-        : ''}
+      {social ? fillInfo('Join our ', social) : ''}
+      {chat ? fillInfo('Chat with us on ', chat) : ''}
+      {event ? fillInfo('Visit our event calendar on ', event) : ''}
+      {leaders ? leadersInfo(leaders) : ''}
       <hr />
     </div>
   );

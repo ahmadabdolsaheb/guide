@@ -13,13 +13,11 @@ function Breadcrumbs(props) {
     return null;
   }
 
-  console.log(path);
   const pathMap = path
     // remove leading and trailing slash
     .replace(/^[\/]+|[\/]+$/g, '')
     .split('/')
     .reduce((accu, current, i, pathArray) => {
-      console.log(current);
       const path =
         i !== 0 ? accu[pathArray[i - 1]].path + `/${current}` : `/${current}`;
       return {

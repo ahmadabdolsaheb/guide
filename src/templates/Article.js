@@ -33,27 +33,18 @@ class Article extends React.Component {
           fields: { slug },
           frontmatter: {
             title,
-            country,
-            state,
-            city,
-            neighborhood,
-            coordinates,
-            plusCode,
-            socialName,
-            socialURL,
-            chatName,
-            chatURL,
-            eventName,
-            eventURL,
-            leaderName,
-            leaderURL,
-            oldPhoto,
-            coverPhoto
+            location,
+            social,
+            chat,
+            event,
+            leaders,
+            photos
           }
         }
       },
       pageContext: { meta }
     } = this.props;
+
     return (
       <Layout>
         <Helmet>
@@ -78,28 +69,15 @@ class Article extends React.Component {
           <meta content={meta.featureImage} property='og:image' />
         </Helmet>
         <Breadcrumbs path={slug} />
-        {country ? (
+        { location ?
           <GroupInfo
-            country={country}
-            state={state}
-            city={city}
-            neighborhood={neighborhood}
-            coordinates={coordinates}
-            plusCode={plusCode}
-            socialName={socialName}
-            socialURL={socialURL}
-            chatName={chatName}
-            chatURL={chatURL}
-            eventName={eventName}
-            eventURL={eventURL}
-            leaderName={leaderName}
-            leaderURL={leaderURL}
-            oldPhoto={oldPhoto}
-            coverPhoto={coverPhoto}
-          />
-        ) : (
-          ''
-        )}
+            location={location}
+            social={social}
+            chat={chat}
+            event={event}
+            leaders={leaders}
+            photos={photos}
+          /> : ''}
         <article
           className='article'
           dangerouslySetInnerHTML={{ __html: html }}
@@ -128,22 +106,34 @@ export const pageQuery = graphql`
       }
       frontmatter {
         title
-        country
-        state
-        city
-        neighborhood
-        coordinates
-        plusCode
-        socialName
-        socialURL
-        chatName
-        chatURL
-        eventName
-        eventURL
-        leaderName
-        leaderURL
-        oldPhoto
-        coverPhoto
+        location {
+          country
+          state
+          city
+          neighborhood
+          coordinates
+          plusCode
+        }
+        social {
+          name
+          URL
+        }
+        chat {
+          name
+          URL
+        }
+        event {
+          name
+          URL
+        }
+        leaders {
+          name
+          URL
+        }
+        photos {
+          old
+          cover
+        }
       }
     }
   }

@@ -1,19 +1,25 @@
 ---
 title: neighborhood-1
-country: undefined
-state: undefined
-city: undefined
-neighborhood: One
-coordinates: undefined
-plusCode: undefined
-socialName: Facebook
-socialURL: undefined
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+location:
+  country: 
+  state: 
+  city: 
+  neighborhood: One
+  coordinates: 
+  plusCode: ''
+social:
+  name: Facebook page
+  URL: 
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

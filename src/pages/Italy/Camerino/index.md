@@ -1,19 +1,25 @@
 ---
 title: Camerino
-country: Italy
-state: undefined
-city: Camerino
-neighborhood: undefined
-coordinates: 43.135764, 13.068309
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.camerino
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+location:
+  country: Italy
+  state: 
+  city: Camerino
+  neighborhood: 
+  coordinates: 43.135764, 13.068309
+  plusCode: ''
+social:
+  name: Facebook page
+  URL: https://www.facebook.com/groups/free.code.camp.camerino
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

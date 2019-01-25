@@ -1,19 +1,25 @@
 ---
 title: Yangon
-country: Myanmar (Burma)
-state: undefined
-city: Yangon
-neighborhood: undefined
-coordinates: 39.78373, -100.445882
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.myanmar
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+location:
+  country: Myanmar (Burma)
+  state: 
+  city: Yangon
+  neighborhood: 
+  coordinates: 39.78373, -100.445882
+  plusCode: ''
+social:
+  name: Facebook page
+  URL: https://www.facebook.com/groups/free.code.camp.myanmar
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

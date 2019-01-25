@@ -1,19 +1,25 @@
 ---
 title: Cuttack
-country: India
-state: Odisha
-city: Cuttack
-neighborhood: undefined
-coordinates: 20.4686, 85.8792
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.cuttack
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+location:
+  country: India
+  state: Odisha
+  city: Cuttack
+  neighborhood: 
+  coordinates: 20.4686, 85.8792
+  plusCode: ''
+social:
+  name: Facebook page
+  URL: https://www.facebook.com/groups/free.code.camp.cuttack
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---
