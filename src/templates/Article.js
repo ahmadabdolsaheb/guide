@@ -31,15 +31,7 @@ class Article extends React.Component {
         markdownRemark: {
           html,
           fields: { slug },
-          frontmatter: {
-            title,
-            location,
-            social,
-            chat,
-            event,
-            leaders,
-            photos
-          }
+          frontmatter: { title, location, social, chat, event, leaders, photos }
         }
       },
       pageContext: { meta }
@@ -69,7 +61,7 @@ class Article extends React.Component {
           <meta content={meta.featureImage} property='og:image' />
         </Helmet>
         <Breadcrumbs path={slug} />
-        { location ?
+        {location ? (
           <GroupInfo
             location={location}
             social={social}
@@ -77,7 +69,10 @@ class Article extends React.Component {
             event={event}
             leaders={leaders}
             photos={photos}
-          /> : ''}
+          />
+        ) : (
+          ''
+        )}
         <article
           className='article'
           dangerouslySetInnerHTML={{ __html: html }}

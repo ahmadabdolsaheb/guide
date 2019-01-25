@@ -13,12 +13,7 @@ const propTypes = {
 
 function GroupInfo(props) {
   const {
-    location: {
-      country,
-      state,
-      city,
-      neighborhood
-    },
+    location: { country, state, city, neighborhood },
     social,
     chat,
     event,
@@ -26,27 +21,35 @@ function GroupInfo(props) {
   } = props;
 
   function fillInfo(text, item) {
-    if (checkifempty(item)) { return '';}
+    if (checkifempty(item)) {
+      return '';
+    }
     return (
       <p>
-         {text} <a href={item.URL}>{item.name}</a>.
+        {text} <a href={item.URL}>{item.name}</a>.
       </p>
     );
   }
   function leadersInfo(leaders) {
-      if (checkifempty(leaders)) { return '';}
-      return (
-        <p>
-          Our group leader{leaders.length > 1 ? 's are ' : ' is '}
-          {leaders.map(function(item, i) {
-            return (
-              <span>
-              {i === 0 ? '' : i < leaders.length - 1 ? ', ' : ', and ' }
-              <a href={item.URL} key = {i} > {item.name}</a>
-              </span>);
-          })}
-        </p>
-      );
+    if (checkifempty(leaders)) {
+      return '';
+    }
+    return (
+      <p>
+        Our group leader{leaders.length > 1 ? 's are ' : ' is '}
+        {leaders.map(function(item, i) {
+          return (
+            <span>
+              {i === 0 ? '' : i < leaders.length - 1 ? ', ' : ', and '}
+              <a href={item.URL} key={i}>
+                {' '}
+                {item.name}
+              </a>
+            </span>
+          );
+        })}
+      </p>
+    );
   }
 
   function checkifempty(first) {
