@@ -4,7 +4,7 @@ location:
   country: Canada
   state: British Columbia
   city: Victoria
-  neighborhood: 
+  neighborhood: ''
   coordinates: 48.428333, -123.364927
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Leeds
 location:
   country: England
-  state: 
+  state: ''
   city: Leeds
-  neighborhood: 
+  neighborhood: ''
   coordinates: 53.797419, -1.543794
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

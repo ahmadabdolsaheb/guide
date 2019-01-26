@@ -2,9 +2,9 @@
 title: Sampit
 location:
   country: Indonesia
-  state: 
+  state: ''
   city: Sampit
-  neighborhood: 
+  neighborhood: ''
   coordinates: 33.364056, -79.458672
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

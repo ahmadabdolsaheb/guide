@@ -4,7 +4,7 @@ location:
   country: China
   state: Shandong
   city: Linyi
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.554469, 14.825471
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

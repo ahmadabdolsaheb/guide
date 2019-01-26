@@ -2,9 +2,9 @@
 title: Rybinsk
 location:
   country: Russia
-  state: 
+  state: ''
   city: Rybinsk
-  neighborhood: 
+  neighborhood: ''
   coordinates: 58.050374, 38.834636
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

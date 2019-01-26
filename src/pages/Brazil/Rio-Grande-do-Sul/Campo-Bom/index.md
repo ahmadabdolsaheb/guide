@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Rio Grande do Sul
   city: Campo Bom
-  neighborhood: 
+  neighborhood: ''
   coordinates: -29.674694, -51.060601
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

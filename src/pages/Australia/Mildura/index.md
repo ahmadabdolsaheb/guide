@@ -2,9 +2,9 @@
 title: Mildura
 location:
   country: Australia
-  state: 
+  state: ''
   city: Mildura
-  neighborhood: 
+  neighborhood: ''
   coordinates: -34.184726, 142.162497
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

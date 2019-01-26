@@ -4,7 +4,7 @@ location:
   country: United States
   state: Delaware
   city: Lewes
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.7746, -75.1393
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

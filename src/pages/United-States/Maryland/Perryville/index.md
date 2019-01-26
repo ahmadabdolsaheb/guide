@@ -4,7 +4,7 @@ location:
   country: United States
   state: Maryland
   city: Perryville
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.72422, -89.86122
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

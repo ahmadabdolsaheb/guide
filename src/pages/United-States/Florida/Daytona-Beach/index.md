@@ -4,7 +4,7 @@ location:
   country: United States
   state: Florida
   city: Daytona Beach
-  neighborhood: 
+  neighborhood: ''
   coordinates: 29.210815, -81.022833
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

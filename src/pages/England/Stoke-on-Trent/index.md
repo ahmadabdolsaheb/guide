@@ -2,9 +2,9 @@
 title: Stoke-on-Trent
 location:
   country: England
-  state: 
+  state: ''
   city: Stoke-on-Trent
-  neighborhood: 
+  neighborhood: ''
   coordinates: 53.016201, -2.181261
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

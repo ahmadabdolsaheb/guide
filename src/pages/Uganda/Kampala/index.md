@@ -2,9 +2,9 @@
 title: Kampala
 location:
   country: Uganda
-  state: 
+  state: ''
   city: Kampala
-  neighborhood: 
+  neighborhood: ''
   coordinates: 0.317714, 32.581354
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

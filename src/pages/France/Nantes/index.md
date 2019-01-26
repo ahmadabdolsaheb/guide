@@ -2,9 +2,9 @@
 title: Nantes
 location:
   country: France
-  state: 
+  state: ''
   city: Nantes
-  neighborhood: 
+  neighborhood: ''
   coordinates: 47.218516, -1.560235
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

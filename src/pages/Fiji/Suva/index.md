@@ -2,9 +2,9 @@
 title: Suva
 location:
   country: Fiji
-  state: 
+  state: ''
   city: Suva
-  neighborhood: 
+  neighborhood: ''
   coordinates: -18.141588, 178.442166
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

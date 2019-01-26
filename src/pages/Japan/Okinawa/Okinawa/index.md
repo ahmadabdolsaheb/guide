@@ -4,7 +4,7 @@ location:
   country: Japan
   state: Okinawa
   city: Okinawa
-  neighborhood: 
+  neighborhood: ''
   coordinates: 26.338393, 127.806341
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

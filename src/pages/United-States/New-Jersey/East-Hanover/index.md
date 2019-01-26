@@ -4,7 +4,7 @@ location:
   country: United States
   state: New Jersey
   city: East Hanover
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.8201, -74.364873
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

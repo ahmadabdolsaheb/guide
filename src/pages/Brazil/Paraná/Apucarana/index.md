@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Paraná
   city: Apucarana
-  neighborhood: 
+  neighborhood: ''
   coordinates: -23.552533, -51.461076
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

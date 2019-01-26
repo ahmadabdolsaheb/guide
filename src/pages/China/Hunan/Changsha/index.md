@@ -4,7 +4,7 @@ location:
   country: China
   state: Hunan
   city: Changsha
-  neighborhood: 
+  neighborhood: ''
   coordinates: 28.187377, 112.983582
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

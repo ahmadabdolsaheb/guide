@@ -4,7 +4,7 @@ location:
   country: United States
   state: Wyoming
   city: Sheridan
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.797194, -106.956179
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

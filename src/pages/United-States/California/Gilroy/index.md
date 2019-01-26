@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Gilroy
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.006508, -121.563172
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

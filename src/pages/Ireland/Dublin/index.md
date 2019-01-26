@@ -2,9 +2,9 @@
 title: Dublin
 location:
   country: Ireland
-  state: 
+  state: ''
   city: Dublin
-  neighborhood: 
+  neighborhood: ''
   coordinates: 53.349765, -6.260273
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Penang
 location:
   country: Malaysia
-  state: 
+  state: ''
   city: Penang
-  neighborhood: 
+  neighborhood: ''
   coordinates: -7.810801, 113.993932
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

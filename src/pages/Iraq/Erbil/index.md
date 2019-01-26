@@ -2,9 +2,9 @@
 title: Erbil
 location:
   country: Iraq
-  state: 
+  state: ''
   city: Erbil
-  neighborhood: 
+  neighborhood: ''
   coordinates: 36.191142, 44.009565
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

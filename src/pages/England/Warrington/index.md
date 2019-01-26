@@ -2,9 +2,9 @@
 title: Warrington
 location:
   country: England
-  state: 
+  state: ''
   city: Warrington
-  neighborhood: 
+  neighborhood: ''
   coordinates: 53.407312, -2.596049
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

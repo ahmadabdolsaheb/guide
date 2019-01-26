@@ -2,9 +2,9 @@
 title: Tuebingen
 location:
   country: Germany
-  state: 
+  state: ''
   city: Tuebingen
-  neighborhood: 
+  neighborhood: ''
   coordinates: 48.523616, 9.053553
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

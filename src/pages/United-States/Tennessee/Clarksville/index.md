@@ -4,7 +4,7 @@ location:
   country: United States
   state: Tennessee
   city: Clarksville
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.296736, -85.759963
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

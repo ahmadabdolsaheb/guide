@@ -4,7 +4,7 @@ location:
   country: United States
   state: Texas
   city: Longview
-  neighborhood: 
+  neighborhood: ''
   coordinates: 32.500704, -94.740489
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

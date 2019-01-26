@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Bahia
   city: Salvador
-  neighborhood: 
+  neighborhood: ''
   coordinates: -12.981636, -38.482077
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

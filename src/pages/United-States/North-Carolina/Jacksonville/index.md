@@ -4,7 +4,7 @@ location:
   country: United States
   state: North Carolina
   city: Jacksonville
-  neighborhood: 
+  neighborhood: ''
   coordinates: 30.332184, -81.655651
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

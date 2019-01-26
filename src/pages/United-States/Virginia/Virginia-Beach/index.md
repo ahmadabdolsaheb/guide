@@ -4,7 +4,7 @@ location:
   country: United States
   state: Virginia
   city: Virginia Beach
-  neighborhood: 
+  neighborhood: ''
   coordinates: 36.852984, -75.977418
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

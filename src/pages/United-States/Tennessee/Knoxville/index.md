@@ -4,7 +4,7 @@ location:
   country: United States
   state: Tennessee
   city: Knoxville
-  neighborhood: 
+  neighborhood: ''
   coordinates: 35.960395, -83.921026
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

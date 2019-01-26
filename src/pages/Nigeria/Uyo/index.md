@@ -2,9 +2,9 @@
 title: Uyo
 location:
   country: Nigeria
-  state: 
+  state: ''
   city: Uyo
-  neighborhood: 
+  neighborhood: ''
   coordinates: 5.032245, 7.924791
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

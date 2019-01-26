@@ -2,9 +2,9 @@
 title: Ufa
 location:
   country: Russia
-  state: 
+  state: ''
   city: Ufa
-  neighborhood: 
+  neighborhood: ''
   coordinates: 54.726287, 55.947729
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

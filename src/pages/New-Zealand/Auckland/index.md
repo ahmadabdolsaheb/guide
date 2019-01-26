@@ -2,9 +2,9 @@
 title: Auckland
 location:
   country: New Zealand
-  state: 
+  state: ''
   city: Auckland
-  neighborhood: 
+  neighborhood: ''
   coordinates: -36.853466, 174.765551
   plusCode: ''
 social:

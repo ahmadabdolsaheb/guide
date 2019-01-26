@@ -2,9 +2,9 @@
 title: Karlovac
 location:
   country: Croatia
-  state: 
+  state: ''
   city: Karlovac
-  neighborhood: 
+  neighborhood: ''
   coordinates: 45.490545, 15.5483
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

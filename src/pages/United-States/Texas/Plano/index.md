@@ -4,7 +4,7 @@ location:
   country: United States
   state: Texas
   city: Plano
-  neighborhood: 
+  neighborhood: ''
   coordinates: 33.013676, -96.69251
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

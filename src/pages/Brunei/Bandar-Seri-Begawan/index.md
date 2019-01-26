@@ -2,9 +2,9 @@
 title: Bandar Seri Begawan
 location:
   country: Brunei
-  state: 
+  state: ''
   city: Bandar Seri Begawan
-  neighborhood: 
+  neighborhood: ''
   coordinates: 4.889545, 114.941757
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

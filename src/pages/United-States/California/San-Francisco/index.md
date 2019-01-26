@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: San Francisco
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.779277, -122.41927
   plusCode: ''
 social:

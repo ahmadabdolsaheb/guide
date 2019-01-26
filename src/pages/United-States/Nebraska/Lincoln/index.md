@@ -4,7 +4,7 @@ location:
   country: United States
   state: Nebraska
   city: Lincoln
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.8, -96.667821
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

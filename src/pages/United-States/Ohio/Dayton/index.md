@@ -4,7 +4,7 @@ location:
   country: United States
   state: Ohio
   city: Dayton
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.758948, -84.191607
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

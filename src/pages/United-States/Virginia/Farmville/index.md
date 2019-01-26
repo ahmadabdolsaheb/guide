@@ -4,7 +4,7 @@ location:
   country: United States
   state: Virginia
   city: Farmville
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.302097, -78.39194
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

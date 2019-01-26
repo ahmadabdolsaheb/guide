@@ -2,9 +2,9 @@
 title: Tizi Ouzou
 location:
   country: Algeria
-  state: 
+  state: ''
   city: Tizi Ouzou
-  neighborhood: 
+  neighborhood: ''
   coordinates: 36.713784, 4.049392
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

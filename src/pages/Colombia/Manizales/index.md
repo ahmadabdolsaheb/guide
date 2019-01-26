@@ -2,9 +2,9 @@
 title: Manizales
 location:
   country: Colombia
-  state: 
+  state: ''
   city: Manizales
-  neighborhood: 
+  neighborhood: ''
   coordinates: 5.064605, -75.49923
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

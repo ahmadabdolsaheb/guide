@@ -2,9 +2,9 @@
 title: Şanlıurfa
 location:
   country: Turkey
-  state: 
+  state: ''
   city: Şanlıurfa
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.160388, 38.790916
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

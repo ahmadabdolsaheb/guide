@@ -2,9 +2,9 @@
 title: Alicante
 location:
   country: Spain
-  state: 
+  state: ''
   city: Alicante
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.375649, -0.531437
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

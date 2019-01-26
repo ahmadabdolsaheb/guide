@@ -4,7 +4,7 @@ location:
   country: United States
   state: Michigan
   city: Flint
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.016193, -83.705521
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

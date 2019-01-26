@@ -2,9 +2,9 @@
 title: Struga
 location:
   country: Macedonia
-  state: 
+  state: ''
   city: Struga
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.177205, 20.683244
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

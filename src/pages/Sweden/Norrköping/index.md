@@ -2,9 +2,9 @@
 title: Norrköping
 location:
   country: Sweden
-  state: 
+  state: ''
   city: Norrköping
-  neighborhood: 
+  neighborhood: ''
   coordinates: 58.590912, 16.190351
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

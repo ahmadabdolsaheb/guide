@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: San Luis Obispo
-  neighborhood: 
+  neighborhood: ''
   coordinates: 35.282753, -120.659616
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Gliwice
 location:
   country: Poland
-  state: 
+  state: ''
   city: Gliwice
-  neighborhood: 
+  neighborhood: ''
   coordinates: 50.294113, 18.665731
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

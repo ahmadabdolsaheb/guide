@@ -2,9 +2,9 @@
 title: Bangkok
 location:
   country: Thailand
-  state: 
+  state: ''
   city: Bangkok
-  neighborhood: 
+  neighborhood: ''
   coordinates: 13.754253, 100.493087
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

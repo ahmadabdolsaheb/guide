@@ -2,9 +2,9 @@
 title: Pavlovo
 location:
   country: Russia
-  state: 
+  state: ''
   city: Pavlovo
-  neighborhood: 
+  neighborhood: ''
   coordinates: 55.965139, 43.071114
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

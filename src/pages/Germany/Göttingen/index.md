@@ -2,9 +2,9 @@
 title: Göttingen
 location:
   country: Germany
-  state: 
+  state: ''
   city: Göttingen
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.53276, 9.935205
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

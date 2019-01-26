@@ -4,7 +4,7 @@ location:
   country: Algeria
   state: Mila
   city: Mila
-  neighborhood: 
+  neighborhood: ''
   coordinates: 36.4512, 6.2535
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

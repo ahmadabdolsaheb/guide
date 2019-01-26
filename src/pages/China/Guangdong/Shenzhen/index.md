@@ -4,7 +4,7 @@ location:
   country: China
   state: Guangdong
   city: Shenzhen
-  neighborhood: 
+  neighborhood: ''
   coordinates: 22.544267, 114.054533
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

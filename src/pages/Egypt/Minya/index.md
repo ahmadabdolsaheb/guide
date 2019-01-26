@@ -2,9 +2,9 @@
 title: Minya
 location:
   country: Egypt
-  state: 
+  state: ''
   city: Minya
-  neighborhood: 
+  neighborhood: ''
   coordinates: 4.871704, 7.782762
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

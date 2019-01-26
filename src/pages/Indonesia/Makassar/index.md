@@ -2,9 +2,9 @@
 title: Makassar
 location:
   country: Indonesia
-  state: 
+  state: ''
   city: Makassar
-  neighborhood: 
+  neighborhood: ''
   coordinates: -5.134296, 119.412428
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

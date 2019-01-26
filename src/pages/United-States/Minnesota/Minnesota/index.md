@@ -4,7 +4,7 @@ location:
   country: United States
   state: Minnesota
   city: Minnesota
-  neighborhood: 
+  neighborhood: ''
   coordinates: 46.489831, -94.584065
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

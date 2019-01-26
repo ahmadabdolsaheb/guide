@@ -4,7 +4,7 @@ location:
   country: United States
   state: Ohio
   city: Cincinnati
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.101454, -84.51246
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

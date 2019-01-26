@@ -2,9 +2,9 @@
 title: Klaipėda
 location:
   country: Lithuania
-  state: 
+  state: ''
   city: Klaipėda
-  neighborhood: 
+  neighborhood: ''
   coordinates: 55.710121, 21.130698
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

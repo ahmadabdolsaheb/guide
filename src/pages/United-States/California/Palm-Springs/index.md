@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Palm Springs
-  neighborhood: 
+  neighborhood: ''
   coordinates: 33.834528, -116.538947
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Guildford
 location:
   country: England
-  state: 
+  state: ''
   city: Guildford
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.236813, -0.570517
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

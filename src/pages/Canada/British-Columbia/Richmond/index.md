@@ -4,7 +4,7 @@ location:
   country: Canada
   state: British Columbia
   city: Richmond
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.538509, -77.43428
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

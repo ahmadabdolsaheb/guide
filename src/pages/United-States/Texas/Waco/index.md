@@ -4,7 +4,7 @@ location:
   country: United States
   state: Texas
   city: Waco
-  neighborhood: 
+  neighborhood: ''
   coordinates: 31.549333, -97.146669
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

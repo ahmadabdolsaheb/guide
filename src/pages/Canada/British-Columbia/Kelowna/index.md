@@ -4,7 +4,7 @@ location:
   country: Canada
   state: British Columbia
   city: Kelowna
-  neighborhood: 
+  neighborhood: ''
   coordinates: 49.887663, -119.496161
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

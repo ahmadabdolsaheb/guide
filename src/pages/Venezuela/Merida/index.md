@@ -2,9 +2,9 @@
 title: Merida
 location:
   country: Venezuela
-  state: 
+  state: ''
   city: Merida
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.917467, -6.344398
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

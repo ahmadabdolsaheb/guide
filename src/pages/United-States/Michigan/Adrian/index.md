@@ -4,7 +4,7 @@ location:
   country: United States
   state: Michigan
   city: Adrian
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.897547, -84.037166
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

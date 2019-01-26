@@ -2,9 +2,9 @@
 title: Viseu
 location:
   country: Portugal
-  state: 
+  state: ''
   city: Viseu
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.657471, -7.913866
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

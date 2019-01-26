@@ -4,7 +4,7 @@ location:
   country: Canada
   state: British Columbia
   city: Abbotsford
-  neighborhood: 
+  neighborhood: ''
   coordinates: 49.05, -122.3
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

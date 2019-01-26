@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Piauí
   city: Teresina
-  neighborhood: 
+  neighborhood: ''
   coordinates: -5.08964, -42.809588
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

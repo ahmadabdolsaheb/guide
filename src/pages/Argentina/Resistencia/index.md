@@ -2,9 +2,9 @@
 title: Resistencia
 location:
   country: Argentina
-  state: 
+  state: ''
   city: Resistencia
-  neighborhood: 
+  neighborhood: ''
   coordinates: -27.451104, -58.986565
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

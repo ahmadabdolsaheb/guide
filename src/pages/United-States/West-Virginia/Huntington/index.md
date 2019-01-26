@@ -4,7 +4,7 @@ location:
   country: United States
   state: West Virginia
   city: Huntington
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.41925, -82.445154
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

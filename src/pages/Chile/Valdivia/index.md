@@ -2,9 +2,9 @@
 title: Valdivia
 location:
   country: Chile
-  state: 
+  state: ''
   city: Valdivia
-  neighborhood: 
+  neighborhood: ''
   coordinates: -39.814196, -73.245852
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

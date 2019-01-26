@@ -4,7 +4,7 @@ location:
   country: United States
   state: New Jersey
   city: Union
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.6975898,-74.26316349999999
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

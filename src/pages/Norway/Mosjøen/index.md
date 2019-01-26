@@ -2,9 +2,9 @@
 title: Mosjøen
 location:
   country: Norway
-  state: 
+  state: ''
   city: Mosjøen
-  neighborhood: 
+  neighborhood: ''
   coordinates: 65.837654, 13.194319
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

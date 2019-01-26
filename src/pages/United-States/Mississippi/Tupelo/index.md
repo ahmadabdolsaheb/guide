@@ -4,7 +4,7 @@ location:
   country: United States
   state: Mississippi
   city: Tupelo
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.263462, -88.725027
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: Wisconsin
   city: Kenosha
-  neighborhood: 
+  neighborhood: ''
   coordinates: 42.584677, -87.821226
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

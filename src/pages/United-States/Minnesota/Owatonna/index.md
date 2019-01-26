@@ -4,7 +4,7 @@ location:
   country: United States
   state: Minnesota
   city: Owatonna
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.083994, -93.226108
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

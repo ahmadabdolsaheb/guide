@@ -2,9 +2,9 @@
 title: Ioannina
 location:
   country: Greece
-  state: 
+  state: ''
   city: Ioannina
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.663982, 20.852278
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

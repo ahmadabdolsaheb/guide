@@ -2,9 +2,9 @@
 title: Davao
 location:
   country: Philippines
-  state: 
+  state: ''
   city: Davao
-  neighborhood: 
+  neighborhood: ''
   coordinates: 7.063976, 125.60831
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

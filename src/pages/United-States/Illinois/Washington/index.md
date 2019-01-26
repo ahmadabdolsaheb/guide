@@ -4,7 +4,7 @@ location:
   country: United States
   state: Illinois
   city: Washington
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.894955, -77.036646
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

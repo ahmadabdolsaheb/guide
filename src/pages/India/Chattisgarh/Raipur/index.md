@@ -4,7 +4,7 @@ location:
   country: India
   state: Chattisgarh
   city: Raipur
-  neighborhood: 
+  neighborhood: ''
   coordinates: 22.802478, 86.946539
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

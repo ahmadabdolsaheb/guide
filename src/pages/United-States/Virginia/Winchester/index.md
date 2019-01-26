@@ -4,7 +4,7 @@ location:
   country: United States
   state: Virginia
   city: Winchester
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.185776, -78.163143
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Turlock
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.494657, -120.846594
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

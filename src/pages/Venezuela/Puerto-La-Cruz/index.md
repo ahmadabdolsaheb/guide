@@ -2,9 +2,9 @@
 title: Puerto La Cruz
 location:
   country: Venezuela
-  state: 
+  state: ''
   city: Puerto La Cruz
-  neighborhood: 
+  neighborhood: ''
   coordinates: 28.415902, -16.553296
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

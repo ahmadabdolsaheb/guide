@@ -4,7 +4,7 @@ location:
   country: Canada
   state: Québec
   city: Montreal
-  neighborhood: 
+  neighborhood: ''
   coordinates: 45.522451, -73.591283
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

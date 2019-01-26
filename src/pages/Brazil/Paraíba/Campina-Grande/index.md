@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Paraíba
   city: Campina Grande
-  neighborhood: 
+  neighborhood: ''
   coordinates: -7.224674, -35.877129
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

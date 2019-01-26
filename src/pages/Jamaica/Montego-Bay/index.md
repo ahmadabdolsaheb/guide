@@ -2,9 +2,9 @@
 title: Montego Bay
 location:
   country: Jamaica
-  state: 
+  state: ''
   city: Montego Bay
-  neighborhood: 
+  neighborhood: ''
   coordinates: 18.47246, -77.921736
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

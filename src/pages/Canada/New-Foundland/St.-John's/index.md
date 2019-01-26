@@ -4,7 +4,7 @@ location:
   country: Canada
   state: New Foundland
   city: St. John's
-  neighborhood: 
+  neighborhood: ''
   coordinates: 47.561485, -52.712584
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

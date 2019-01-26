@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Santa Catarina
   city: Florianópolis
-  neighborhood: 
+  neighborhood: ''
   coordinates: -27.5973, -48.54961
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

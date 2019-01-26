@@ -2,9 +2,9 @@
 title: Cape Town
 location:
   country: South Africa
-  state: 
+  state: ''
   city: Cape Town
-  neighborhood: 
+  neighborhood: ''
   coordinates: -33.928992, 18.417396
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

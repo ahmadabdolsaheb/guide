@@ -2,9 +2,9 @@
 title: Lappeenranta
 location:
   country: Finland
-  state: 
+  state: ''
   city: Lappeenranta
-  neighborhood: 
+  neighborhood: ''
   coordinates: 61.058242, 28.18753
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

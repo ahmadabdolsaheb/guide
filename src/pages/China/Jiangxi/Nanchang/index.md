@@ -4,7 +4,7 @@ location:
   country: China
   state: Jiangxi
   city: Nanchang
-  neighborhood: 
+  neighborhood: ''
   coordinates: 23.6175, 120.539722
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

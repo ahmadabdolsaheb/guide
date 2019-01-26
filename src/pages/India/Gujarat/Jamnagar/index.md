@@ -4,7 +4,7 @@ location:
   country: India
   state: Gujarat
   city: Jamnagar
-  neighborhood: 
+  neighborhood: ''
   coordinates: 22.473242, 70.055224
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

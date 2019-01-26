@@ -4,7 +4,7 @@ location:
   country: South Korea
   state: Chungcheongnam
   city: Sejong
-  neighborhood: 
+  neighborhood: ''
   coordinates: -62.223111, -58.787056
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

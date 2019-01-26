@@ -2,9 +2,9 @@
 title: Pitesti
 location:
   country: Romania
-  state: 
+  state: ''
   city: Pitesti
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.857234, 24.871942
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

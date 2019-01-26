@@ -2,9 +2,9 @@
 title: Mount Darwin
 location:
   country: Zimbabwe
-  state: 
+  state: ''
   city: Mount Darwin
-  neighborhood: 
+  neighborhood: ''
   coordinates: -16.774303, 31.582812
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

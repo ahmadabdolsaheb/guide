@@ -2,9 +2,9 @@
 title: Tunis
 location:
   country: Tunisia
-  state: 
+  state: ''
   city: Tunis
-  neighborhood: 
+  neighborhood: ''
   coordinates: 36.800108, 10.184794
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Wollongong
 location:
   country: Australia
-  state: 
+  state: ''
   city: Wollongong
-  neighborhood: 
+  neighborhood: ''
   coordinates: -34.424394, 150.89385
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

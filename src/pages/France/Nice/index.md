@@ -2,9 +2,9 @@
 title: Nice
 location:
   country: France
-  state: 
+  state: ''
   city: Nice
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.700936, 7.268391
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Palermo
 location:
   country: Italy
-  state: 
+  state: ''
   city: Palermo
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.11127, 13.353442
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

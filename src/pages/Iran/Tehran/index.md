@@ -2,9 +2,9 @@
 title: Tehran
 location:
   country: Iran
-  state: 
+  state: ''
   city: Tehran
-  neighborhood: 
+  neighborhood: ''
   coordinates: 35.686172, 51.422352
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

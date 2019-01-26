@@ -2,9 +2,9 @@
 title: Preveza
 location:
   country: Greece
-  state: 
+  state: ''
   city: Preveza
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.958996, 20.74967
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Halle
 location:
   country: Germany
-  state: 
+  state: ''
   city: Halle
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.482504, 11.970545
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

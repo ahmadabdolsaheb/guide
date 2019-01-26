@@ -2,9 +2,9 @@
 title: Forchheim
 location:
   country: Germany
-  state: 
+  state: ''
   city: Forchheim
-  neighborhood: 
+  neighborhood: ''
   coordinates: 49.718713, 11.059642
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

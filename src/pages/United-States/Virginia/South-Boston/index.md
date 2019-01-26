@@ -4,7 +4,7 @@ location:
   country: United States
   state: Virginia
   city: South Boston
-  neighborhood: 
+  neighborhood: ''
   coordinates: 36.698749, -78.901399
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

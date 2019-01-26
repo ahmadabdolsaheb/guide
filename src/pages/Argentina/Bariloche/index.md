@@ -2,9 +2,9 @@
 title: Bariloche
 location:
   country: Argentina
-  state: 
+  state: ''
   city: Bariloche
-  neighborhood: 
+  neighborhood: ''
   coordinates: -41.133467, -71.309994
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

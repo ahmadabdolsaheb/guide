@@ -4,7 +4,7 @@ location:
   country: United States
   state: Virginia
   city: Leesburg
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.11545, -77.564545
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

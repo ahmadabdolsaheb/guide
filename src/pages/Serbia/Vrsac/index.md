@@ -2,9 +2,9 @@
 title: Vrsac
 location:
   country: Serbia
-  state: 
+  state: ''
   city: Vrsac
-  neighborhood: 
+  neighborhood: ''
   coordinates: 45.118613, 21.300618
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

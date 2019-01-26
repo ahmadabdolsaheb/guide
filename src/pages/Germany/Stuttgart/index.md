@@ -2,9 +2,9 @@
 title: Stuttgart
 location:
   country: Germany
-  state: 
+  state: ''
   city: Stuttgart
-  neighborhood: 
+  neighborhood: ''
   coordinates: 48.778449, 9.180013
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

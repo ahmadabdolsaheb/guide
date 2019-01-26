@@ -2,9 +2,9 @@
 title: Castellón
 location:
   country: Spain
-  state: 
+  state: ''
   city: Castellón
-  neighborhood: 
+  neighborhood: ''
   coordinates: 8.382974, -72.200065
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

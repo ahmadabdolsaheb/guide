@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Paraná
   city: Curitiba
-  neighborhood: 
+  neighborhood: ''
   coordinates: -25.428693, -49.272373
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

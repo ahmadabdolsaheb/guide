@@ -4,7 +4,7 @@ location:
   country: United States
   state: New Jersey
   city: Toms River
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.953736, -74.197958
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

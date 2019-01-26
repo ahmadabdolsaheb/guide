@@ -4,7 +4,7 @@ location:
   country: Canada
   state: Nova Scotia
   city: Bridgewater
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.372027, -64.520771
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

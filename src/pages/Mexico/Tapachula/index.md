@@ -2,9 +2,9 @@
 title: Tapachula
 location:
   country: Mexico
-  state: 
+  state: ''
   city: Tapachula
-  neighborhood: 
+  neighborhood: ''
   coordinates: 14.909941, -92.264971
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

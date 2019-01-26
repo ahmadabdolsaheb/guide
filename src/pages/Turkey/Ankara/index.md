@@ -2,9 +2,9 @@
 title: Ankara
 location:
   country: Turkey
-  state: 
+  state: ''
   city: Ankara
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.922073, 32.853758
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

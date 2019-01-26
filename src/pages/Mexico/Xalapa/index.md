@@ -2,9 +2,9 @@
 title: Xalapa
 location:
   country: Mexico
-  state: 
+  state: ''
   city: Xalapa
-  neighborhood: 
+  neighborhood: ''
   coordinates: 19.527409, -96.923879
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

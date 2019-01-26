@@ -2,9 +2,9 @@
 title: Kimberley
 location:
   country: South Africa
-  state: 
+  state: ''
   city: Kimberley
-  neighborhood: 
+  neighborhood: ''
   coordinates: -28.738301, 24.764225
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Mato Grosso do Sul
   city: Campo Grande
-  neighborhood: 
+  neighborhood: ''
   coordinates: -20.464017, -54.616295
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

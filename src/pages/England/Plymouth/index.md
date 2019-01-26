@@ -2,9 +2,9 @@
 title: Plymouth
 location:
   country: England
-  state: 
+  state: ''
   city: Plymouth
-  neighborhood: 
+  neighborhood: ''
   coordinates: 50.371266, -4.142566
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Surigao
 location:
   country: Philippines
-  state: 
+  state: ''
   city: Surigao
-  neighborhood: 
+  neighborhood: ''
   coordinates: 9.791643, 125.492927
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

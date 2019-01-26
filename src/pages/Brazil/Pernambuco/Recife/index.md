@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Pernambuco
   city: Recife
-  neighborhood: 
+  neighborhood: ''
   coordinates: -8.064193, -34.878152
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

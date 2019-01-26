@@ -2,9 +2,9 @@
 title: Tallinn
 location:
   country: Estonia
-  state: 
+  state: ''
   city: Tallinn
-  neighborhood: 
+  neighborhood: ''
   coordinates: 59.437216, 24.745369
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

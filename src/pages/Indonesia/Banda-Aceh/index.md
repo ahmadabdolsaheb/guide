@@ -2,9 +2,9 @@
 title: Banda Aceh
 location:
   country: Indonesia
-  state: 
+  state: ''
   city: Banda Aceh
-  neighborhood: 
+  neighborhood: ''
   coordinates: 5.552846, 95.319291
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: Canada
   state: Alberta
   city: Canmore
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.08669, -115.348113
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Tarlac City
 location:
   country: Philippines
-  state: 
+  state: ''
   city: Tarlac City
-  neighborhood: 
+  neighborhood: ''
   coordinates: 15.477597, 120.594409
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

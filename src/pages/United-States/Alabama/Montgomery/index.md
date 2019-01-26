@@ -4,7 +4,7 @@ location:
   country: United States
   state: Alabama
   city: Montgomery
-  neighborhood: 
+  neighborhood: ''
   coordinates: 32.366966, -86.300648
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

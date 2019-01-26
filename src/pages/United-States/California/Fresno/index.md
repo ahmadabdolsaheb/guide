@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Fresno
-  neighborhood: 
+  neighborhood: ''
   coordinates: 36.748793, -119.71484
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

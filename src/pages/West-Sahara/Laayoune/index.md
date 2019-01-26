@@ -2,9 +2,9 @@
 title: Laayoune
 location:
   country: West Sahara
-  state: 
+  state: ''
   city: Laayoune
-  neighborhood: 
+  neighborhood: ''
   coordinates: 27.154512, -13.195392
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

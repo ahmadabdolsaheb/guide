@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Cerritos
-  neighborhood: 
+  neighborhood: ''
   coordinates: 33.864429, -118.053932
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

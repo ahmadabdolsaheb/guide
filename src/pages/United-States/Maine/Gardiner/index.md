@@ -4,7 +4,7 @@ location:
   country: United States
   state: Maine
   city: Gardiner
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.23007, -69.775322
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

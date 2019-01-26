@@ -4,7 +4,7 @@ location:
   country: United States
   state: Ohio
   city: Youngstown
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.09978, -80.649519
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

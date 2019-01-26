@@ -2,9 +2,9 @@
 title: Quito
 location:
   country: Ecuador
-  state: 
+  state: ''
   city: Quito
-  neighborhood: 
+  neighborhood: ''
   coordinates: -0.155388, -78.486231
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

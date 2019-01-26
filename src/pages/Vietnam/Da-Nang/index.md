@@ -2,9 +2,9 @@
 title: Da Nang
 location:
   country: Vietnam
-  state: 
+  state: ''
   city: Da Nang
-  neighborhood: 
+  neighborhood: ''
   coordinates: 20.914006, 106.675453
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

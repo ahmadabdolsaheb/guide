@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: San Clemente
-  neighborhood: 
+  neighborhood: ''
   coordinates: 33.427028, -117.612418
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

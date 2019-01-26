@@ -2,9 +2,9 @@
 title: Rangpur
 location:
   country: Bangladesh
-  state: 
+  state: ''
   city: Rangpur
-  neighborhood: 
+  neighborhood: ''
   coordinates: 25.76531, 89.232211
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

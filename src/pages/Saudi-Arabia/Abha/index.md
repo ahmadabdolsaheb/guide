@@ -2,9 +2,9 @@
 title: Abha
 location:
   country: Saudi Arabia
-  state: 
+  state: ''
   city: Abha
-  neighborhood: 
+  neighborhood: ''
   coordinates: 18.216428, 42.50436
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

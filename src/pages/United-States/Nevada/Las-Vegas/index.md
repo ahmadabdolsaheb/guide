@@ -4,7 +4,7 @@ location:
   country: United States
   state: Nevada
   city: Las Vegas
-  neighborhood: 
+  neighborhood: ''
   coordinates: 36.166286, -115.149225
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

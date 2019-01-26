@@ -4,7 +4,7 @@ location:
   country: United States
   state: Connecticut
   city: Bridgeport
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.167041, -73.204835
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

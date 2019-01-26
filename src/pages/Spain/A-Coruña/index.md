@@ -2,9 +2,9 @@
 title: A Coruña
 location:
   country: Spain
-  state: 
+  state: ''
   city: A Coruña
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.371209, -8.395877
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

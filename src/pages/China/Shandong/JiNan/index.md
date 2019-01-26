@@ -4,7 +4,7 @@ location:
   country: China
   state: Shandong
   city: JiNan
-  neighborhood: 
+  neighborhood: ''
   coordinates: 36.650701, 117.114004
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

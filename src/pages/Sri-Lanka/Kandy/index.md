@@ -2,9 +2,9 @@
 title: Kandy
 location:
   country: Sri Lanka
-  state: 
+  state: ''
   city: Kandy
-  neighborhood: 
+  neighborhood: ''
   coordinates: 7.293092, 80.635077
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Monrovia
 location:
   country: Liberia
-  state: 
+  state: ''
   city: Monrovia
-  neighborhood: 
+  neighborhood: ''
   coordinates: 6.328034, -10.797788
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

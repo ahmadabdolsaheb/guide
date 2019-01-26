@@ -2,9 +2,9 @@
 title: Aveiro
 location:
   country: Portugal
-  state: 
+  state: ''
   city: Aveiro
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.640496, -8.653784
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

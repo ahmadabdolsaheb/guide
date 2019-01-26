@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Fullerton
-  neighborhood: 
+  neighborhood: ''
   coordinates: 33.8703645,-117.9242123
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

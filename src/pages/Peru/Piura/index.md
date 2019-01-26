@@ -2,9 +2,9 @@
 title: Piura
 location:
   country: Peru
-  state: 
+  state: ''
   city: Piura
-  neighborhood: 
+  neighborhood: ''
   coordinates: -5.194902, -80.6323
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

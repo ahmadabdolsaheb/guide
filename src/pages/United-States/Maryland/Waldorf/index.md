@@ -4,7 +4,7 @@ location:
   country: United States
   state: Maryland
   city: Waldorf
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.626388, -76.910658
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

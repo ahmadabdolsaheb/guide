@@ -2,9 +2,9 @@
 title: Jagodina
 location:
   country: Serbia
-  state: 
+  state: ''
   city: Jagodina
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.979426, 21.260769
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Ostrava
 location:
   country: Czech Republic
-  state: 
+  state: ''
   city: Ostrava
-  neighborhood: 
+  neighborhood: ''
   coordinates: 49.834914, 18.282008
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: León
 location:
   country: Mexico
-  state: 
+  state: ''
   city: León
-  neighborhood: 
+  neighborhood: ''
   coordinates: 42.599126, -5.567319
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

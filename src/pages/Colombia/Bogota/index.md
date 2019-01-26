@@ -2,9 +2,9 @@
 title: Bogota
 location:
   country: Colombia
-  state: 
+  state: ''
   city: Bogota
-  neighborhood: 
+  neighborhood: ''
   coordinates: 4.598048, -74.076087
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

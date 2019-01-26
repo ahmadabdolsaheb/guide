@@ -2,9 +2,9 @@
 title: Abu Dhabi
 location:
   country: United Arab Emirates
-  state: 
+  state: ''
   city: Abu Dhabi
-  neighborhood: 
+  neighborhood: ''
   coordinates: 24.474796, 54.370576
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

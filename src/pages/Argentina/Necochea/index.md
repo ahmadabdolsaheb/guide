@@ -2,9 +2,9 @@
 title: Necochea
 location:
   country: Argentina
-  state: 
+  state: ''
   city: Necochea
-  neighborhood: 
+  neighborhood: ''
   coordinates: -38.566643, -58.729937
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Ciudad del Este
 location:
   country: Paraguay
-  state: 
+  state: ''
   city: Ciudad del Este
-  neighborhood: 
+  neighborhood: ''
   coordinates: -25.516901, -54.616864
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

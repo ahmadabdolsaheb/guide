@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Minas Gerais
   city: Montes Claros
-  neighborhood: 
+  neighborhood: ''
   coordinates: -16.727354, -43.871768
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: New Hampshire
   city: Rochester
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.157285, -77.615214
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

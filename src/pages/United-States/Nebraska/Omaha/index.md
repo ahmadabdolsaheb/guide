@@ -4,7 +4,7 @@ location:
   country: United States
   state: Nebraska
   city: Omaha
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.258732, -95.937873
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Stavropol
 location:
   country: Russia
-  state: 
+  state: ''
   city: Stavropol
-  neighborhood: 
+  neighborhood: ''
   coordinates: 45.043325, 41.969093
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

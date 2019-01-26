@@ -4,7 +4,7 @@ location:
   country: United States
   state: Oregon
   city: Eugene
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.101181, -123.152384
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

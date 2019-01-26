@@ -2,9 +2,9 @@
 title: Ponorogo
 location:
   country: Indonesia
-  state: 
+  state: ''
   city: Ponorogo
-  neighborhood: 
+  neighborhood: ''
   coordinates: -7.871214, 111.462269
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

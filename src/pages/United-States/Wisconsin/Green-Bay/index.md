@@ -4,7 +4,7 @@ location:
   country: United States
   state: Wisconsin
   city: Green Bay
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.529941, -88.024832
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

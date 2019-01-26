@@ -4,7 +4,7 @@ location:
   country: United States
   state: Illinois
   city: Effingham
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.1200418,-88.5433829
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

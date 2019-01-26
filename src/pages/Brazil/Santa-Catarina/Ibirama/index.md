@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Santa Catarina
   city: Ibirama
-  neighborhood: 
+  neighborhood: ''
   coordinates: -27.054349, -49.517312
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: China
   state: Hubei
   city: Wuhan
-  neighborhood: 
+  neighborhood: ''
   coordinates: 30.596021, 114.29928
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

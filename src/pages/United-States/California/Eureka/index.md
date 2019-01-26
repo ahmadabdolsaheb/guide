@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Eureka
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.802071, -124.163673
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

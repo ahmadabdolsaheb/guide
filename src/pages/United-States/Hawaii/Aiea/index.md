@@ -4,7 +4,7 @@ location:
   country: United States
   state: Hawaii
   city: Aiea
-  neighborhood: 
+  neighborhood: ''
   coordinates: 21.386338,-157.9255357
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

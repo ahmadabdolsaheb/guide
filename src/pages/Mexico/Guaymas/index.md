@@ -2,9 +2,9 @@
 title: Guaymas
 location:
   country: Mexico
-  state: 
+  state: ''
   city: Guaymas
-  neighborhood: 
+  neighborhood: ''
   coordinates: 27.921644, -110.899406
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

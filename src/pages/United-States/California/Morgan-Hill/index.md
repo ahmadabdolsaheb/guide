@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Morgan Hill
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.130408, -121.654497
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

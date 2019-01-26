@@ -4,7 +4,7 @@ location:
   country: United States
   state: Washington
   city: Lynnwood
-  neighborhood: 
+  neighborhood: ''
   coordinates: 47.827866, -122.305393
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Siena
 location:
   country: Italy
-  state: 
+  state: ''
   city: Siena
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.318554, 11.331653
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

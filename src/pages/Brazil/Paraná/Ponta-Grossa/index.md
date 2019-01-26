@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Paraná
   city: Ponta Grossa
-  neighborhood: 
+  neighborhood: ''
   coordinates: -25.089168, -50.160181
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Mendoza
 location:
   country: Argentina
-  state: 
+  state: ''
   city: Mendoza
-  neighborhood: 
+  neighborhood: ''
   coordinates: -32.889729, -68.844296
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

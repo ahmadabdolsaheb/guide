@@ -4,7 +4,7 @@ location:
   country: Kyrgyzstan
   state: Chuy
   city: Bishkek
-  neighborhood: 
+  neighborhood: ''
   coordinates: 42.8746212,74.5697617
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

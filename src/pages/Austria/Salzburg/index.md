@@ -2,9 +2,9 @@
 title: Salzburg
 location:
   country: Austria
-  state: 
+  state: ''
   city: Salzburg
-  neighborhood: 
+  neighborhood: ''
   coordinates: 47.798135, 13.046481
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

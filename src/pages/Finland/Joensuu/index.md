@@ -2,9 +2,9 @@
 title: Joensuu
 location:
   country: Finland
-  state: 
+  state: ''
   city: Joensuu
-  neighborhood: 
+  neighborhood: ''
   coordinates: 62.600015, 29.766659
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

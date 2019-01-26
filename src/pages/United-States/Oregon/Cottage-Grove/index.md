@@ -4,7 +4,7 @@ location:
   country: United States
   state: Oregon
   city: Cottage Grove
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.827745, -92.943822
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

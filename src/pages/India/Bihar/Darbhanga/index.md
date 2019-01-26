@@ -4,7 +4,7 @@ location:
   country: India
   state: Bihar
   city: Darbhanga
-  neighborhood: 
+  neighborhood: ''
   coordinates: 26.156965, 85.899512
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

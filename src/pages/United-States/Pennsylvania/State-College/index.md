@@ -4,7 +4,7 @@ location:
   country: United States
   state: Pennsylvania
   city: State College
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.794026, -77.860697
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

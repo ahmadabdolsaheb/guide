@@ -4,7 +4,7 @@ location:
   country: United States
   state: Maryland
   city: Germantown
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.043445, -75.180177
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

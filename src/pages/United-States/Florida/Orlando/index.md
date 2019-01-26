@@ -4,7 +4,7 @@ location:
   country: United States
   state: Florida
   city: Orlando
-  neighborhood: 
+  neighborhood: ''
   coordinates: 28.542118, -81.379046
   plusCode: ''
 social:

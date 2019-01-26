@@ -2,9 +2,9 @@
 title: Souk Ahras
 location:
   country: Algeria
-  state: 
+  state: ''
   city: Souk Ahras
-  neighborhood: 
+  neighborhood: ''
   coordinates: 36.284832, 7.951547
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

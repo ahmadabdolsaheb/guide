@@ -2,9 +2,9 @@
 title: Subotica
 location:
   country: Serbia
-  state: 
+  state: ''
   city: Subotica
-  neighborhood: 
+  neighborhood: ''
   coordinates: 46.100013, 19.664097
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Cairo
 location:
   country: Egypt
-  state: 
+  state: ''
   city: Cairo
-  neighborhood: 
+  neighborhood: ''
   coordinates: 30.048819, 31.243666
   plusCode: ''
 social:

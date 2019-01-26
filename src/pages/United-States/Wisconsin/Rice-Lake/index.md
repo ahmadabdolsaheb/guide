@@ -4,7 +4,7 @@ location:
   country: United States
   state: Wisconsin
   city: Rice Lake
-  neighborhood: 
+  neighborhood: ''
   coordinates: 45.506068, -91.738225
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

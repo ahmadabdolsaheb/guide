@@ -4,7 +4,7 @@ location:
   country: United States
   state: Kentucky
   city: Louisville
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.254238, -85.759407
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

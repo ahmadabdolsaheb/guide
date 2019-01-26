@@ -2,9 +2,9 @@
 title: Paysandú
 location:
   country: Uruguay
-  state: 
+  state: ''
   city: Paysandú
-  neighborhood: 
+  neighborhood: ''
   coordinates: -32.321726, -58.089214
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Chelles
 location:
   country: France
-  state: 
+  state: ''
   city: Chelles
-  neighborhood: 
+  neighborhood: ''
   coordinates: 48.879742, 2.594213
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

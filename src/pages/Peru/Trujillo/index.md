@@ -2,9 +2,9 @@
 title: Trujillo
 location:
   country: Peru
-  state: 
+  state: ''
   city: Trujillo
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.46053, -5.881392
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

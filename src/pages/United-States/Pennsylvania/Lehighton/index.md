@@ -4,7 +4,7 @@ location:
   country: United States
   state: Pennsylvania
   city: Lehighton
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.833703, -75.713801
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: Netherlands
   state: Gelderland
   city: Ede
-  neighborhood: 
+  neighborhood: ''
   coordinates: 52.0401675,5.6648594
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: Kenya
   state: Uasin Gishu County
   city: Eldoret
-  neighborhood: 
+  neighborhood: ''
   coordinates: 0.5142774999999999,35.2697802
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

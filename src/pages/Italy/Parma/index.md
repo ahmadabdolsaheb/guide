@@ -2,9 +2,9 @@
 title: Parma
 location:
   country: Italy
-  state: 
+  state: ''
   city: Parma
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.801123, 10.328508
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

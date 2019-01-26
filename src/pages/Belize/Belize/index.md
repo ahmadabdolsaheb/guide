@@ -2,9 +2,9 @@
 title: Belize
 location:
   country: Belize
-  state: 
+  state: ''
   city: Belize
-  neighborhood: 
+  neighborhood: ''
   coordinates: 17.495212, -88.201744
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

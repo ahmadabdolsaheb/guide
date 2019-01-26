@@ -2,9 +2,9 @@
 title: Cali
 location:
   country: Colombia
-  state: 
+  state: ''
   city: Cali
-  neighborhood: 
+  neighborhood: ''
   coordinates: 3.431933, -76.511305
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

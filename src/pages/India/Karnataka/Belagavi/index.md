@@ -4,7 +4,7 @@ location:
   country: India
   state: Karnataka
   city: Belagavi
-  neighborhood: 
+  neighborhood: ''
   coordinates: 15.864675, 74.510584
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

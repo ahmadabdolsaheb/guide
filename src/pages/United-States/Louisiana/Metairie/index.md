@@ -4,7 +4,7 @@ location:
   country: United States
   state: Louisiana
   city: Metairie
-  neighborhood: 
+  neighborhood: ''
   coordinates: 30.001852, -90.176715
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

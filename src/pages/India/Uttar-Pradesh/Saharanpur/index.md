@@ -4,7 +4,7 @@ location:
   country: India
   state: Uttar Pradesh
   city: Saharanpur
-  neighborhood: 
+  neighborhood: ''
   coordinates: 29.963744, 77.542746
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: Morocco
   state: Oriental
   city: Oujda
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.681962,-1.900155
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

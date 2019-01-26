@@ -2,9 +2,9 @@
 title: Novokuznetsk
 location:
   country: Russia
-  state: 
+  state: ''
   city: Novokuznetsk
-  neighborhood: 
+  neighborhood: ''
   coordinates: 53.757608, 87.136098
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

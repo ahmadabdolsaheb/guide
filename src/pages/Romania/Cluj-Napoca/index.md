@@ -2,9 +2,9 @@
 title: Cluj-Napoca
 location:
   country: Romania
-  state: 
+  state: ''
   city: Cluj-Napoca
-  neighborhood: 
+  neighborhood: ''
   coordinates: 46.769337, 23.59006
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

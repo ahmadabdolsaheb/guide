@@ -4,7 +4,7 @@ location:
   country: United States
   state: Oregon
   city: Ontario
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.063344, -117.650888
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

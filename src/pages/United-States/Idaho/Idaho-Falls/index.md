@@ -4,7 +4,7 @@ location:
   country: United States
   state: Idaho
   city: Idaho Falls
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.493079, -112.044349
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

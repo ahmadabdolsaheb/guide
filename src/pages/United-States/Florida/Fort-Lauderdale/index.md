@@ -4,7 +4,7 @@ location:
   country: United States
   state: Florida
   city: Fort Lauderdale
-  neighborhood: 
+  neighborhood: ''
   coordinates: 26.122308, -80.143379
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

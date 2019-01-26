@@ -2,9 +2,9 @@
 title: Napoli
 location:
   country: Italy
-  state: 
+  state: ''
   city: Napoli
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.835934, 14.248783
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

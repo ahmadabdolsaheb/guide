@@ -2,9 +2,9 @@
 title: Biratnagar
 location:
   country: Nepal
-  state: 
+  state: ''
   city: Biratnagar
-  neighborhood: 
+  neighborhood: ''
   coordinates: 26.46171, 87.280811
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

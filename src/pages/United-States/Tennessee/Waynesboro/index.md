@@ -4,7 +4,7 @@ location:
   country: United States
   state: Tennessee
   city: Waynesboro
-  neighborhood: 
+  neighborhood: ''
   coordinates: 33.089873, -82.015674
   plusCode: ''
 social:

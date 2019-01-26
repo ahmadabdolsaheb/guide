@@ -4,7 +4,7 @@ location:
   country: Canada
   state: Ontario
   city: London
-  neighborhood: 
+  neighborhood: ''
   coordinates: 42.988097, -81.246029
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

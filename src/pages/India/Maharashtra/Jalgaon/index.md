@@ -4,7 +4,7 @@ location:
   country: India
   state: Maharashtra
   city: Jalgaon
-  neighborhood: 
+  neighborhood: ''
   coordinates: 20.996845, 75.56838
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

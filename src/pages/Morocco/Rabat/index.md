@@ -2,9 +2,9 @@
 title: Rabat
 location:
   country: Morocco
-  state: 
+  state: ''
   city: Rabat
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.022671, -6.83911
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

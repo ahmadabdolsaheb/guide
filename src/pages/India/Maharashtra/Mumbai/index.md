@@ -4,7 +4,7 @@ location:
   country: India
   state: Maharashtra
   city: Mumbai
-  neighborhood: 
+  neighborhood: ''
   coordinates: 18.95238, 72.832711
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

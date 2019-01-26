@@ -2,9 +2,9 @@
 title: Veracruz
 location:
   country: Mexico
-  state: 
+  state: ''
   city: Veracruz
-  neighborhood: 
+  neighborhood: ''
   coordinates: 19.20022, -96.138569
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

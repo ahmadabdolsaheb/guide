@@ -2,9 +2,9 @@
 title: Johor
 location:
   country: Malaysia
-  state: 
+  state: ''
   city: Johor
-  neighborhood: 
+  neighborhood: ''
   coordinates: 1.495304, 103.755084
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: Malaysia
   state: Kelantan
   city: Kota Bharu
-  neighborhood: 
+  neighborhood: ''
   coordinates: 6.125605, 102.239346
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

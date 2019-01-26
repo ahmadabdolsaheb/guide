@@ -2,9 +2,9 @@
 title: Chisinau
 location:
   country: Moldova
-  state: 
+  state: ''
   city: Chisinau
-  neighborhood: 
+  neighborhood: ''
   coordinates: 47.012274, 28.860594
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

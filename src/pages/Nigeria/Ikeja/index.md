@@ -2,9 +2,9 @@
 title: Ikeja
 location:
   country: Nigeria
-  state: 
+  state: ''
   city: Ikeja
-  neighborhood: 
+  neighborhood: ''
   coordinates: 6.596061, 3.340787
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

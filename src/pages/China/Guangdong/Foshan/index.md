@@ -4,7 +4,7 @@ location:
   country: China
   state: Guangdong
   city: Foshan
-  neighborhood: 
+  neighborhood: ''
   coordinates: 23.024917, 113.114617
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

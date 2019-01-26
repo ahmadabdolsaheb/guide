@@ -4,7 +4,7 @@ location:
   country: Japan
   state: Tokyo
   city: Tokyo
-  neighborhood: 
+  neighborhood: ''
   coordinates: 35.682838, 139.758967
   plusCode: ''
 social:

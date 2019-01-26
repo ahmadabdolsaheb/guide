@@ -2,9 +2,9 @@
 title: Lingen
 location:
   country: Germany
-  state: 
+  state: ''
   city: Lingen
-  neighborhood: 
+  neighborhood: ''
   coordinates: 52.522466, 7.316584
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Firenze
 location:
   country: Italy
-  state: 
+  state: ''
   city: Firenze
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.769871, 11.255576
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

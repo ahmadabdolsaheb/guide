@@ -4,7 +4,7 @@ location:
   country: Canada
   state: Alberta
   city: Calgary
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.053059, -114.062561
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

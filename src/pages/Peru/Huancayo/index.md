@@ -2,9 +2,9 @@
 title: Huancayo
 location:
   country: Peru
-  state: 
+  state: ''
   city: Huancayo
-  neighborhood: 
+  neighborhood: ''
   coordinates: -14.792951, -70.327172
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

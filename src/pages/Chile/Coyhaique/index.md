@@ -2,9 +2,9 @@
 title: Coyhaique
 location:
   country: Chile
-  state: 
+  state: ''
   city: Coyhaique
-  neighborhood: 
+  neighborhood: ''
   coordinates: -45.57118, -72.068486
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

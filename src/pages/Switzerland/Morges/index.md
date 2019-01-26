@@ -2,9 +2,9 @@
 title: Morges
 location:
   country: Switzerland
-  state: 
+  state: ''
   city: Morges
-  neighborhood: 
+  neighborhood: ''
   coordinates: 46.509327, 6.498317
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

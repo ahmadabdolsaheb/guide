@@ -4,7 +4,7 @@ location:
   country: India
   state: Madhya Pradesh
   city: Jabalpur
-  neighborhood: 
+  neighborhood: ''
   coordinates: 23.160938, 79.949717
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

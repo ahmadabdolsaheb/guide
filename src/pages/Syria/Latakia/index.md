@@ -2,9 +2,9 @@
 title: Latakia
 location:
   country: Syria
-  state: 
+  state: ''
   city: Latakia
-  neighborhood: 
+  neighborhood: ''
   coordinates: 35.520019, 35.778104
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: Texas
   city: Little Elm
-  neighborhood: 
+  neighborhood: ''
   coordinates: 33.1626193,-96.9375051
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

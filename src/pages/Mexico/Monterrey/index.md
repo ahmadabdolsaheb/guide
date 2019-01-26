@@ -2,9 +2,9 @@
 title: Monterrey
 location:
   country: Mexico
-  state: 
+  state: ''
   city: Monterrey
-  neighborhood: 
+  neighborhood: ''
   coordinates: 25.669657, -100.317819
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

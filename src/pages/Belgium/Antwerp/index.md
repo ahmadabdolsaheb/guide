@@ -2,9 +2,9 @@
 title: Antwerp
 location:
   country: Belgium
-  state: 
+  state: ''
   city: Antwerp
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.22111, 4.399708
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

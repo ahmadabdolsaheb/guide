@@ -2,9 +2,9 @@
 title: Almetyevsk
 location:
   country: Russia
-  state: 
+  state: ''
   city: Almetyevsk
-  neighborhood: 
+  neighborhood: ''
   coordinates: 54.89965, 52.301485
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: Israel
   state: North District
   city: Migdal HaEmek
-  neighborhood: 
+  neighborhood: ''
   coordinates: 32.6778114,35.2417497
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

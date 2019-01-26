@@ -2,9 +2,9 @@
 title: Bratislava
 location:
   country: Slovakia
-  state: 
+  state: ''
   city: Bratislava
-  neighborhood: 
+  neighborhood: ''
   coordinates: 48.153538, 17.109671
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

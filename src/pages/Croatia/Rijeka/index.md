@@ -2,9 +2,9 @@
 title: Rijeka
 location:
   country: Croatia
-  state: 
+  state: ''
   city: Rijeka
-  neighborhood: 
+  neighborhood: ''
   coordinates: 45.326936, 14.440984
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

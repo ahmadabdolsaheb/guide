@@ -2,9 +2,9 @@
 title: Ulaanbaatar
 location:
   country: Mongolia
-  state: 
+  state: ''
   city: Ulaanbaatar
-  neighborhood: 
+  neighborhood: ''
   coordinates: 47.918468, 106.917702
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

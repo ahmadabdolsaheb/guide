@@ -2,9 +2,9 @@
 title: Hull
 location:
   country: England
-  state: 
+  state: ''
   city: Hull
-  neighborhood: 
+  neighborhood: ''
   coordinates: 53.743572, -0.339476
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

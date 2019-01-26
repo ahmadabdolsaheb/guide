@@ -2,9 +2,9 @@
 title: Caracas
 location:
   country: Venezuela
-  state: 
+  state: ''
   city: Caracas
-  neighborhood: 
+  neighborhood: ''
   coordinates: 10.506098, -66.914602
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: São Paulo
   city: Riberão Preto
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.78373, -100.445882
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

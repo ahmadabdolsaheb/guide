@@ -4,7 +4,7 @@ location:
   country: United States
   state: Louisiana
   city: Lafayette
-  neighborhood: 
+  neighborhood: ''
   coordinates: 30.22409, -92.019843
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

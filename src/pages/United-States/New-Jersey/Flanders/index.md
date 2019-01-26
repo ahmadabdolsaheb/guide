@@ -4,7 +4,7 @@ location:
   country: United States
   state: New Jersey
   city: Flanders
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.845655, -74.694884
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

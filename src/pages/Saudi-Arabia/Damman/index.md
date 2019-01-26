@@ -2,9 +2,9 @@
 title: Damman
 location:
   country: Saudi Arabia
-  state: 
+  state: ''
   city: Damman
-  neighborhood: 
+  neighborhood: ''
   coordinates: 31.955891, 35.927154
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

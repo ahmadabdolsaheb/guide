@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Nevada County
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.269983, -121.026236
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

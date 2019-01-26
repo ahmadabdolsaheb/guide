@@ -4,7 +4,7 @@ location:
   country: United States
   state: Texas
   city: Sugar land
-  neighborhood: 
+  neighborhood: ''
   coordinates: 29.619679, -95.634946
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

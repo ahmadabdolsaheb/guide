@@ -4,7 +4,7 @@ location:
   country: United States
   state: Washington
   city: Everett
-  neighborhood: 
+  neighborhood: ''
   coordinates: 47.967306, -122.2014
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

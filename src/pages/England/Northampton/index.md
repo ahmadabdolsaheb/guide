@@ -2,9 +2,9 @@
 title: Northampton
 location:
   country: England
-  state: 
+  state: ''
   city: Northampton
-  neighborhood: 
+  neighborhood: ''
   coordinates: 52.238524, -0.902493
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

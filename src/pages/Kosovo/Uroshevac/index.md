@@ -2,9 +2,9 @@
 title: Uroshevac
 location:
   country: Kosovo
-  state: 
+  state: ''
   city: Uroshevac
-  neighborhood: 
+  neighborhood: ''
   coordinates: 42.3701844,21.1483281
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

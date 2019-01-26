@@ -2,9 +2,9 @@
 title: Southampton
 location:
   country: England
-  state: 
+  state: ''
   city: Southampton
-  neighborhood: 
+  neighborhood: ''
   coordinates: 50.902535, -1.404189
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

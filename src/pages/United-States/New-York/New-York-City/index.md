@@ -4,7 +4,7 @@ location:
   country: United States
   state: New York
   city: New York City
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.724579, -73.988898
   plusCode: ''
 social:

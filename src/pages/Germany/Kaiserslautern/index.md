@@ -2,9 +2,9 @@
 title: Kaiserslautern
 location:
   country: Germany
-  state: 
+  state: ''
   city: Kaiserslautern
-  neighborhood: 
+  neighborhood: ''
   coordinates: 49.443217, 7.768995
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

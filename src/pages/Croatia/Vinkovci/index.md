@@ -2,9 +2,9 @@
 title: Vinkovci
 location:
   country: Croatia
-  state: 
+  state: ''
   city: Vinkovci
-  neighborhood: 
+  neighborhood: ''
   coordinates: 45.287743, 18.800534
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

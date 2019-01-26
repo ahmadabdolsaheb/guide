@@ -2,9 +2,9 @@
 title: Douglas
 location:
   country: Isle of Man
-  state: 
+  state: ''
   city: Douglas
-  neighborhood: 
+  neighborhood: ''
   coordinates: 54.149774, -4.477902
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: Ohio
   city: Athens
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.984149, 23.727984
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

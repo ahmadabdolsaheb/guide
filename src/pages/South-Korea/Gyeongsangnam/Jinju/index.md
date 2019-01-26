@@ -4,7 +4,7 @@ location:
   country: South Korea
   state: Gyeongsangnam
   city: Jinju
-  neighborhood: 
+  neighborhood: ''
   coordinates: 35.180346, 128.107995
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

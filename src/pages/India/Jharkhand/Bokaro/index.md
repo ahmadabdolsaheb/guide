@@ -4,7 +4,7 @@ location:
   country: India
   state: Jharkhand
   city: Bokaro
-  neighborhood: 
+  neighborhood: ''
   coordinates: 23.654434, 86.145644
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

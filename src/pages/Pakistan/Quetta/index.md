@@ -2,9 +2,9 @@
 title: Quetta
 location:
   country: Pakistan
-  state: 
+  state: ''
   city: Quetta
-  neighborhood: 
+  neighborhood: ''
   coordinates: 30.189825, 67.019108
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

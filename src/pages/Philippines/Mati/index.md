@@ -2,9 +2,9 @@
 title: Mati
 location:
   country: Philippines
-  state: 
+  state: ''
   city: Mati
-  neighborhood: 
+  neighborhood: ''
   coordinates: 6.961492, 126.214792
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

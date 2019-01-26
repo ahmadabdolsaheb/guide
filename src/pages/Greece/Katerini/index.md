@@ -2,9 +2,9 @@
 title: Katerini
 location:
   country: Greece
-  state: 
+  state: ''
   city: Katerini
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.271257, 22.50888
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: Texas
   city: San Angelo
-  neighborhood: 
+  neighborhood: ''
   coordinates: 31.431993, -100.45458
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

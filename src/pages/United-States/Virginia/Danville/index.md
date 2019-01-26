@@ -4,7 +4,7 @@ location:
   country: United States
   state: Virginia
   city: Danville
-  neighborhood: 
+  neighborhood: ''
   coordinates: 36.584393, -79.396941
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

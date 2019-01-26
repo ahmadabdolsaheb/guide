@@ -2,9 +2,9 @@
 title: Vannes
 location:
   country: France
-  state: 
+  state: ''
   city: Vannes
-  neighborhood: 
+  neighborhood: ''
   coordinates: 47.658677, -2.759908
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: China
   state: Gansu
   city: Lanzhou
-  neighborhood: 
+  neighborhood: ''
   coordinates: 36.060348, 103.833
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

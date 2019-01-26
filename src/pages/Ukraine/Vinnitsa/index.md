@@ -2,9 +2,9 @@
 title: Vinnitsa
 location:
   country: Ukraine
-  state: 
+  state: ''
   city: Vinnitsa
-  neighborhood: 
+  neighborhood: ''
   coordinates: 49.232016, 28.467975
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

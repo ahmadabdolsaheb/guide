@@ -4,7 +4,7 @@ location:
   country: China
   state: Shanxi
   city: Taiyuan
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.856186, 112.556174
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

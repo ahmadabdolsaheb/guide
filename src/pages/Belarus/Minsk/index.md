@@ -2,9 +2,9 @@
 title: Minsk
 location:
   country: Belarus
-  state: 
+  state: ''
   city: Minsk
-  neighborhood: 
+  neighborhood: ''
   coordinates: 53.902334, 27.561879
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

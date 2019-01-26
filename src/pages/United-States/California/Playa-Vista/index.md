@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Playa Vista
-  neighborhood: 
+  neighborhood: ''
   coordinates: 33.97279, -118.427578
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

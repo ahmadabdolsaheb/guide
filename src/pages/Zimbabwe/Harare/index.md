@@ -2,9 +2,9 @@
 title: Harare
 location:
   country: Zimbabwe
-  state: 
+  state: ''
   city: Harare
-  neighborhood: 
+  neighborhood: ''
   coordinates: -17.831773, 31.045686
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

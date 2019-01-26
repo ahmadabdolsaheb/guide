@@ -4,7 +4,7 @@ location:
   country: United States
   state: Arizona
   city: Gilbert
-  neighborhood: 
+  neighborhood: ''
   coordinates: 33.352826, -111.789024
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

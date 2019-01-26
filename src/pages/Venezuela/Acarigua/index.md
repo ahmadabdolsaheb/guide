@@ -2,9 +2,9 @@
 title: Acarigua
 location:
   country: Venezuela
-  state: 
+  state: ''
   city: Acarigua
-  neighborhood: 
+  neighborhood: ''
   coordinates: 9.558, -69.205043
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

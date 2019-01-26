@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Riverside
-  neighborhood: 
+  neighborhood: ''
   coordinates: 33.953355, -117.396162
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

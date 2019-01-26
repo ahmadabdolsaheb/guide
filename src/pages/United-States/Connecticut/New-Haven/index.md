@@ -4,7 +4,7 @@ location:
   country: United States
   state: Connecticut
   city: New Haven
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.308214, -72.925052
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

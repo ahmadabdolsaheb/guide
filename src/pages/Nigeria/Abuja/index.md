@@ -2,9 +2,9 @@
 title: Abuja
 location:
   country: Nigeria
-  state: 
+  state: ''
   city: Abuja
-  neighborhood: 
+  neighborhood: ''
   coordinates: 9.064331, 7.489297
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

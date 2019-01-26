@@ -4,7 +4,7 @@ location:
   country: United States
   state: Kentucky
   city: Lexington
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.046407, -84.497039
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

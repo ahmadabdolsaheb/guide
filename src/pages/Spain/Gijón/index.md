@@ -2,9 +2,9 @@
 title: Gijón
 location:
   country: Spain
-  state: 
+  state: ''
   city: Gijón
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.545039, -5.662644
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

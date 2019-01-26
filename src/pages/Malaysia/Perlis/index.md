@@ -2,9 +2,9 @@
 title: Perlis
 location:
   country: Malaysia
-  state: 
+  state: ''
   city: Perlis
-  neighborhood: 
+  neighborhood: ''
   coordinates: 5.683455, 100.416672
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

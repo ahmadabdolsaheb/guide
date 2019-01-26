@@ -2,9 +2,9 @@
 title: Haifa
 location:
   country: Israel
-  state: 
+  state: ''
   city: Haifa
-  neighborhood: 
+  neighborhood: ''
   coordinates: 32.819122, 34.998386
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

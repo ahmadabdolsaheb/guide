@@ -4,7 +4,7 @@ location:
   country: United States
   state: North Dakota
   city: Fargo
-  neighborhood: 
+  neighborhood: ''
   coordinates: 46.877229, -96.789821
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

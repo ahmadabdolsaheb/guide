@@ -2,9 +2,9 @@
 title: Medan
 location:
   country: Indonesia
-  state: 
+  state: ''
   city: Medan
-  neighborhood: 
+  neighborhood: ''
   coordinates: 3.589665, 98.673826
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

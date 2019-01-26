@@ -2,9 +2,9 @@
 title: Sleaford
 location:
   country: England
-  state: 
+  state: ''
   city: Sleaford
-  neighborhood: 
+  neighborhood: ''
   coordinates: 52.998419, -0.409453
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: San Luís Potosí
 location:
   country: Mexico
-  state: 
+  state: ''
   city: San Luís Potosí
-  neighborhood: 
+  neighborhood: ''
   coordinates: 22.151647, -100.976399
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

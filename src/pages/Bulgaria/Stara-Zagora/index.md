@@ -2,9 +2,9 @@
 title: Stara Zagora
 location:
   country: Bulgaria
-  state: 
+  state: ''
   city: Stara Zagora
-  neighborhood: 
+  neighborhood: ''
   coordinates: 42.424742, 25.625724
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

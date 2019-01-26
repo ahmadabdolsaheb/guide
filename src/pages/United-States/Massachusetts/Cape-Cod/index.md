@@ -4,7 +4,7 @@ location:
   country: United States
   state: Massachusetts
   city: Cape Cod
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.625428, -89.480619
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

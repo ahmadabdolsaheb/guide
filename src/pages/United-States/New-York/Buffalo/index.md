@@ -4,7 +4,7 @@ location:
   country: United States
   state: New York
   city: Buffalo
-  neighborhood: 
+  neighborhood: ''
   coordinates: 42.886717, -78.878392
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

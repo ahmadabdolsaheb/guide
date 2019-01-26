@@ -4,7 +4,7 @@ location:
   country: India
   state: Telengana
   city: Hyderabad
-  neighborhood: 
+  neighborhood: ''
   coordinates: 17.361623, 78.474731
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

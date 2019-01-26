@@ -2,9 +2,9 @@
 title: Port Louis
 location:
   country: Mauritius
-  state: 
+  state: ''
   city: Port Louis
-  neighborhood: 
+  neighborhood: ''
   coordinates: -20.163728, 57.504533
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

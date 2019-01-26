@@ -4,7 +4,7 @@ location:
   country: India
   state: Bihar
   city: Siwan
-  neighborhood: 
+  neighborhood: ''
   coordinates: 26.218456, 84.358506
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

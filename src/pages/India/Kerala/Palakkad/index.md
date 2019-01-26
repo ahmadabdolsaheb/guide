@@ -4,7 +4,7 @@ location:
   country: India
   state: Kerala
   city: Palakkad
-  neighborhood: 
+  neighborhood: ''
   coordinates: 10.775923, 76.643801
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

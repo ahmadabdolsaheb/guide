@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Northridge
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.228592, -118.536932
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

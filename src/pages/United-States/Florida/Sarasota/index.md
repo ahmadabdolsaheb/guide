@@ -4,7 +4,7 @@ location:
   country: United States
   state: Florida
   city: Sarasota
-  neighborhood: 
+  neighborhood: ''
   coordinates: 27.336435, -82.530653
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

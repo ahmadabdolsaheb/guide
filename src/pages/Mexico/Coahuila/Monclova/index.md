@@ -4,7 +4,7 @@ location:
   country: Mexico
   state: Coahuila
   city: Monclova
-  neighborhood: 
+  neighborhood: ''
   coordinates: 26.9080378,-101.4215236
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

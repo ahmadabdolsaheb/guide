@@ -2,9 +2,9 @@
 title: Arad
 location:
   country: Romania
-  state: 
+  state: ''
   city: Arad
-  neighborhood: 
+  neighborhood: ''
   coordinates: 46.175379, 21.319634
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

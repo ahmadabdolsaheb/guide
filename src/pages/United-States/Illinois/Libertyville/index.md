@@ -4,7 +4,7 @@ location:
   country: United States
   state: Illinois
   city: Libertyville
-  neighborhood: 
+  neighborhood: ''
   coordinates: 42.283079, -87.95313
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

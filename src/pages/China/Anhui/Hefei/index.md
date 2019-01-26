@@ -4,7 +4,7 @@ location:
   country: China
   state: Anhui
   city: Hefei
-  neighborhood: 
+  neighborhood: ''
   coordinates: 31.822809, 117.221803
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

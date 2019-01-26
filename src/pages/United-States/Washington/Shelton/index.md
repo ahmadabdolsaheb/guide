@@ -4,7 +4,7 @@ location:
   country: United States
   state: Washington
   city: Shelton
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.316486, -73.093164
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

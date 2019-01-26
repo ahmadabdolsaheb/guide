@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: San Diego
-  neighborhood: 
+  neighborhood: ''
   coordinates: 32.717421, -117.162771
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

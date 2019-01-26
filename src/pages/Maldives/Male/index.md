@@ -2,9 +2,9 @@
 title: Male
 location:
   country: Maldives
-  state: 
+  state: ''
   city: Male
-  neighborhood: 
+  neighborhood: ''
   coordinates: 46.351607, 10.912876
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

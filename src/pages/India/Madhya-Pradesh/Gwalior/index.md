@@ -4,7 +4,7 @@ location:
   country: India
   state: Madhya Pradesh
   city: Gwalior
-  neighborhood: 
+  neighborhood: ''
   coordinates: 26.203725, 78.157363
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

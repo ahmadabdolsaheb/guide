@@ -4,7 +4,7 @@ location:
   country: Canada
   state: Ontario
   city: Thunder Bay
-  neighborhood: 
+  neighborhood: ''
   coordinates: 48.3808951,-89.2476823
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

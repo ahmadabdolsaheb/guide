@@ -2,9 +2,9 @@
 title: Bonn
 location:
   country: Germany
-  state: 
+  state: ''
   city: Bonn
-  neighborhood: 
+  neighborhood: ''
   coordinates: 50.735851, 7.10066
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

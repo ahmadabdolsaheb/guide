@@ -2,9 +2,9 @@
 title: Hue
 location:
   country: Vietnam
-  state: 
+  state: ''
   city: Hue
-  neighborhood: 
+  neighborhood: ''
   coordinates: 16.47785, 107.576774
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

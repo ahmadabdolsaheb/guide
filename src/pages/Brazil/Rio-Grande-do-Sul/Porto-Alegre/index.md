@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Rio Grande do Sul
   city: Porto Alegre
-  neighborhood: 
+  neighborhood: ''
   coordinates: -30.028268, -51.22843
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

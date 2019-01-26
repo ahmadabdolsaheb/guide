@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Roraima
   city: Boa Vista
-  neighborhood: 
+  neighborhood: ''
   coordinates: 2.820802, -60.672448
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

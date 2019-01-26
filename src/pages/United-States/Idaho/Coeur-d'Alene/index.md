@@ -4,7 +4,7 @@ location:
   country: United States
   state: Idaho
   city: Coeur d'Alene
-  neighborhood: 
+  neighborhood: ''
   coordinates: 47.677683, -116.780466
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

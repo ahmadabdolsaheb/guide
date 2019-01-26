@@ -2,9 +2,9 @@
 title: Hanoi
 location:
   country: Vietnam
-  state: 
+  state: ''
   city: Hanoi
-  neighborhood: 
+  neighborhood: ''
   coordinates: 21.02921, 105.85247
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

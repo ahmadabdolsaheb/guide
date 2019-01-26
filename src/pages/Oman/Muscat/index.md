@@ -2,9 +2,9 @@
 title: Muscat
 location:
   country: Oman
-  state: 
+  state: ''
   city: Muscat
-  neighborhood: 
+  neighborhood: ''
   coordinates: 23.599786, 58.545131
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

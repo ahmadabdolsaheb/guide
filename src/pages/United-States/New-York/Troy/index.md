@@ -4,7 +4,7 @@ location:
   country: United States
   state: New York
   city: Troy
-  neighborhood: 
+  neighborhood: ''
   coordinates: 42.7284117,-73.69178509999999
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

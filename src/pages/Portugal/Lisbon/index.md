@@ -2,9 +2,9 @@
 title: Lisbon
 location:
   country: Portugal
-  state: 
+  state: ''
   city: Lisbon
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.707793, -9.136507
   plusCode: ''
 social:

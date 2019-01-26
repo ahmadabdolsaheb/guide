@@ -2,9 +2,9 @@
 title: Rajshahi
 location:
   country: Bangladesh
-  state: 
+  state: ''
   city: Rajshahi
-  neighborhood: 
+  neighborhood: ''
   coordinates: 24.371551, 88.592104
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: India
   state: Andhra Pradesh
   city: Bapatla
-  neighborhood: 
+  neighborhood: ''
   coordinates: 15.905261, 80.46805
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: Spain
   state: Castile-La Mancha
   city: Illescas
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.1262812,-3.8489895
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

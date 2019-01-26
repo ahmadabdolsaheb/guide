@@ -2,9 +2,9 @@
 title: Most
 location:
   country: Czech Republic
-  state: 
+  state: ''
   city: Most
-  neighborhood: 
+  neighborhood: ''
   coordinates: 50.503274, 13.636112
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

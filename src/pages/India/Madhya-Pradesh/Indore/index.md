@@ -4,7 +4,7 @@ location:
   country: India
   state: Madhya Pradesh
   city: Indore
-  neighborhood: 
+  neighborhood: ''
   coordinates: 22.720385, 75.86821
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

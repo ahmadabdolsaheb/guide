@@ -2,9 +2,9 @@
 title: Patras
 location:
   country: Greece
-  state: 
+  state: ''
   city: Patras
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.246203, 21.735249
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

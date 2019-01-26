@@ -2,9 +2,9 @@
 title: Zagreb
 location:
   country: Croatia
-  state: 
+  state: ''
   city: Zagreb
-  neighborhood: 
+  neighborhood: ''
   coordinates: 45.813155, 15.97703
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

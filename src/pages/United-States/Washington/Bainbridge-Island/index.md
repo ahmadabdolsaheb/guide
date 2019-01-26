@@ -4,7 +4,7 @@ location:
   country: United States
   state: Washington
   city: Bainbridge Island
-  neighborhood: 
+  neighborhood: ''
   coordinates: 47.65526, -122.535086
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

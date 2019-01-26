@@ -2,9 +2,9 @@
 title: Freetown
 location:
   country: Sierra Leone
-  state: 
+  state: ''
   city: Freetown
-  neighborhood: 
+  neighborhood: ''
   coordinates: 8.479002, -13.268016
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

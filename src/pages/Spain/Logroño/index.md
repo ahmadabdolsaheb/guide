@@ -2,9 +2,9 @@
 title: Logroño
 location:
   country: Spain
-  state: 
+  state: ''
   city: Logroño
-  neighborhood: 
+  neighborhood: ''
   coordinates: 42.46612, -2.439668
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Koblenz
 location:
   country: Germany
-  state: 
+  state: ''
   city: Koblenz
-  neighborhood: 
+  neighborhood: ''
   coordinates: 50.353328, 7.594395
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

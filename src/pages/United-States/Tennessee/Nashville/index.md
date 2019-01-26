@@ -4,7 +4,7 @@ location:
   country: United States
   state: Tennessee
   city: Nashville
-  neighborhood: 
+  neighborhood: ''
   coordinates: 36.16223, -86.774353
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

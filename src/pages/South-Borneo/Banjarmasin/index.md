@@ -2,9 +2,9 @@
 title: Banjarmasin
 location:
   country: South Borneo
-  state: 
+  state: ''
   city: Banjarmasin
-  neighborhood: 
+  neighborhood: ''
   coordinates: -3.31875, 114.592583
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: India
   state: Uttar Pradesh
   city: Gorakhpur
-  neighborhood: 
+  neighborhood: ''
   coordinates: 26.760022, 83.366813
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

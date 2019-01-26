@@ -2,9 +2,9 @@
 title: Port Harcourt
 location:
   country: Nigeria
-  state: 
+  state: ''
   city: Port Harcourt
-  neighborhood: 
+  neighborhood: ''
   coordinates: 4.767658, 7.018853
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

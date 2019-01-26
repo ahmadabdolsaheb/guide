@@ -4,7 +4,7 @@ location:
   country: United States
   state: New York
   city: Bronx
-  neighborhood: 
+  neighborhood: ''
   coordinates: 48.35187, -116.547416
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

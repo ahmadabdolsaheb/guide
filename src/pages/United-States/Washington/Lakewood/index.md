@@ -4,7 +4,7 @@ location:
   country: United States
   state: Washington
   city: Lakewood
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.631109, -105.110058
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

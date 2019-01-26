@@ -4,7 +4,7 @@ location:
   country: Morocco
   state: Tangier-Tétouan-Al Hoceima
   city: Tetouan
-  neighborhood: 
+  neighborhood: ''
   coordinates: 35.5888995,-5.3625516
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

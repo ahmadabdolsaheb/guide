@@ -2,9 +2,9 @@
 title: Milton Keynes
 location:
   country: England
-  state: 
+  state: ''
   city: Milton Keynes
-  neighborhood: 
+  neighborhood: ''
   coordinates: 52.04298, -0.758961
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

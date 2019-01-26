@@ -4,7 +4,7 @@ location:
   country: Mauritania
   state: Nouakchott
   city: Nouakchott
-  neighborhood: 
+  neighborhood: ''
   coordinates: 18.0735299,-15.9582372
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

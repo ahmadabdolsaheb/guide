@@ -4,7 +4,7 @@ location:
   country: United States
   state: Missouri
   city: Saint Louis
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.627273, -90.197889
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

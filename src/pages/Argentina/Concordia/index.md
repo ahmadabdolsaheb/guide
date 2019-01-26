@@ -2,9 +2,9 @@
 title: Concordia
 location:
   country: Argentina
-  state: 
+  state: ''
   city: Concordia
-  neighborhood: 
+  neighborhood: ''
   coordinates: -27.231367, -52.022986
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

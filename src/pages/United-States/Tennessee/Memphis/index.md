@@ -4,7 +4,7 @@ location:
   country: United States
   state: Tennessee
   city: Memphis
-  neighborhood: 
+  neighborhood: ''
   coordinates: 35.149022, -90.051628
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

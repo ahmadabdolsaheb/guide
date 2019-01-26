@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Arcata
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.866517, -124.08284
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

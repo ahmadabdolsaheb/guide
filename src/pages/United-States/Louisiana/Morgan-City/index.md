@@ -4,7 +4,7 @@ location:
   country: United States
   state: Louisiana
   city: Morgan City
-  neighborhood: 
+  neighborhood: ''
   coordinates: 29.699375, -91.20677
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

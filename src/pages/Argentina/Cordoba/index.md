@@ -2,9 +2,9 @@
 title: Cordoba
 location:
   country: Argentina
-  state: 
+  state: ''
   city: Cordoba
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.884487, -4.779502
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

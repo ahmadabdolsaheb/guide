@@ -4,7 +4,7 @@ location:
   country: United States
   state: Ohio
   city: McArthur
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.2464596,-82.47848979999999
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

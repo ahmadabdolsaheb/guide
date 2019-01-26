@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: São PauloSergipe
   city: Aracaju
-  neighborhood: 
+  neighborhood: ''
   coordinates: -10.916206, -37.077465
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

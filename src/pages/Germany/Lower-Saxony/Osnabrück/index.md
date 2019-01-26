@@ -4,7 +4,7 @@ location:
   country: Germany
   state: Lower Saxony
   city: Osnabrück
-  neighborhood: 
+  neighborhood: ''
   coordinates: 52.2799112,8.0471788
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

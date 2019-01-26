@@ -2,9 +2,9 @@
 title: Vaasa
 location:
   country: Finland
-  state: 
+  state: ''
   city: Vaasa
-  neighborhood: 
+  neighborhood: ''
   coordinates: 63.095772, 21.615919
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Funchal
 location:
   country: Portugal
-  state: 
+  state: ''
   city: Funchal
-  neighborhood: 
+  neighborhood: ''
   coordinates: 32.64965, -16.908678
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

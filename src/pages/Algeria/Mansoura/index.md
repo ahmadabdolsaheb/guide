@@ -2,9 +2,9 @@
 title: Mansoura
 location:
   country: Algeria
-  state: 
+  state: ''
   city: Mansoura
-  neighborhood: 
+  neighborhood: ''
   coordinates: 31.037566, 31.38649
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: India
   state: Uttar Pradesh
   city: Ghaziabad
-  neighborhood: 
+  neighborhood: ''
   coordinates: 28.6691565,77.45375779999999
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

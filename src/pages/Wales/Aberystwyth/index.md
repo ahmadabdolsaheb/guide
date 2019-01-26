@@ -2,9 +2,9 @@
 title: Aberystwyth
 location:
   country: Wales
-  state: 
+  state: ''
   city: Aberystwyth
-  neighborhood: 
+  neighborhood: ''
   coordinates: 52.414311, -4.081685
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

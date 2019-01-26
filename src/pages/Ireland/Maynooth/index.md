@@ -2,9 +2,9 @@
 title: Maynooth
 location:
   country: Ireland
-  state: 
+  state: ''
   city: Maynooth
-  neighborhood: 
+  neighborhood: ''
   coordinates: 53.383024, -6.592281
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

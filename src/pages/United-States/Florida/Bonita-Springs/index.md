@@ -4,7 +4,7 @@ location:
   country: United States
   state: Florida
   city: Bonita Springs
-  neighborhood: 
+  neighborhood: ''
   coordinates: 26.361865, -81.793061
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Saltillo
 location:
   country: Mexico
-  state: 
+  state: ''
   city: Saltillo
-  neighborhood: 
+  neighborhood: ''
   coordinates: 25.419297, -100.994507
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

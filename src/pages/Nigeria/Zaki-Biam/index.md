@@ -2,9 +2,9 @@
 title: Zaki Biam
 location:
   country: Nigeria
-  state: 
+  state: ''
   city: Zaki Biam
-  neighborhood: 
+  neighborhood: ''
   coordinates: 7.510068, 9.613513
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

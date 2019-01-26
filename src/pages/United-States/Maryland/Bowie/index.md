@@ -4,7 +4,7 @@ location:
   country: United States
   state: Maryland
   city: Bowie
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.942966, -76.731234
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

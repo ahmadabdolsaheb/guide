@@ -2,9 +2,9 @@
 title: Nha Trang
 location:
   country: Vietnam
-  state: 
+  state: ''
   city: Nha Trang
-  neighborhood: 
+  neighborhood: ''
   coordinates: 12.243169, 109.189868
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Cádiz
 location:
   country: Spain
-  state: 
+  state: ''
   city: Cádiz
-  neighborhood: 
+  neighborhood: ''
   coordinates: 36.521647, -6.282601
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: Canada
   state: British Columbia
   city: Nelson
-  neighborhood: 
+  neighborhood: ''
   coordinates: -41.271085, 173.283676
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

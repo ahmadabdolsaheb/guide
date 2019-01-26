@@ -2,9 +2,9 @@
 title: Trondheim
 location:
   country: Norway
-  state: 
+  state: ''
   city: Trondheim
-  neighborhood: 
+  neighborhood: ''
   coordinates: 63.430566, 10.395193
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

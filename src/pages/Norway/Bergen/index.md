@@ -2,9 +2,9 @@
 title: Bergen
 location:
   country: Norway
-  state: 
+  state: ''
   city: Bergen
-  neighborhood: 
+  neighborhood: ''
   coordinates: 60.394346, 5.325885
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

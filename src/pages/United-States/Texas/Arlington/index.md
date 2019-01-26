@@ -4,7 +4,7 @@ location:
   country: United States
   state: Texas
   city: Arlington
-  neighborhood: 
+  neighborhood: ''
   coordinates: 32.735582, -97.107119
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

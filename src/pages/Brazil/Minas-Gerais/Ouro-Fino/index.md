@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Minas Gerais
   city: Ouro Fino
-  neighborhood: 
+  neighborhood: ''
   coordinates: -22.283056, -46.369167
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

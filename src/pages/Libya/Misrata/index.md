@@ -2,9 +2,9 @@
 title: Misrata
 location:
   country: Libya
-  state: 
+  state: ''
   city: Misrata
-  neighborhood: 
+  neighborhood: ''
   coordinates: 32.37445, 15.090541
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

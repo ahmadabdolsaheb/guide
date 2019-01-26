@@ -2,9 +2,9 @@
 title: Paramaribo
 location:
   country: Suriname
-  state: 
+  state: ''
   city: Paramaribo
-  neighborhood: 
+  neighborhood: ''
   coordinates: 5.82162, -55.177197
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

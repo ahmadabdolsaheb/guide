@@ -2,9 +2,9 @@
 title: Rojales
 location:
   country: Spain
-  state: 
+  state: ''
   city: Rojales
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.087175, -0.722821
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

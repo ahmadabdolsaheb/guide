@@ -2,9 +2,9 @@
 title: Siracusa
 location:
   country: Italy
-  state: 
+  state: ''
   city: Siracusa
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.071438, 15.283007
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

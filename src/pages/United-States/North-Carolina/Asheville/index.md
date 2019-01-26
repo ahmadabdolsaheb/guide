@@ -4,7 +4,7 @@ location:
   country: United States
   state: North Carolina
   city: Asheville
-  neighborhood: 
+  neighborhood: ''
   coordinates: 35.60095, -82.554016
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

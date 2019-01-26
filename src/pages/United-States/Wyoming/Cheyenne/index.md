@@ -4,7 +4,7 @@ location:
   country: United States
   state: Wyoming
   city: Cheyenne
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.139981, -104.820246
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

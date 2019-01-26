@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Sacramento
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.581572, -121.4944
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

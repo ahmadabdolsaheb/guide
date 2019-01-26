@@ -2,9 +2,9 @@
 title: Reykjavik
 location:
   country: Iceland
-  state: 
+  state: ''
   city: Reykjavik
-  neighborhood: 
+  neighborhood: ''
   coordinates: 64.145981, -21.942237
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

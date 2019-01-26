@@ -4,7 +4,7 @@ location:
   country: United States
   state: West Virginia
   city: Morgantown
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.629526, -79.955897
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

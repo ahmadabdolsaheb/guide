@@ -2,9 +2,9 @@
 title: Plock
 location:
   country: Poland
-  state: 
+  state: ''
   city: Plock
-  neighborhood: 
+  neighborhood: ''
   coordinates: 52.546452, 19.700861
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

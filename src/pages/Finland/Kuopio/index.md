@@ -2,9 +2,9 @@
 title: Kuopio
 location:
   country: Finland
-  state: 
+  state: ''
   city: Kuopio
-  neighborhood: 
+  neighborhood: ''
   coordinates: 62.89246, 27.678184
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

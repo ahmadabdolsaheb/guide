@@ -2,9 +2,9 @@
 title: Bayamón
 location:
   country: Puerto Rico
-  state: 
+  state: ''
   city: Bayamón
-  neighborhood: 
+  neighborhood: ''
   coordinates: 18.389396,-66.1653224
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

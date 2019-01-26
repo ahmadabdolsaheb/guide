@@ -2,9 +2,9 @@
 title: Colchester
 location:
   country: England
-  state: 
+  state: ''
   city: Colchester
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.89313, 0.904629
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

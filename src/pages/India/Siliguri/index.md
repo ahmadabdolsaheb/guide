@@ -2,9 +2,9 @@
 title: Siliguri
 location:
   country: India
-  state: 
+  state: ''
   city: Siliguri
-  neighborhood: 
+  neighborhood: ''
   coordinates: 26.716413, 88.430992
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

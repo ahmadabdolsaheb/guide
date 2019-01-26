@@ -4,7 +4,7 @@ location:
   country: China
   state: Liaoning
   city: Dalian
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.920716, 121.638868
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

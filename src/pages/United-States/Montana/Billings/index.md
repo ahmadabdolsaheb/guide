@@ -4,7 +4,7 @@ location:
   country: United States
   state: Montana
   city: Billings
-  neighborhood: 
+  neighborhood: ''
   coordinates: 45.787496, -108.49607
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

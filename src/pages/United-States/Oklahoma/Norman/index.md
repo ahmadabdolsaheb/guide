@@ -4,7 +4,7 @@ location:
   country: United States
   state: Oklahoma
   city: Norman
-  neighborhood: 
+  neighborhood: ''
   coordinates: 35.2225668,-97.4394777
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

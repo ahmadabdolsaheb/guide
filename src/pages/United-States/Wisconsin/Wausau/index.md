@@ -4,7 +4,7 @@ location:
   country: United States
   state: Wisconsin
   city: Wausau
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.959602, -89.629824
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: North Carolina
   city: Elizabeth City
-  neighborhood: 
+  neighborhood: ''
   coordinates: 36.295684, -76.22477
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Kigali
 location:
   country: Rwanda
-  state: 
+  state: ''
   city: Kigali
-  neighborhood: 
+  neighborhood: ''
   coordinates: -1.950851, 30.061508
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

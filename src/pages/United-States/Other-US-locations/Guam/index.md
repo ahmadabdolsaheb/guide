@@ -4,7 +4,7 @@ location:
   country: United States
   state: Other US locations
   city: Guam
-  neighborhood: 
+  neighborhood: ''
   coordinates: 36.901996, -89.823698
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Paraná
   city: Foz do Iguaçu
-  neighborhood: 
+  neighborhood: ''
   coordinates: -25.520873, -54.576308
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

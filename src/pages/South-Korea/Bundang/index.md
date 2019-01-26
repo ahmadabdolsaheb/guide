@@ -2,9 +2,9 @@
 title: Bundang
 location:
   country: South Korea
-  state: 
+  state: ''
   city: Bundang
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.375693, 127.094125
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Lompoc
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.6391501,-120.4579409
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

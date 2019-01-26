@@ -4,7 +4,7 @@ location:
   country: India
   state: Himachal Pradesh
   city: Shimla
-  neighborhood: 
+  neighborhood: ''
   coordinates: 31.104153, 77.170973
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

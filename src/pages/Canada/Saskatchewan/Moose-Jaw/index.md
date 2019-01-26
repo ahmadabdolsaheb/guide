@@ -4,7 +4,7 @@ location:
   country: Canada
   state: Saskatchewan
   city: Moose Jaw
-  neighborhood: 
+  neighborhood: ''
   coordinates: 50.400124, -105.540913
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

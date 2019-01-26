@@ -4,7 +4,7 @@ location:
   country: United States
   state: Illinois
   city: Elgin
-  neighborhood: 
+  neighborhood: ''
   coordinates: 42.037249, -88.281189
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

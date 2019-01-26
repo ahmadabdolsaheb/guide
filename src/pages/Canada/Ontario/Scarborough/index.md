@@ -4,7 +4,7 @@ location:
   country: Canada
   state: Ontario
   city: Scarborough
-  neighborhood: 
+  neighborhood: ''
   coordinates: 54.28476, -0.409034
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Bouira
 location:
   country: Algeria
-  state: 
+  state: ''
   city: Bouira
-  neighborhood: 
+  neighborhood: ''
   coordinates: 36.372806, 3.890637
   plusCode: ''
 social:

@@ -2,9 +2,9 @@
 title: Oran
 location:
   country: Algeria
-  state: 
+  state: ''
   city: Oran
-  neighborhood: 
+  neighborhood: ''
   coordinates: 35.703275, -0.649298
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

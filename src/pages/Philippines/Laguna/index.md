@@ -2,9 +2,9 @@
 title: Laguna
 location:
   country: Philippines
-  state: 
+  state: ''
   city: Laguna
-  neighborhood: 
+  neighborhood: ''
   coordinates: 28.485772, -16.315942
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

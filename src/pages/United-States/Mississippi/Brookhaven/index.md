@@ -4,7 +4,7 @@ location:
   country: United States
   state: Mississippi
   city: Brookhaven
-  neighborhood: 
+  neighborhood: ''
   coordinates: 31.58369, -90.441809
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

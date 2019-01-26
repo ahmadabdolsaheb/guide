@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Santa Catarina
   city: Blumenau
-  neighborhood: 
+  neighborhood: ''
   coordinates: -26.919557, -49.066578
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

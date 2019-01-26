@@ -2,9 +2,9 @@
 title: Chester
 location:
   country: England
-  state: 
+  state: ''
   city: Chester
-  neighborhood: 
+  neighborhood: ''
   coordinates: 53.190887, -2.890895
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

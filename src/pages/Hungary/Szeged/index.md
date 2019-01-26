@@ -2,9 +2,9 @@
 title: Szeged
 location:
   country: Hungary
-  state: 
+  state: ''
   city: Szeged
-  neighborhood: 
+  neighborhood: ''
   coordinates: 46.254631, 20.148602
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

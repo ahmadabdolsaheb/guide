@@ -4,7 +4,7 @@ location:
   country: India
   state: Tamil Nadu
   city: Salem
-  neighborhood: 
+  neighborhood: ''
   coordinates: 11.658056,78.156389
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

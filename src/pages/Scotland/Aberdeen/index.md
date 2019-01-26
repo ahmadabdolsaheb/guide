@@ -2,9 +2,9 @@
 title: Aberdeen
 location:
   country: Scotland
-  state: 
+  state: ''
   city: Aberdeen
-  neighborhood: 
+  neighborhood: ''
   coordinates: 57.144345, -2.096021
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

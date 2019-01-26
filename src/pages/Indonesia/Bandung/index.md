@@ -2,9 +2,9 @@
 title: Bandung
 location:
   country: Indonesia
-  state: 
+  state: ''
   city: Bandung
-  neighborhood: 
+  neighborhood: ''
   coordinates: -6.934469, 107.604954
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

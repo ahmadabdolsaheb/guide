@@ -4,7 +4,7 @@ location:
   country: Canada
   state: Alberta
   city: Edmonton
-  neighborhood: 
+  neighborhood: ''
   coordinates: 53.534361, -113.506508
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

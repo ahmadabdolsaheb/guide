@@ -4,7 +4,7 @@ location:
   country: India
   state: Uttar Pradesh
   city: Sultanpur
-  neighborhood: 
+  neighborhood: ''
   coordinates: 26.25886, 82.071689
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

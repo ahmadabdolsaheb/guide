@@ -2,9 +2,9 @@
 title: Chetumal
 location:
   country: Mexico
-  state: 
+  state: ''
   city: Chetumal
-  neighborhood: 
+  neighborhood: ''
   coordinates: 18.502073, -88.290888
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Bega
 location:
   country: Australia
-  state: 
+  state: ''
   city: Bega
-  neighborhood: 
+  neighborhood: ''
   coordinates: -36.678098, 149.840828
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

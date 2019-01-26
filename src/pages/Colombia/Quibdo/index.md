@@ -2,9 +2,9 @@
 title: Quibdo
 location:
   country: Colombia
-  state: 
+  state: ''
   city: Quibdo
-  neighborhood: 
+  neighborhood: ''
   coordinates: 5.684571, -76.654046
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

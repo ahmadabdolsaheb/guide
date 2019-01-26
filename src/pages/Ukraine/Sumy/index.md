@@ -2,9 +2,9 @@
 title: Sumy
 location:
   country: Ukraine
-  state: 
+  state: ''
   city: Sumy
-  neighborhood: 
+  neighborhood: ''
   coordinates: 50.904259, 34.805004
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

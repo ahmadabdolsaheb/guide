@@ -2,9 +2,9 @@
 title: Sumba Tengah
 location:
   country: Indonesia
-  state: 
+  state: ''
   city: Sumba Tengah
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.78373, -100.445882
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

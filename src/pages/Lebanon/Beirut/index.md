@@ -2,9 +2,9 @@
 title: Beirut
 location:
   country: Lebanon
-  state: 
+  state: ''
   city: Beirut
-  neighborhood: 
+  neighborhood: ''
   coordinates: 33.89592, 35.47843
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

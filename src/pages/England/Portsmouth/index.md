@@ -2,9 +2,9 @@
 title: Portsmouth
 location:
   country: England
-  state: 
+  state: ''
   city: Portsmouth
-  neighborhood: 
+  neighborhood: ''
   coordinates: 50.803683, -1.075614
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

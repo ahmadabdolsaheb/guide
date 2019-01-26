@@ -2,9 +2,9 @@
 title: Angeles
 location:
   country: Philippines
-  state: 
+  state: ''
   city: Angeles
-  neighborhood: 
+  neighborhood: ''
   coordinates: 15.139966, 120.587918
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

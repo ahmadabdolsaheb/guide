@@ -2,9 +2,9 @@
 title: Ota
 location:
   country: Nigeria
-  state: 
+  state: ''
   city: Ota
-  neighborhood: 
+  neighborhood: ''
   coordinates: 35.561206, 139.715843
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: China
   state: Guizhou
   city: Guiyang
-  neighborhood: 
+  neighborhood: ''
   coordinates: 26.581411, 106.705254
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

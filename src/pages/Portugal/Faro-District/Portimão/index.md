@@ -4,7 +4,7 @@ location:
   country: Portugal
   state: Faro District
   city: Portimão
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.13617,-8.5376926
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

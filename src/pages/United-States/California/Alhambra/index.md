@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Alhambra
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.092736, -118.126824
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

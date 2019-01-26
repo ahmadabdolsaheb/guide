@@ -2,9 +2,9 @@
 title: Sidi Bel Abbès
 location:
   country: Algeria
-  state: 
+  state: ''
   city: Sidi Bel Abbès
-  neighborhood: 
+  neighborhood: ''
   coordinates: 35.205684, -0.62854
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

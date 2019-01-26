@@ -2,9 +2,9 @@
 title: Como
 location:
   country: Italy
-  state: 
+  state: ''
   city: Como
-  neighborhood: 
+  neighborhood: ''
   coordinates: 45.810681, 9.086303
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

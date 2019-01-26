@@ -4,7 +4,7 @@ location:
   country: United States
   state: South Dakota
   city: Brookings
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.311461, -96.79844
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

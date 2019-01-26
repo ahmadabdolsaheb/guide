@@ -2,9 +2,9 @@
 title: Glasgow
 location:
   country: Scotland
-  state: 
+  state: ''
   city: Glasgow
-  neighborhood: 
+  neighborhood: ''
   coordinates: 55.866265, -4.250308
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: Kentucky
   city: Frankfort
-  neighborhood: 
+  neighborhood: ''
   coordinates: 50.110653, 8.682093
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

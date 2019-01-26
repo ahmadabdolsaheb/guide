@@ -2,9 +2,9 @@
 title: Moquegua
 location:
   country: Peru
-  state: 
+  state: ''
   city: Moquegua
-  neighborhood: 
+  neighborhood: ''
   coordinates: -17.193802, -70.934564
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

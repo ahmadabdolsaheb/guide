@@ -2,9 +2,9 @@
 title: Dhangadi
 location:
   country: Nepal
-  state: 
+  state: ''
   city: Dhangadi
-  neighborhood: 
+  neighborhood: ''
   coordinates: 28.695987, 80.608217
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: Wisconsin
   city: La Crosse
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.880437, -91.254841
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

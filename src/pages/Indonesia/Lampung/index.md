@@ -2,9 +2,9 @@
 title: Lampung
 location:
   country: Indonesia
-  state: 
+  state: ''
   city: Lampung
-  neighborhood: 
+  neighborhood: ''
   coordinates: -5.446071, 105.264374
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

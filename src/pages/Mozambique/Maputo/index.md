@@ -2,9 +2,9 @@
 title: Maputo
 location:
   country: Mozambique
-  state: 
+  state: ''
   city: Maputo
-  neighborhood: 
+  neighborhood: ''
   coordinates: -25.966213, 32.56745
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

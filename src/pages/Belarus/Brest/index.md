@@ -2,9 +2,9 @@
 title: Brest
 location:
   country: Belarus
-  state: 
+  state: ''
   city: Brest
-  neighborhood: 
+  neighborhood: ''
   coordinates: 48.390528, -4.486009
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Zacatecas
 location:
   country: Mexico
-  state: 
+  state: ''
   city: Zacatecas
-  neighborhood: 
+  neighborhood: ''
   coordinates: 22.775217, -102.572248
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Tampico
 location:
   country: Mexico
-  state: 
+  state: ''
   city: Tampico
-  neighborhood: 
+  neighborhood: ''
   coordinates: 22.217047, -97.846366
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

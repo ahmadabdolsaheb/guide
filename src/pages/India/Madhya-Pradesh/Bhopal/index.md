@@ -4,7 +4,7 @@ location:
   country: India
   state: Madhya Pradesh
   city: Bhopal
-  neighborhood: 
+  neighborhood: ''
   coordinates: 23.253092, 77.396272
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

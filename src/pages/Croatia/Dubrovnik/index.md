@@ -2,9 +2,9 @@
 title: Dubrovnik
 location:
   country: Croatia
-  state: 
+  state: ''
   city: Dubrovnik
-  neighborhood: 
+  neighborhood: ''
   coordinates: 42.641048, 18.109422
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

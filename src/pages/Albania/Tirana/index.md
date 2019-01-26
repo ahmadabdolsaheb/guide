@@ -2,9 +2,9 @@
 title: Tirana
 location:
   country: Albania
-  state: 
+  state: ''
   city: Tirana
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.315886, 19.900912
   plusCode: ''
 social:

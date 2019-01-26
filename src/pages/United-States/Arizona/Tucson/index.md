@@ -4,7 +4,7 @@ location:
   country: United States
   state: Arizona
   city: Tucson
-  neighborhood: 
+  neighborhood: ''
   coordinates: 32.221742, -110.926476
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

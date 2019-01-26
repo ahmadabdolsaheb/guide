@@ -2,9 +2,9 @@
 title: Torreón
 location:
   country: Mexico
-  state: 
+  state: ''
   city: Torreón
-  neighborhood: 
+  neighborhood: ''
   coordinates: 25.542698, -103.410513
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

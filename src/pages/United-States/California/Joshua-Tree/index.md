@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Joshua Tree
-  neighborhood: 
+  neighborhood: ''
   coordinates: 33.897067, -115.951115
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

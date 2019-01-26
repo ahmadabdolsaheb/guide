@@ -4,7 +4,7 @@ location:
   country: United States
   state: Georgia
   city: Valdosta
-  neighborhood: 
+  neighborhood: ''
   coordinates: 30.832702, -83.278485
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

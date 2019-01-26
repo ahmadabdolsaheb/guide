@@ -2,9 +2,9 @@
 title: Osijek
 location:
   country: Croatia
-  state: 
+  state: ''
   city: Osijek
-  neighborhood: 
+  neighborhood: ''
   coordinates: 45.554104, 18.689682
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

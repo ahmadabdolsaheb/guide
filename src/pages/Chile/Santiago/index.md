@@ -2,9 +2,9 @@
 title: Santiago
 location:
   country: Chile
-  state: 
+  state: ''
   city: Santiago
-  neighborhood: 
+  neighborhood: ''
   coordinates: -33.437913, -70.650456
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

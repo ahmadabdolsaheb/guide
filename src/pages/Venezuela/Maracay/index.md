@@ -2,9 +2,9 @@
 title: Maracay
 location:
   country: Venezuela
-  state: 
+  state: ''
   city: Maracay
-  neighborhood: 
+  neighborhood: ''
   coordinates: 10.251366, -67.601724
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

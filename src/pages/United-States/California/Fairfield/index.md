@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Fairfield
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.249358, -122.039966
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

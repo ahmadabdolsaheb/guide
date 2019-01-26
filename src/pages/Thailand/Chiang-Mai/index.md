@@ -2,9 +2,9 @@
 title: Chiang Mai
 location:
   country: Thailand
-  state: 
+  state: ''
   city: Chiang Mai
-  neighborhood: 
+  neighborhood: ''
   coordinates: 18.790562, 98.988091
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

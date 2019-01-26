@@ -2,9 +2,9 @@
 title: Athens
 location:
   country: Greece
-  state: 
+  state: ''
   city: Athens
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.984149, 23.727984
   plusCode: ''
 social:

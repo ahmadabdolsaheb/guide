@@ -2,9 +2,9 @@
 title: Dunedin
 location:
   country: New Zealand
-  state: 
+  state: ''
   city: Dunedin
-  neighborhood: 
+  neighborhood: ''
   coordinates: -45.873928, 170.503488
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

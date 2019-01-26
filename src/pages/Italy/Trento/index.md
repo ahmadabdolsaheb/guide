@@ -2,9 +2,9 @@
 title: Trento
 location:
   country: Italy
-  state: 
+  state: ''
   city: Trento
-  neighborhood: 
+  neighborhood: ''
   coordinates: 46.066423, 11.12576
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

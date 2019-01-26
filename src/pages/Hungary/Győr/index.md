@@ -2,9 +2,9 @@
 title: Győr
 location:
   country: Hungary
-  state: 
+  state: ''
   city: Győr
-  neighborhood: 
+  neighborhood: ''
   coordinates: 47.685360, 17.650443
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

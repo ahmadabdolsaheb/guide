@@ -2,9 +2,9 @@
 title: Izmir
 location:
   country: Turkey
-  state: 
+  state: ''
   city: Izmir
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.415342, 27.144474
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: San Ramon
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.779927, -121.978015
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Omsk
 location:
   country: Russia
-  state: 
+  state: ''
   city: Omsk
-  neighborhood: 
+  neighborhood: ''
   coordinates: 54.991375, 73.371488
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

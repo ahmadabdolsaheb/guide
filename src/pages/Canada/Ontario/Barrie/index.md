@@ -4,7 +4,7 @@ location:
   country: Canada
   state: Ontario
   city: Barrie
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.378703, -79.703052
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

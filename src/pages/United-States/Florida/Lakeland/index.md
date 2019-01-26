@@ -4,7 +4,7 @@ location:
   country: United States
   state: Florida
   city: Lakeland
-  neighborhood: 
+  neighborhood: ''
   coordinates: 28.039465, -81.949804
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

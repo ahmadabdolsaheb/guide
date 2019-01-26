@@ -4,7 +4,7 @@ location:
   country: United States
   state: Alabama
   city: Dothan
-  neighborhood: 
+  neighborhood: ''
   coordinates: 31.223231, -85.390489
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

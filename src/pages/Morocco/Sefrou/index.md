@@ -2,9 +2,9 @@
 title: Sefrou
 location:
   country: Morocco
-  state: 
+  state: ''
   city: Sefrou
-  neighborhood: 
+  neighborhood: ''
   coordinates: 33.824898, -4.833336
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

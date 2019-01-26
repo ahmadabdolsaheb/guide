@@ -2,9 +2,9 @@
 title: Sidoarjo
 location:
   country: Indonesia
-  state: 
+  state: ''
   city: Sidoarjo
-  neighborhood: 
+  neighborhood: ''
   coordinates: -7.446041, 112.717861
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: Maine
   city: Portland
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.678611,-70.288333
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

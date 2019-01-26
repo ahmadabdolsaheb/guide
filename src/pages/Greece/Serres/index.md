@@ -2,9 +2,9 @@
 title: Serres
 location:
   country: Greece
-  state: 
+  state: ''
   city: Serres
-  neighborhood: 
+  neighborhood: ''
   coordinates: 42.946638, 2.323695
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

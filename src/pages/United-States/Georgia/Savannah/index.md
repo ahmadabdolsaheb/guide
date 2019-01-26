@@ -4,7 +4,7 @@ location:
   country: United States
   state: Georgia
   city: Savannah
-  neighborhood: 
+  neighborhood: ''
   coordinates: 32.083541, -81.099834
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

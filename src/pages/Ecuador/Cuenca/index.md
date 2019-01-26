@@ -2,9 +2,9 @@
 title: Cuenca
 location:
   country: Ecuador
-  state: 
+  state: ''
   city: Cuenca
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.068116, -2.134824
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Cebu
 location:
   country: Philippines
-  state: 
+  state: ''
   city: Cebu
-  neighborhood: 
+  neighborhood: ''
   coordinates: 10.30903, 123.893084
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

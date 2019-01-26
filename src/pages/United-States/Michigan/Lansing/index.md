@@ -4,7 +4,7 @@ location:
   country: United States
   state: Michigan
   city: Lansing
-  neighborhood: 
+  neighborhood: ''
   coordinates: 42.733771, -84.55538
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

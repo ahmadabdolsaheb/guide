@@ -2,9 +2,9 @@
 title: Opole
 location:
   country: Poland
-  state: 
+  state: ''
   city: Opole
-  neighborhood: 
+  neighborhood: ''
   coordinates: 50.666818, 17.923641
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

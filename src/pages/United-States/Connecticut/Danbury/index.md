@@ -4,7 +4,7 @@ location:
   country: United States
   state: Connecticut
   city: Danbury
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.394817, -73.454011
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

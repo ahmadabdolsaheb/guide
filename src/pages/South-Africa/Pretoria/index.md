@@ -2,9 +2,9 @@
 title: Pretoria
 location:
   country: South Africa
-  state: 
+  state: ''
   city: Pretoria
-  neighborhood: 
+  neighborhood: ''
   coordinates: -25.745837, 28.186718
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

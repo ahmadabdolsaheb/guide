@@ -4,7 +4,7 @@ location:
   country: China
   state: Liaoning
   city: Shenyang
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.804529, 123.427786
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Wairoa
 location:
   country: New Zealand
-  state: 
+  state: ''
   city: Wairoa
-  neighborhood: 
+  neighborhood: ''
   coordinates: -39.03939, 177.427139
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

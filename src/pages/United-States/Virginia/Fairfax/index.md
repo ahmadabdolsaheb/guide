@@ -4,7 +4,7 @@ location:
   country: United States
   state: Virginia
   city: Fairfax
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.846224, -77.306373
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

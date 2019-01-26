@@ -4,7 +4,7 @@ location:
   country: United States
   state: New Jersey
   city: West Long Branch
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.2804557,-74.0058114
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

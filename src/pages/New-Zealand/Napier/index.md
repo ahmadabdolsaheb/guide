@@ -2,9 +2,9 @@
 title: Napier
 location:
   country: New Zealand
-  state: 
+  state: ''
   city: Napier
-  neighborhood: 
+  neighborhood: ''
   coordinates: -39.490858, 176.917911
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

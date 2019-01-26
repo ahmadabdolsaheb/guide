@@ -4,7 +4,7 @@ location:
   country: United States
   state: Washington
   city: Bellevue
-  neighborhood: 
+  neighborhood: ''
   coordinates: 47.614422, -122.192337
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

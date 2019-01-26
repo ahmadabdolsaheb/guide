@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Minas Gerais
   city: Governador Valadares
-  neighborhood: 
+  neighborhood: ''
   coordinates: -18.85395, -41.945875
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

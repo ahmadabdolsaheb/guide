@@ -4,7 +4,7 @@ location:
   country: United States
   state: Massachusetts
   city: Worcester
-  neighborhood: 
+  neighborhood: ''
   coordinates: 42.2755407, -71.8777779
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Saas-Fee
 location:
   country: Switzerland
-  state: 
+  state: ''
   city: Saas-Fee
-  neighborhood: 
+  neighborhood: ''
   coordinates: 46.107342, 7.924706
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

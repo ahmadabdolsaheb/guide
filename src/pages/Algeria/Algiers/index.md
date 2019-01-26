@@ -2,9 +2,9 @@
 title: Algiers
 location:
   country: Algeria
-  state: 
+  state: ''
   city: Algiers
-  neighborhood: 
+  neighborhood: ''
   coordinates: 36.775348, 3.060066
   plusCode: ''
 social:

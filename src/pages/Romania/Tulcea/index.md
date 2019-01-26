@@ -2,9 +2,9 @@
 title: Tulcea
 location:
   country: Romania
-  state: 
+  state: ''
   city: Tulcea
-  neighborhood: 
+  neighborhood: ''
   coordinates: 45.17793, 28.801892
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

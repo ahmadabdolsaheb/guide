@@ -2,9 +2,9 @@
 title: Ciudad Obregón
 location:
   country: Mexico
-  state: 
+  state: ''
   city: Ciudad Obregón
-  neighborhood: 
+  neighborhood: ''
   coordinates: 27.484662, -109.933778
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Turangi
 location:
   country: New Zealand
-  state: 
+  state: ''
   city: Turangi
-  neighborhood: 
+  neighborhood: ''
   coordinates: -38.989782, 175.806927
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

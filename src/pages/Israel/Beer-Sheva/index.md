@@ -2,9 +2,9 @@
 title: Beer Sheva
 location:
   country: Israel
-  state: 
+  state: ''
   city: Beer Sheva
-  neighborhood: 
+  neighborhood: ''
   coordinates: 31.252547, 34.790691
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

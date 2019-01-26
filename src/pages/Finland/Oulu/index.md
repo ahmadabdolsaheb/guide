@@ -2,9 +2,9 @@
 title: Oulu
 location:
   country: Finland
-  state: 
+  state: ''
   city: Oulu
-  neighborhood: 
+  neighborhood: ''
   coordinates: 65.011873, 25.471681
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

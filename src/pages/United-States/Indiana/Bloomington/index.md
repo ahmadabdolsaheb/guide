@@ -4,7 +4,7 @@ location:
   country: United States
   state: Indiana
   city: Bloomington
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.16704, -86.534288
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

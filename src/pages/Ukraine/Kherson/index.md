@@ -2,9 +2,9 @@
 title: Kherson
 location:
   country: Ukraine
-  state: 
+  state: ''
   city: Kherson
-  neighborhood: 
+  neighborhood: ''
   coordinates: 46.640176, 32.614532
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

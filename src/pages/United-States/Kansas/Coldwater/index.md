@@ -4,7 +4,7 @@ location:
   country: United States
   state: Kansas
   city: Coldwater
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.940326, -85.000521
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

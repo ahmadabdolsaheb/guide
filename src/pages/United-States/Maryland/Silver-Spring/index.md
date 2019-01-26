@@ -4,7 +4,7 @@ location:
   country: United States
   state: Maryland
   city: Silver Spring
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.990666, -77.026088
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

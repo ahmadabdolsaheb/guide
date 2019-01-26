@@ -4,7 +4,7 @@ location:
   country: United States
   state: Iowa
   city: Perry
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.8386, -94.1072
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Telford
 location:
   country: England
-  state: 
+  state: ''
   city: Telford
-  neighborhood: 
+  neighborhood: ''
   coordinates: 52.678042, -2.451427
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

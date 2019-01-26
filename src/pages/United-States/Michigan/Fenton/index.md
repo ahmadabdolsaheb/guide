@@ -4,7 +4,7 @@ location:
   country: United States
   state: Michigan
   city: Fenton
-  neighborhood: 
+  neighborhood: ''
   coordinates: 52.998222, -2.156638
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

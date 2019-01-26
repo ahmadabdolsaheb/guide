@@ -2,9 +2,9 @@
 title: Kaliningrad
 location:
   country: Russia
-  state: 
+  state: ''
   city: Kaliningrad
-  neighborhood: 
+  neighborhood: ''
   coordinates: 54.706642, 20.510517
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

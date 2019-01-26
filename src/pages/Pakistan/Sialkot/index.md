@@ -2,9 +2,9 @@
 title: Sialkot
 location:
   country: Pakistan
-  state: 
+  state: ''
   city: Sialkot
-  neighborhood: 
+  neighborhood: ''
   coordinates: 32.493538, 74.541158
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

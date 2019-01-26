@@ -2,9 +2,9 @@
 title: Kristiansand
 location:
   country: Norway
-  state: 
+  state: ''
   city: Kristiansand
-  neighborhood: 
+  neighborhood: ''
   coordinates: 58.146708, 7.995766
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

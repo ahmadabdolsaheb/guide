@@ -4,7 +4,7 @@ location:
   country: India
   state: West Bengal
   city: Kolkata
-  neighborhood: 
+  neighborhood: ''
   coordinates: 22.517282,88.4186638
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

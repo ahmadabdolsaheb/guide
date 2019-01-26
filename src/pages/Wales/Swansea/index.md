@@ -2,9 +2,9 @@
 title: Swansea
 location:
   country: Wales
-  state: 
+  state: ''
   city: Swansea
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.621144, -3.946775
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

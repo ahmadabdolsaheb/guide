@@ -4,7 +4,7 @@ location:
   country: Canada
   state: Ontario
   city: Milton
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.516663, -79.879400
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

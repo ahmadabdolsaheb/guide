@@ -4,7 +4,7 @@ location:
   country: United States
   state: Arizona
   city: Maricopa
-  neighborhood: 
+  neighborhood: ''
   coordinates: 35.058858, -119.400951
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

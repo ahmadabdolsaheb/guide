@@ -4,7 +4,7 @@ location:
   country: Ecuador
   state: Manabi
   city: Manta
-  neighborhood: 
+  neighborhood: ''
   coordinates: -0.967700, -80.708900
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: Louisiana
   city: Bossier City
-  neighborhood: 
+  neighborhood: ''
   coordinates: 32.523300, -93.709434
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

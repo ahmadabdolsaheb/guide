@@ -2,9 +2,9 @@
 title: Lyon
 location:
   country: France
-  state: 
+  state: ''
   city: Lyon
-  neighborhood: 
+  neighborhood: ''
   coordinates: 45.757814, 4.832011
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

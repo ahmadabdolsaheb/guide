@@ -2,9 +2,9 @@
 title: Sremska Mitrovica
 location:
   country: Serbia
-  state: 
+  state: ''
   city: Sremska Mitrovica
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.971604, 19.616868
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

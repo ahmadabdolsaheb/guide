@@ -2,9 +2,9 @@
 title: Bannu
 location:
   country: Pakistan
-  state: 
+  state: ''
   city: Bannu
-  neighborhood: 
+  neighborhood: ''
   coordinates: 32.985701, 70.603602
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

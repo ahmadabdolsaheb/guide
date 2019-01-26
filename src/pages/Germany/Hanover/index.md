@@ -2,9 +2,9 @@
 title: Hanover
 location:
   country: Germany
-  state: 
+  state: ''
   city: Hanover
-  neighborhood: 
+  neighborhood: ''
   coordinates: 52.374478, 9.738553
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

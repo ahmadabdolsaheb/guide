@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Ridgecrest
-  neighborhood: 
+  neighborhood: ''
   coordinates: 35.622506, -117.669941
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

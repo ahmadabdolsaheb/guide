@@ -2,9 +2,9 @@
 title: Sittard
 location:
   country: Netherlands
-  state: 
+  state: ''
   city: Sittard
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.005111, 5.869474
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Mandalay
 location:
   country: Myanmar (Burma)
-  state: 
+  state: ''
   city: Mandalay
-  neighborhood: 
+  neighborhood: ''
   coordinates: 21.981275, 96.082375
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

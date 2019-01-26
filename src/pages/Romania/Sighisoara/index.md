@@ -2,9 +2,9 @@
 title: Sighisoara
 location:
   country: Romania
-  state: 
+  state: ''
   city: Sighisoara
-  neighborhood: 
+  neighborhood: ''
   coordinates: 46.217697, 24.793777
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

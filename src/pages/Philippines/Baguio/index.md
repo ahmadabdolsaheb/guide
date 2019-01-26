@@ -2,9 +2,9 @@
 title: Baguio
 location:
   country: Philippines
-  state: 
+  state: ''
   city: Baguio
-  neighborhood: 
+  neighborhood: ''
   coordinates: 16.412007, 120.593394
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

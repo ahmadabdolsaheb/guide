@@ -2,9 +2,9 @@
 title: Tuzla
 location:
   country: Bosnia and Herzegovina
-  state: 
+  state: ''
   city: Tuzla
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.539111, 18.675193
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

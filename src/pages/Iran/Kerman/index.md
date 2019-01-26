@@ -2,9 +2,9 @@
 title: Kerman
 location:
   country: Iran
-  state: 
+  state: ''
   city: Kerman
-  neighborhood: 
+  neighborhood: ''
   coordinates: 30.292436, 57.064683
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

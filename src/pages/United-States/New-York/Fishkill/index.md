@@ -4,7 +4,7 @@ location:
   country: United States
   state: New York
   city: Fishkill
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.535575, -73.898702
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

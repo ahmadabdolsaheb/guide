@@ -2,9 +2,9 @@
 title: Chiclayo
 location:
   country: Peru
-  state: 
+  state: ''
   city: Chiclayo
-  neighborhood: 
+  neighborhood: ''
   coordinates: -6.766417, -79.840831
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

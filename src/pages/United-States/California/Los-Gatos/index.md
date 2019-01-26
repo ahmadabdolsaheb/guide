@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Los Gatos
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.226611, -121.97468
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

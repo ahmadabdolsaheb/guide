@@ -2,9 +2,9 @@
 title: Krakow
 location:
   country: Poland
-  state: 
+  state: ''
   city: Krakow
-  neighborhood: 
+  neighborhood: ''
   coordinates: 50.061947, 19.936856
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

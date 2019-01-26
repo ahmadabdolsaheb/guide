@@ -2,9 +2,9 @@
 title: Villa Clara
 location:
   country: Cuba
-  state: 
+  state: ''
   city: Villa Clara
-  neighborhood: 
+  neighborhood: ''
   coordinates: 4.330746, -74.367409
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

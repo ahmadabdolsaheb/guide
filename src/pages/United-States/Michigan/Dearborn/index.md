@@ -4,7 +4,7 @@ location:
   country: United States
   state: Michigan
   city: Dearborn
-  neighborhood: 
+  neighborhood: ''
   coordinates: 42.32226, -83.176314
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

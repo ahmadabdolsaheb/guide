@@ -2,9 +2,9 @@
 title: Batna
 location:
   country: Algeria
-  state: 
+  state: ''
   city: Batna
-  neighborhood: 
+  neighborhood: ''
   coordinates: 35.554404, 6.176745
   plusCode: ''
 social:

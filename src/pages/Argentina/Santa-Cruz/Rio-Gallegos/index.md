@@ -4,7 +4,7 @@ location:
   country: Argentina
   state: Santa Cruz
   city: Rio Gallegos
-  neighborhood: 
+  neighborhood: ''
   coordinates: -51.6230485,-69.2168291
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Windhoek
 location:
   country: Namibia
-  state: 
+  state: ''
   city: Windhoek
-  neighborhood: 
+  neighborhood: ''
   coordinates: -22.574418, 17.079123
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

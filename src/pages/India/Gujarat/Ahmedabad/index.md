@@ -4,7 +4,7 @@ location:
   country: India
   state: Gujarat
   city: Ahmedabad
-  neighborhood: 
+  neighborhood: ''
   coordinates: 23.021624, 72.579707
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

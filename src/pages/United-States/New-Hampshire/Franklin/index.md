@@ -4,7 +4,7 @@ location:
   country: United States
   state: New Hampshire
   city: Franklin
-  neighborhood: 
+  neighborhood: ''
   coordinates: 35.924864, -86.867691
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

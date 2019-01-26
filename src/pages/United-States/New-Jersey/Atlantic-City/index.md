@@ -4,7 +4,7 @@ location:
   country: United States
   state: New Jersey
   city: Atlantic City
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.364285, -74.422935
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

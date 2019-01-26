@@ -2,9 +2,9 @@
 title: Sohar
 location:
   country: Oman
-  state: 
+  state: ''
   city: Sohar
-  neighborhood: 
+  neighborhood: ''
   coordinates: 24.344558, 56.742477
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

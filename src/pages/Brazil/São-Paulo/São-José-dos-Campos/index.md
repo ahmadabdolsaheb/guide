@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: São Paulo
   city: São José dos Campos
-  neighborhood: 
+  neighborhood: ''
   coordinates: -23.180636, -45.890662
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

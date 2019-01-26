@@ -4,7 +4,7 @@ location:
   country: India
   state: Andhra Pradesh
   city: Mangalagiri
-  neighborhood: 
+  neighborhood: ''
   coordinates: 16.4349, 80.5688
   plusCode: ''
 social:

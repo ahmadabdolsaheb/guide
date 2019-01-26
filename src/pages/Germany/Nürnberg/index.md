@@ -2,9 +2,9 @@
 title: Nürnberg
 location:
   country: Germany
-  state: 
+  state: ''
   city: Nürnberg
-  neighborhood: 
+  neighborhood: ''
   coordinates: 48.361919, 12.911864
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

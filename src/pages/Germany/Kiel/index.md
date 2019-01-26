@@ -2,9 +2,9 @@
 title: Kiel
 location:
   country: Germany
-  state: 
+  state: ''
   city: Kiel
-  neighborhood: 
+  neighborhood: ''
   coordinates: 54.321675, 10.137186
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

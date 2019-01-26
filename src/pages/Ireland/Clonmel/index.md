@@ -2,9 +2,9 @@
 title: Clonmel
 location:
   country: Ireland
-  state: 
+  state: ''
   city: Clonmel
-  neighborhood: 
+  neighborhood: ''
   coordinates: 52.355, -7.703889
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

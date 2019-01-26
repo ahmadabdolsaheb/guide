@@ -4,7 +4,7 @@ location:
   country: China
   state: Shanxi
   city: Xi'an
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.342971, 108.935274
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

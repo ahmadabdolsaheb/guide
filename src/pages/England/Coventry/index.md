@@ -2,9 +2,9 @@
 title: Coventry
 location:
   country: England
-  state: 
+  state: ''
   city: Coventry
-  neighborhood: 
+  neighborhood: ''
   coordinates: 52.408106, -1.510456
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

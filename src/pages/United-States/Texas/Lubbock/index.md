@@ -4,7 +4,7 @@ location:
   country: United States
   state: Texas
   city: Lubbock
-  neighborhood: 
+  neighborhood: ''
   coordinates: 33.577863, -101.855166
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

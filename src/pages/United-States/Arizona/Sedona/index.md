@@ -4,7 +4,7 @@ location:
   country: United States
   state: Arizona
   city: Sedona
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.865776, -111.792989
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

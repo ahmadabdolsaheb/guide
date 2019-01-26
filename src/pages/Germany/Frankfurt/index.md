@@ -2,9 +2,9 @@
 title: Frankfurt
 location:
   country: Germany
-  state: 
+  state: ''
   city: Frankfurt
-  neighborhood: 
+  neighborhood: ''
   coordinates: 50.110653, 8.682093
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

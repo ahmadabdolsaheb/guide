@@ -4,7 +4,7 @@ location:
   country: United States
   state: Oregon
   city: Corvallis
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.564566, -123.262043
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

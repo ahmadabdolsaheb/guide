@@ -2,9 +2,9 @@
 title: Homs
 location:
   country: Syria
-  state: 
+  state: ''
   city: Homs
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.733333, 36.716667
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

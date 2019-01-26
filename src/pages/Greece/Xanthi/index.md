@@ -2,9 +2,9 @@
 title: Xanthi
 location:
   country: Greece
-  state: 
+  state: ''
   city: Xanthi
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.138029, 24.886269
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

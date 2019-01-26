@@ -4,7 +4,7 @@ location:
   country: United States
   state: New Jersey
   city: Caldwell
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.667874, -116.689416
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

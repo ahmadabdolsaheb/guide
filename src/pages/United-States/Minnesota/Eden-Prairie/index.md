@@ -4,7 +4,7 @@ location:
   country: United States
   state: Minnesota
   city: Eden Prairie
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.854686, -93.470786
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

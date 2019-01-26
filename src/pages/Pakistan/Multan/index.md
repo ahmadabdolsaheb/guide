@@ -2,9 +2,9 @@
 title: Multan
 location:
   country: Pakistan
-  state: 
+  state: ''
   city: Multan
-  neighborhood: 
+  neighborhood: ''
   coordinates: 30.197721, 71.473628
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: Bangladesh
   state: Chittagong
   city: Raozan
-  neighborhood: 
+  neighborhood: ''
   coordinates: 46.323352, 5.112712
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

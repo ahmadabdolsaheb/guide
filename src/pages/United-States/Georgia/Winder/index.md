@@ -4,7 +4,7 @@ location:
   country: United States
   state: Georgia
   city: Winder
-  neighborhood: 
+  neighborhood: ''
   coordinates: 33.991035, -83.718373
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

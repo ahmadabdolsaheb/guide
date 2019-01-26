@@ -2,9 +2,9 @@
 title: Bjelovar
 location:
   country: Croatia
-  state: 
+  state: ''
   city: Bjelovar
-  neighborhood: 
+  neighborhood: ''
   coordinates: 45.899012, 16.842444
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Zaandam
 location:
   country: Netherlands
-  state: 
+  state: ''
   city: Zaandam
-  neighborhood: 
+  neighborhood: ''
   coordinates: 52.450306, 4.815944
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

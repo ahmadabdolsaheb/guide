@@ -2,9 +2,9 @@
 title: Winchester
 location:
   country: England
-  state: 
+  state: ''
   city: Winchester
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.097235, -1.313653
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

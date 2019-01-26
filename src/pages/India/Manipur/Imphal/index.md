@@ -4,7 +4,7 @@ location:
   country: India
   state: Manipur
   city: Imphal
-  neighborhood: 
+  neighborhood: ''
   coordinates: 24.800609, 93.937
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

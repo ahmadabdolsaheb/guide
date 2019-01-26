@@ -2,9 +2,9 @@
 title: Krk
 location:
   country: Croatia
-  state: 
+  state: ''
   city: Krk
-  neighborhood: 
+  neighborhood: ''
   coordinates: 31.184722, 35.704722
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: Pennsylvania
   city: Philadelphia
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.952399, -75.16359
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

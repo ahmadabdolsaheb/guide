@@ -2,9 +2,9 @@
 title: Rosario
 location:
   country: Argentina
-  state: 
+  state: ''
   city: Rosario
-  neighborhood: 
+  neighborhood: ''
   coordinates: -32.9595, -60.661541
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

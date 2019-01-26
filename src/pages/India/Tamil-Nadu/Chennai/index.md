@@ -4,7 +4,7 @@ location:
   country: India
   state: Tamil Nadu
   city: Chennai
-  neighborhood: 
+  neighborhood: ''
   coordinates: 13.079691, 80.282953
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: Spain
   state: Community of Madrid
   city: Fuenlabrada
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.2902056,-3.8035477
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

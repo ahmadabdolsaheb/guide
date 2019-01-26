@@ -2,9 +2,9 @@
 title: Port-au-Prince
 location:
   country: Haiti
-  state: 
+  state: ''
   city: Port-au-Prince
-  neighborhood: 
+  neighborhood: ''
   coordinates: 18.547327, -72.339593
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

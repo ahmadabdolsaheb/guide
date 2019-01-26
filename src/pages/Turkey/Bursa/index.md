@@ -2,9 +2,9 @@
 title: Bursa
 location:
   country: Turkey
-  state: 
+  state: ''
   city: Bursa
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.182706, 29.066764
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

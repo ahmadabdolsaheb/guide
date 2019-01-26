@@ -4,7 +4,7 @@ location:
   country: United States
   state: Illinois
   city: Centralia
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.525049, -89.133404
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

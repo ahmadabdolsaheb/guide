@@ -2,9 +2,9 @@
 title: Tomsk
 location:
   country: Russia
-  state: 
+  state: ''
   city: Tomsk
-  neighborhood: 
+  neighborhood: ''
   coordinates: 56.488592, 84.952324
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

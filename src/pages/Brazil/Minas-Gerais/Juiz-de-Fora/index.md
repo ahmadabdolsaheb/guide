@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Minas Gerais
   city: Juiz de Fora
-  neighborhood: 
+  neighborhood: ''
   coordinates: -21.760953, -43.350113
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

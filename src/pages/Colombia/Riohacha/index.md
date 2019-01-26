@@ -2,9 +2,9 @@
 title: Riohacha
 location:
   country: Colombia
-  state: 
+  state: ''
   city: Riohacha
-  neighborhood: 
+  neighborhood: ''
   coordinates: 11.544634, -72.906978
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

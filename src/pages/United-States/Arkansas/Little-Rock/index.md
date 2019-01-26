@@ -4,7 +4,7 @@ location:
   country: United States
   state: Arkansas
   city: Little Rock
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.746481, -92.289595
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

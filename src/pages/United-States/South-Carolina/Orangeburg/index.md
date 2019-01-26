@@ -4,7 +4,7 @@ location:
   country: United States
   state: South Carolina
   city: Orangeburg
-  neighborhood: 
+  neighborhood: ''
   coordinates: 33.4918203,-80.8556476
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

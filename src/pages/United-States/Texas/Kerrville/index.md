@@ -4,7 +4,7 @@ location:
   country: United States
   state: Texas
   city: Kerrville
-  neighborhood: 
+  neighborhood: ''
   coordinates: 30.047433, -99.140319
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

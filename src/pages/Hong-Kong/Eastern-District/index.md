@@ -2,9 +2,9 @@
 title: Eastern District
 location:
   country: Hong Kong
-  state: 
+  state: ''
   city: Eastern District
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.78373, -100.445882
   plusCode: ''
 social:

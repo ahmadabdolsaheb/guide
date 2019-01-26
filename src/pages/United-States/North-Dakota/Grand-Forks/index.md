@@ -4,7 +4,7 @@ location:
   country: United States
   state: North Dakota
   city: Grand Forks
-  neighborhood: 
+  neighborhood: ''
   coordinates: 47.907824, -97.059203
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

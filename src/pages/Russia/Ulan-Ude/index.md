@@ -2,9 +2,9 @@
 title: Ulan-Ude
 location:
   country: Russia
-  state: 
+  state: ''
   city: Ulan-Ude
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.835748, 107.583657
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

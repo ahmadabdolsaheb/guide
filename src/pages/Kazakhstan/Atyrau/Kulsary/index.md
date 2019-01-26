@@ -4,7 +4,7 @@ location:
   country: Kazakhstan
   state: Atyrau
   city: Kulsary
-  neighborhood: 
+  neighborhood: ''
   coordinates: 46.9691061,54.00681909999999
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

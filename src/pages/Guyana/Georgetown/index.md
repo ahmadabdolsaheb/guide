@@ -2,9 +2,9 @@
 title: Georgetown
 location:
   country: Guyana
-  state: 
+  state: ''
   city: Georgetown
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.209797, -84.558831
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

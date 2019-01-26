@@ -4,7 +4,7 @@ location:
   country: United States
   state: South Carolina
   city: Sumter
-  neighborhood: 
+  neighborhood: ''
   coordinates: 33.920435, -80.341469
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

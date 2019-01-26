@@ -4,7 +4,7 @@ location:
   country: Japan
   state: Osaka
   city: Osaka
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.685296, 135.514568
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

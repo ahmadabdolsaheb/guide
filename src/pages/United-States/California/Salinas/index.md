@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Salinas
-  neighborhood: 
+  neighborhood: ''
   coordinates: 36.677708, -121.656011
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

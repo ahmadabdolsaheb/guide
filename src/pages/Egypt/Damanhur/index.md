@@ -2,9 +2,9 @@
 title: Damanhur
 location:
   country: Egypt
-  state: 
+  state: ''
   city: Damanhur
-  neighborhood: 
+  neighborhood: ''
   coordinates: 31.037874, 30.467986
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

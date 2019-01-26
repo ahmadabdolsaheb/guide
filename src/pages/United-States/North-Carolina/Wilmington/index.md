@@ -4,7 +4,7 @@ location:
   country: United States
   state: North Carolina
   city: Wilmington
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.745947, -75.546589
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

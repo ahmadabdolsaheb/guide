@@ -2,9 +2,9 @@
 title: Bamenda
 location:
   country: Cameroon
-  state: 
+  state: ''
   city: Bamenda
-  neighborhood: 
+  neighborhood: ''
   coordinates: 5.961412, 10.151651
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

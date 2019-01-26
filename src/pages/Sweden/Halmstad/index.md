@@ -2,9 +2,9 @@
 title: Halmstad
 location:
   country: Sweden
-  state: 
+  state: ''
   city: Halmstad
-  neighborhood: 
+  neighborhood: ''
   coordinates: 56.673983, 12.857483
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

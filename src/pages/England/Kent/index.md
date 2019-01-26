@@ -2,9 +2,9 @@
 title: Kent
 location:
   country: England
-  state: 
+  state: ''
   city: Kent
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.198643, 0.745367
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

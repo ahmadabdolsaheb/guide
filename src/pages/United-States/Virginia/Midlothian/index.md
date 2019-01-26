@@ -4,7 +4,7 @@ location:
   country: United States
   state: Virginia
   city: Midlothian
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.625312, -87.717549
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

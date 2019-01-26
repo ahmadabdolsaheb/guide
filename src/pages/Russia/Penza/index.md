@@ -2,9 +2,9 @@
 title: Penza
 location:
   country: Russia
-  state: 
+  state: ''
   city: Penza
-  neighborhood: 
+  neighborhood: ''
   coordinates: 53.2, 45
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

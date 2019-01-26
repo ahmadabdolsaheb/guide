@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Pará
   city: Belém
-  neighborhood: 
+  neighborhood: ''
   coordinates: -1.45056, -48.468245
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

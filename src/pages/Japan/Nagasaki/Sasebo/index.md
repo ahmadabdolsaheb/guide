@@ -4,7 +4,7 @@ location:
   country: Japan
   state: Nagasaki
   city: Sasebo
-  neighborhood: 
+  neighborhood: ''
   coordinates: 33.177797, 129.672769
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

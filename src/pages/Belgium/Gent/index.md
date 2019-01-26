@@ -2,9 +2,9 @@
 title: Gent
 location:
   country: Belgium
-  state: 
+  state: ''
   city: Gent
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.053829, 3.725012
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

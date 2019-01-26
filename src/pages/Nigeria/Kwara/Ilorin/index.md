@@ -4,7 +4,7 @@ location:
   country: Nigeria
   state: Kwara
   city: Ilorin
-  neighborhood: 
+  neighborhood: ''
   coordinates: 8.496366, 4.548048
   plusCode: ''
 social:

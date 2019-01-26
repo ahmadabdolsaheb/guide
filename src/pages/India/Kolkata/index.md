@@ -2,9 +2,9 @@
 title: Kolkata
 location:
   country: India
-  state: 
+  state: ''
   city: Kolkata
-  neighborhood: 
+  neighborhood: ''
   coordinates: 22.567746, 88.347602
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

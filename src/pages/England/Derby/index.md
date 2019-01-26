@@ -2,9 +2,9 @@
 title: Derby
 location:
   country: England
-  state: 
+  state: ''
   city: Derby
-  neighborhood: 
+  neighborhood: ''
   coordinates: 52.921262, -1.476149
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Rennes
 location:
   country: France
-  state: 
+  state: ''
   city: Rennes
-  neighborhood: 
+  neighborhood: ''
   coordinates: 48.111359, -1.680009
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

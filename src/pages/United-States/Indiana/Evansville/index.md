@@ -4,7 +4,7 @@ location:
   country: United States
   state: Indiana
   city: Evansville
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.974765, -87.555848
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

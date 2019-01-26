@@ -2,9 +2,9 @@
 title: Taichung
 location:
   country: Taiwan
-  state: 
+  state: ''
   city: Taichung
-  neighborhood: 
+  neighborhood: ''
   coordinates: 24.163162, 120.647828
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

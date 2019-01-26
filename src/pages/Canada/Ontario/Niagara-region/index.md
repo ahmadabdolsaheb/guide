@@ -4,7 +4,7 @@ location:
   country: Canada
   state: Ontario
   city: Niagara region
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.11624, -79.24122
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Santa Clara
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.354113, -121.955174
   plusCode: ''
 social:

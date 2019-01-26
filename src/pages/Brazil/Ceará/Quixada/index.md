@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Ceará
   city: Quixada
-  neighborhood: 
+  neighborhood: ''
   coordinates: -4.9685795,-39.0162466
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: Idaho
   city: Twin Falls
-  neighborhood: 
+  neighborhood: ''
   coordinates: 42.562967, -114.460871
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

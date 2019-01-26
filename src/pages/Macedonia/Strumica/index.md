@@ -2,9 +2,9 @@
 title: Strumica
 location:
   country: Macedonia
-  state: 
+  state: ''
   city: Strumica
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.439205, 22.63972
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

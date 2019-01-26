@@ -4,7 +4,7 @@ location:
   country: United States
   state: Florida
   city: Boca Raton
-  neighborhood: 
+  neighborhood: ''
   coordinates: 26.358689, -80.083098
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

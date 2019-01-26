@@ -2,9 +2,9 @@
 title: Koch Bihar
 location:
   country: India
-  state: 
+  state: ''
   city: Koch Bihar
-  neighborhood: 
+  neighborhood: ''
   coordinates: 26.32237, 89.459245
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

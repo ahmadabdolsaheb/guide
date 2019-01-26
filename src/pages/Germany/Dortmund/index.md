@@ -2,9 +2,9 @@
 title: Dortmund
 location:
   country: Germany
-  state: 
+  state: ''
   city: Dortmund
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.514227, 7.465279
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

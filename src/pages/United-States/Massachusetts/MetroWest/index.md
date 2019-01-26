@@ -4,7 +4,7 @@ location:
   country: United States
   state: Massachusetts
   city: MetroWest
-  neighborhood: 
+  neighborhood: ''
   coordinates: 28.51568, -81.478898
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

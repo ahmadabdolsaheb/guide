@@ -4,7 +4,7 @@ location:
   country: United States
   state: Illinois
   city: Macomb
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.458981, -90.670981
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

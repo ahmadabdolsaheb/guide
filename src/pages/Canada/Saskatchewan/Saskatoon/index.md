@@ -4,7 +4,7 @@ location:
   country: Canada
   state: Saskatchewan
   city: Saskatoon
-  neighborhood: 
+  neighborhood: ''
   coordinates: 52.1332144,-106.6700458
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

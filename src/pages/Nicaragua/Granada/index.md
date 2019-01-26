@@ -2,9 +2,9 @@
 title: Granada
 location:
   country: Nicaragua
-  state: 
+  state: ''
   city: Granada
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.18302, -3.602192
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

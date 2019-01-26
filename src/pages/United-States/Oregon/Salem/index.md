@@ -4,7 +4,7 @@ location:
   country: United States
   state: Oregon
   city: Salem
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.939157, -123.033121
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

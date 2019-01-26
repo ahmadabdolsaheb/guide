@@ -2,9 +2,9 @@
 title: Sandefjord
 location:
   country: Norway
-  state: 
+  state: ''
   city: Sandefjord
-  neighborhood: 
+  neighborhood: ''
   coordinates: 59.004194, 10.311856
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

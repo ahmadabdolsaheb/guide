@@ -4,7 +4,7 @@ location:
   country: United States
   state: Wyoming
   city: Rawlins
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.7910697,-107.2386627
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

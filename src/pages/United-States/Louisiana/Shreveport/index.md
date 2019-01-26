@@ -4,7 +4,7 @@ location:
   country: United States
   state: Louisiana
   city: Shreveport
-  neighborhood: 
+  neighborhood: ''
   coordinates: 32.522183, -93.765194
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

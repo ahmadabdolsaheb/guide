@@ -2,9 +2,9 @@
 title: Aba
 location:
   country: Nigeria
-  state: 
+  state: ''
   city: Aba
-  neighborhood: 
+  neighborhood: ''
   coordinates: 5.112735, 7.36435
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Ticino
 location:
   country: Switzerland
-  state: 
+  state: ''
   city: Ticino
-  neighborhood: 
+  neighborhood: ''
   coordinates: -32.692909, -63.435595
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: Florida
   city: Gainesville
-  neighborhood: 
+  neighborhood: ''
   coordinates: 29.651907, -82.324798
   plusCode: ''
 social:

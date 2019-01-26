@@ -4,7 +4,7 @@ location:
   country: South Korea
   state: Gyeonggi
   city: Seoul
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.565486, 126.97799
   plusCode: ''
 social:

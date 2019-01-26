@@ -2,9 +2,9 @@
 title: Hamburg
 location:
   country: Germany
-  state: 
+  state: ''
   city: Hamburg
-  neighborhood: 
+  neighborhood: ''
   coordinates: 53.550341, 10.000654
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

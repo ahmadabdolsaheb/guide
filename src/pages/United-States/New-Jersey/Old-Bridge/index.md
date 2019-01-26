@@ -4,7 +4,7 @@ location:
   country: United States
   state: New Jersey
   city: Old Bridge
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.414071, -74.30421
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

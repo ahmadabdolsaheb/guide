@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Paraná
   city: Maringá
-  neighborhood: 
+  neighborhood: ''
   coordinates: -23.425104, -51.938285
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

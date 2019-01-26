@@ -4,7 +4,7 @@ location:
   country: South Korea
   state: Gyeongsangnam
   city: Busan
-  neighborhood: 
+  neighborhood: ''
   coordinates: 27.918868, 68.23265
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

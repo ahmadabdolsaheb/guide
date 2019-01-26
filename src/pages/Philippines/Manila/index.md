@@ -2,9 +2,9 @@
 title: Manila
 location:
   country: Philippines
-  state: 
+  state: ''
   city: Manila
-  neighborhood: 
+  neighborhood: ''
   coordinates: 14.590622, 120.97997
   plusCode: ''
 social:

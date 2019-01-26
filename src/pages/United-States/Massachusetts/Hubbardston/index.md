@@ -4,7 +4,7 @@ location:
   country: United States
   state: Massachusetts
   city: Hubbardston
-  neighborhood: 
+  neighborhood: ''
   coordinates: 42.473701, -72.006188
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

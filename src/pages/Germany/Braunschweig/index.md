@@ -2,9 +2,9 @@
 title: Braunschweig
 location:
   country: Germany
-  state: 
+  state: ''
   city: Braunschweig
-  neighborhood: 
+  neighborhood: ''
   coordinates: 52.263996, 10.525267
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

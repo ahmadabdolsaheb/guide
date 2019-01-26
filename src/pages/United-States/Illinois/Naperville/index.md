@@ -4,7 +4,7 @@ location:
   country: United States
   state: Illinois
   city: Naperville
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.772911, -88.147867
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

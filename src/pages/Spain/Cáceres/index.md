@@ -2,9 +2,9 @@
 title: Cáceres
 location:
   country: Spain
-  state: 
+  state: ''
   city: Cáceres
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.475155, -6.371413
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

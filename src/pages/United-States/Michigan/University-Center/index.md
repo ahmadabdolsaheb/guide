@@ -4,7 +4,7 @@ location:
   country: United States
   state: Michigan
   city: University Center
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.056308, -77.440484
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

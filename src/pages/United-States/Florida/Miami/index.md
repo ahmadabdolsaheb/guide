@@ -4,7 +4,7 @@ location:
   country: United States
   state: Florida
   city: Miami
-  neighborhood: 
+  neighborhood: ''
   coordinates: 25.774266, -80.193659
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

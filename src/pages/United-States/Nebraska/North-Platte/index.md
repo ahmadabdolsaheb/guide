@@ -4,7 +4,7 @@ location:
   country: United States
   state: Nebraska
   city: North Platte
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.123887, -100.765423
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

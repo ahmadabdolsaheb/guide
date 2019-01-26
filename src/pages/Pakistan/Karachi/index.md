@@ -2,9 +2,9 @@
 title: Karachi
 location:
   country: Pakistan
-  state: 
+  state: ''
   city: Karachi
-  neighborhood: 
+  neighborhood: ''
   coordinates: 24.86678, 67.031129
   plusCode: ''
 social:

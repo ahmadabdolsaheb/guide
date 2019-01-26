@@ -4,7 +4,7 @@ location:
   country: United States
   state: Other US locations
   city: Hampton Roads
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.036465, -76.393608
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

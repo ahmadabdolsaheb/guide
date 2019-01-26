@@ -2,9 +2,9 @@
 title: Saint-André
 location:
   country: Reunion
-  state: 
+  state: ''
   city: Saint-André
-  neighborhood: 
+  neighborhood: ''
   coordinates: -20.960633, 55.649273
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

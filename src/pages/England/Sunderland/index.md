@@ -2,9 +2,9 @@
 title: Sunderland
 location:
   country: England
-  state: 
+  state: ''
   city: Sunderland
-  neighborhood: 
+  neighborhood: ''
   coordinates: 54.906379, -1.375053
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

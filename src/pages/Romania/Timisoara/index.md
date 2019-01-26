@@ -2,9 +2,9 @@
 title: Timisoara
 location:
   country: Romania
-  state: 
+  state: ''
   city: Timisoara
-  neighborhood: 
+  neighborhood: ''
   coordinates: 45.753836, 21.225747
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: New Jersey
   city: New Brunswick
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.486217, -74.451817
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

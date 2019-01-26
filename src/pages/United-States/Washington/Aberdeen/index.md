@@ -4,7 +4,7 @@ location:
   country: United States
   state: Washington
   city: Aberdeen
-  neighborhood: 
+  neighborhood: ''
   coordinates: 57.145245, -2.091375
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

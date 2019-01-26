@@ -2,9 +2,9 @@
 title: Yaounde
 location:
   country: Cameroon
-  state: 
+  state: ''
   city: Yaounde
-  neighborhood: 
+  neighborhood: ''
   coordinates: 3.868987, 11.521334
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

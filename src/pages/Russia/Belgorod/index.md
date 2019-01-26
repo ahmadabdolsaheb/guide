@@ -2,9 +2,9 @@
 title: Belgorod
 location:
   country: Russia
-  state: 
+  state: ''
   city: Belgorod
-  neighborhood: 
+  neighborhood: ''
   coordinates: 50.595299, 36.586934
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: Ohio
   city: East Liverpool
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.618676, -80.577293
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

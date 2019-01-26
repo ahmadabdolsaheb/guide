@@ -4,7 +4,7 @@ location:
   country: China
   state: Henan
   city: Zhengzhou
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.759188, 113.652408
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

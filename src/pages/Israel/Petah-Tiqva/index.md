@@ -2,9 +2,9 @@
 title: Petah Tiqva
 location:
   country: Israel
-  state: 
+  state: ''
   city: Petah Tiqva
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.78373, -100.445882
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

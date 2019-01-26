@@ -2,9 +2,9 @@
 title: Zaporozhye
 location:
   country: Ukraine
-  state: 
+  state: ''
   city: Zaporozhye
-  neighborhood: 
+  neighborhood: ''
   coordinates: 47.850782, 35.118292
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

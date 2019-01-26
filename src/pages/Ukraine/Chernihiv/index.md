@@ -2,9 +2,9 @@
 title: Chernihiv
 location:
   country: Ukraine
-  state: 
+  state: ''
   city: Chernihiv
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.494099, 31.294332
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

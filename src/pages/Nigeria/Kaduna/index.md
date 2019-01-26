@@ -2,9 +2,9 @@
 title: Kaduna
 location:
   country: Nigeria
-  state: 
+  state: ''
   city: Kaduna
-  neighborhood: 
+  neighborhood: ''
   coordinates: 10.51829, 7.435986
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Tabriz
 location:
   country: Iran
-  state: 
+  state: ''
   city: Tabriz
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.077395, 46.289161
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

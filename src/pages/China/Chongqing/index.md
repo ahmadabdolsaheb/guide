@@ -2,9 +2,9 @@
 title: Chongqing
 location:
   country: China
-  state: 
+  state: ''
   city: Chongqing
-  neighborhood: 
+  neighborhood: ''
   coordinates: 29.558571, 106.549282
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

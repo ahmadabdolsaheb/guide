@@ -4,7 +4,7 @@ location:
   country: Canada
   state: Ontario
   city: Cambridge
-  neighborhood: 
+  neighborhood: ''
   coordinates: 52.203305, 0.124862
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

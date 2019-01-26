@@ -2,9 +2,9 @@
 title: Barquisimeto
 location:
   country: Venezuela
-  state: 
+  state: ''
   city: Barquisimeto
-  neighborhood: 
+  neighborhood: ''
   coordinates: 10.074037, -69.321567
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: Pennsylvania
   city: Pittsburgh
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.441694, -79.990086
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

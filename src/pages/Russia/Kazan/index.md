@@ -2,9 +2,9 @@
 title: Kazan
 location:
   country: Russia
-  state: 
+  state: ''
   city: Kazan
-  neighborhood: 
+  neighborhood: ''
   coordinates: 55.760419, 49.190294
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

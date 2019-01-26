@@ -2,9 +2,9 @@
 title: San Pedro
 location:
   country: Costa Rica
-  state: 
+  state: ''
   city: San Pedro
-  neighborhood: 
+  neighborhood: ''
   coordinates: -22.628455, -65.021742
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

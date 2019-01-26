@@ -4,7 +4,7 @@ location:
   country: United States
   state: New York
   city: Ithaca
-  neighborhood: 
+  neighborhood: ''
   coordinates: 42.439604, -76.496802
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

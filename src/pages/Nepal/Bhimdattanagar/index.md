@@ -2,9 +2,9 @@
 title: Bhimdattanagar
 location:
   country: Nepal
-  state: 
+  state: ''
   city: Bhimdattanagar
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.78373, -100.445882
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

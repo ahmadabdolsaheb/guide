@@ -2,9 +2,9 @@
 title: Sétif
 location:
   country: Algeria
-  state: 
+  state: ''
   city: Sétif
-  neighborhood: 
+  neighborhood: ''
   coordinates: 36.189475, 5.404666
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

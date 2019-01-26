@@ -4,7 +4,7 @@ location:
   country: India
   state: Uttar Pradesh
   city: Lucknow
-  neighborhood: 
+  neighborhood: ''
   coordinates: 26.8381, 80.9346
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

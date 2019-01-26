@@ -4,7 +4,7 @@ location:
   country: United States
   state: South Dakota
   city: Sioux Falls
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.549975, -96.700327
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

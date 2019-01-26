@@ -2,9 +2,9 @@
 title: Gaborone
 location:
   country: Botswana
-  state: 
+  state: ''
   city: Gaborone
-  neighborhood: 
+  neighborhood: ''
   coordinates: -24.655319, 25.908728
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

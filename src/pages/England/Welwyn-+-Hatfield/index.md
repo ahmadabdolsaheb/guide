@@ -2,9 +2,9 @@
 title: Welwyn + Hatfield
 location:
   country: England
-  state: 
+  state: ''
   city: Welwyn + Hatfield
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.773106, -0.209517
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: Ohio
   city: Wooster
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.805057, -81.935143
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

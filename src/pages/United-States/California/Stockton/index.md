@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Stockton
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.957702, -121.29078
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

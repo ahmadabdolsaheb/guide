@@ -2,9 +2,9 @@
 title: Bucharest
 location:
   country: Romania
-  state: 
+  state: ''
   city: Bucharest
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.436141, 26.10272
   plusCode: ''
 social:

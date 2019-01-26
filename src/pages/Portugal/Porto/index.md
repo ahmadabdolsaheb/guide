@@ -2,9 +2,9 @@
 title: Porto
 location:
   country: Portugal
-  state: 
+  state: ''
   city: Porto
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.149451, -8.610788
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

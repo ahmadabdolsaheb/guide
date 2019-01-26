@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Kingsburg
-  neighborhood: 
+  neighborhood: ''
   coordinates: 36.51384, -119.553893
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: India
   state: Andhra Pradesh
   city: Vizag
-  neighborhood: 
+  neighborhood: ''
   coordinates: 17.723128, 83.301284
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

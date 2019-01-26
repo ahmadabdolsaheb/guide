@@ -4,7 +4,7 @@ location:
   country: United States
   state: Maine
   city: Augusta
-  neighborhood: 
+  neighborhood: ''
   coordinates: 33.470971, -81.974843
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

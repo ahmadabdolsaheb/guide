@@ -2,9 +2,9 @@
 title: Grenoble
 location:
   country: France
-  state: 
+  state: ''
   city: Grenoble
-  neighborhood: 
+  neighborhood: ''
   coordinates: 45.182478, 5.721077
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

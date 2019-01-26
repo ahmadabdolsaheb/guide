@@ -2,9 +2,9 @@
 title: Novi Sad
 location:
   country: Serbia
-  state: 
+  state: ''
   city: Novi Sad
-  neighborhood: 
+  neighborhood: ''
   coordinates: 45.255105, 19.845081
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

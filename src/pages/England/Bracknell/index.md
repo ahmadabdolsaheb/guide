@@ -2,9 +2,9 @@
 title: Bracknell
 location:
   country: England
-  state: 
+  state: ''
   city: Bracknell
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.414351, -0.744992
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Gladstone
 location:
   country: Australia
-  state: 
+  state: ''
   city: Gladstone
-  neighborhood: 
+  neighborhood: ''
   coordinates: -23.843172, 151.256132
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

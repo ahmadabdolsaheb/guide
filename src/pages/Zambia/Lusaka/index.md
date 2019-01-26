@@ -2,9 +2,9 @@
 title: Lusaka
 location:
   country: Zambia
-  state: 
+  state: ''
   city: Lusaka
-  neighborhood: 
+  neighborhood: ''
   coordinates: -15.416697, 28.281381
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

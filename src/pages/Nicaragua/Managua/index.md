@@ -2,9 +2,9 @@
 title: Managua
 location:
   country: Nicaragua
-  state: 
+  state: ''
   city: Managua
-  neighborhood: 
+  neighborhood: ''
   coordinates: 12.146124, -86.273717
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

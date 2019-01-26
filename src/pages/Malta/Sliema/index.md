@@ -2,9 +2,9 @@
 title: Sliema
 location:
   country: Malta
-  state: 
+  state: ''
   city: Sliema
-  neighborhood: 
+  neighborhood: ''
   coordinates: 35.912761, 14.502071
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

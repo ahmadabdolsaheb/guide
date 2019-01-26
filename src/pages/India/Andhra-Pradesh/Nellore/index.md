@@ -4,7 +4,7 @@ location:
   country: India
   state: Andhra Pradesh
   city: Nellore
-  neighborhood: 
+  neighborhood: ''
   coordinates: 14.449372, 79.987376
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

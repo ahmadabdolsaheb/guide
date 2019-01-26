@@ -4,7 +4,7 @@ location:
   country: India
   state: Karnataka
   city: Mysore
-  neighborhood: 
+  neighborhood: ''
   coordinates: 12.305183, 76.655361
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Adamawa
 location:
   country: Nigeria
-  state: 
+  state: ''
   city: Adamawa
-  neighborhood: 
+  neighborhood: ''
   coordinates: 11.483333, 10.966667
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

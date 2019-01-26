@@ -4,7 +4,7 @@ location:
   country: United States
   state: Florida
   city: Palm Bay
-  neighborhood: 
+  neighborhood: ''
   coordinates: 28.033189, -80.642969
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

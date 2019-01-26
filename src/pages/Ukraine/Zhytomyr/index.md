@@ -2,9 +2,9 @@
 title: Zhytomyr
 location:
   country: Ukraine
-  state: 
+  state: ''
   city: Zhytomyr
-  neighborhood: 
+  neighborhood: ''
   coordinates: 50.25983, 28.669235
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

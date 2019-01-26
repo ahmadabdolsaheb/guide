@@ -4,7 +4,7 @@ location:
   country: United States
   state: Texas
   city: Austin
-  neighborhood: 
+  neighborhood: ''
   coordinates: 30.271129, -97.743699
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Cartagena
 location:
   country: Colombia
-  state: 
+  state: ''
   city: Cartagena
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.626787, -1.000618
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

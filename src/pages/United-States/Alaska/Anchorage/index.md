@@ -4,7 +4,7 @@ location:
   country: United States
   state: Alaska
   city: Anchorage
-  neighborhood: 
+  neighborhood: ''
   coordinates: 61.216313, -149.894852
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

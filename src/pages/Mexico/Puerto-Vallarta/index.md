@@ -2,9 +2,9 @@
 title: Puerto Vallarta
 location:
   country: Mexico
-  state: 
+  state: ''
   city: Puerto Vallarta
-  neighborhood: 
+  neighborhood: ''
   coordinates: 20.609224, -105.233893
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

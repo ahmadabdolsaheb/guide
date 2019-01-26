@@ -4,7 +4,7 @@ location:
   country: United States
   state: Florida
   city: Tallahassee
-  neighborhood: 
+  neighborhood: ''
   coordinates: 30.438083, -84.280933
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

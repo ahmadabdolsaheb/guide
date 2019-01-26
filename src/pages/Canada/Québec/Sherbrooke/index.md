@@ -4,7 +4,7 @@ location:
   country: Canada
   state: Québec
   city: Sherbrooke
-  neighborhood: 
+  neighborhood: ''
   coordinates: 45.402996, -71.887681
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

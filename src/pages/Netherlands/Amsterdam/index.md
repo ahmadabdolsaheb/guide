@@ -2,9 +2,9 @@
 title: Amsterdam
 location:
   country: Netherlands
-  state: 
+  state: ''
   city: Amsterdam
-  neighborhood: 
+  neighborhood: ''
   coordinates: 52.374436, 4.897996
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

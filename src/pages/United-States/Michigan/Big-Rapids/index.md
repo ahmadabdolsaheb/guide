@@ -4,7 +4,7 @@ location:
   country: United States
   state: Michigan
   city: Big Rapids
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.698078, -85.483656
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

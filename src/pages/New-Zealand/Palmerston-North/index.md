@@ -2,9 +2,9 @@
 title: Palmerston North
 location:
   country: New Zealand
-  state: 
+  state: ''
   city: Palmerston North
-  neighborhood: 
+  neighborhood: ''
   coordinates: -40.354244, 175.613413
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

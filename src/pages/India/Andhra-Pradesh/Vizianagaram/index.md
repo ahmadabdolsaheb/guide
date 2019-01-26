@@ -4,7 +4,7 @@ location:
   country: India
   state: Andhra Pradesh
   city: Vizianagaram
-  neighborhood: 
+  neighborhood: ''
   coordinates: 18.115498, 83.397881
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

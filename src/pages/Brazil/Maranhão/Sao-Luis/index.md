@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Maranhão
   city: Sao Luis
-  neighborhood: 
+  neighborhood: ''
   coordinates: -2.531922, -44.293328
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

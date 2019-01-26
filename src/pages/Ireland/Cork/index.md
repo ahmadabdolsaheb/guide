@@ -2,9 +2,9 @@
 title: Cork
 location:
   country: Ireland
-  state: 
+  state: ''
   city: Cork
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.897928, -8.470581
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

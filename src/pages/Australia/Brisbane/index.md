@@ -2,9 +2,9 @@
 title: Brisbane
 location:
   country: Australia
-  state: 
+  state: ''
   city: Brisbane
-  neighborhood: 
+  neighborhood: ''
   coordinates: -27.468968, 153.023499
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

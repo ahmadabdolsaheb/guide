@@ -4,7 +4,7 @@ location:
   country: India
   state: Maharashtra
   city: Aurangabad
-  neighborhood: 
+  neighborhood: ''
   coordinates: 19.873954, 75.32778
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

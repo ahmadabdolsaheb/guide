@@ -4,7 +4,7 @@ location:
   country: United States
   state: Washington
   city: Port Angeles
-  neighborhood: 
+  neighborhood: ''
   coordinates: 48.118146, -123.430741
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: India
   state: Uttar Pradesh
   city: Noida
-  neighborhood: 
+  neighborhood: ''
   coordinates: 28.572644, 77.354761
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

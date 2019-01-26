@@ -2,9 +2,9 @@
 title: Kuala Lumpur
 location:
   country: Malaysia
-  state: 
+  state: ''
   city: Kuala Lumpur
-  neighborhood: 
+  neighborhood: ''
   coordinates: 0.642715, 122.590977
   plusCode: ''
 social:

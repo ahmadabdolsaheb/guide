@@ -2,9 +2,9 @@
 title: Arusha
 location:
   country: Tanzania
-  state: 
+  state: ''
   city: Arusha
-  neighborhood: 
+  neighborhood: ''
   coordinates: -3.366956, 36.691552
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

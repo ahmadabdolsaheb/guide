@@ -2,9 +2,9 @@
 title: Mönchengladbach
 location:
   country: Germany
-  state: 
+  state: ''
   city: Mönchengladbach
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.194698, 6.435364
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

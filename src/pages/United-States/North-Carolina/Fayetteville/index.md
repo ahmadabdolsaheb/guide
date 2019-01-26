@@ -4,7 +4,7 @@ location:
   country: United States
   state: North Carolina
   city: Fayetteville
-  neighborhood: 
+  neighborhood: ''
   coordinates: 36.062584, -94.157433
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

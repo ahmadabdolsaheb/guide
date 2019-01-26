@@ -2,9 +2,9 @@
 title: Veurne
 location:
   country: Belgium
-  state: 
+  state: ''
   city: Veurne
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.071043, 2.654886
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

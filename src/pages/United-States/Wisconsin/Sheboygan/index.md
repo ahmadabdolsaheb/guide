@@ -4,7 +4,7 @@ location:
   country: United States
   state: Wisconsin
   city: Sheboygan
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.750828, -87.71453
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

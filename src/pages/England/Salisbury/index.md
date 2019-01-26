@@ -2,9 +2,9 @@
 title: Salisbury
 location:
   country: England
-  state: 
+  state: ''
   city: Salisbury
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.073661, -1.795118
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Rio de Janeiro
   city: Rio de Janeiro
-  neighborhood: 
+  neighborhood: ''
   coordinates: -22.911014, -43.209373
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

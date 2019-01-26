@@ -2,9 +2,9 @@
 title: Chernivtsi
 location:
   country: Ukraine
-  state: 
+  state: ''
   city: Chernivtsi
-  neighborhood: 
+  neighborhood: ''
   coordinates: 48.28647, 25.937653
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: San Bernardino
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.108345, -117.289765
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

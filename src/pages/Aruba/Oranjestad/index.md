@@ -2,9 +2,9 @@
 title: Oranjestad
 location:
   country: Aruba
-  state: 
+  state: ''
   city: Oranjestad
-  neighborhood: 
+  neighborhood: ''
   coordinates: 12.526874, -70.035684
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

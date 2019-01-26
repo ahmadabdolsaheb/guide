@@ -2,9 +2,9 @@
 title: Rio Bravo
 location:
   country: Mexico
-  state: 
+  state: ''
   city: Rio Bravo
-  neighborhood: 
+  neighborhood: ''
   coordinates: 27.364189, -99.480041
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

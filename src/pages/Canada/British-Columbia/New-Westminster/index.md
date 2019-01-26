@@ -4,7 +4,7 @@ location:
   country: Canada
   state: British Columbia
   city: New Westminster
-  neighborhood: 
+  neighborhood: ''
   coordinates: 49.2067, -122.910898
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: Tennessee
   city: Cookeville
-  neighborhood: 
+  neighborhood: ''
   coordinates: 36.157232, -85.500466
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

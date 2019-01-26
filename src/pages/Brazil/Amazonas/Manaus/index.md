@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Amazonas
   city: Manaus
-  neighborhood: 
+  neighborhood: ''
   coordinates: -3.132862, -59.986529
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

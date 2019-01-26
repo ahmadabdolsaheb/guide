@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Ceará
   city: Fortaleza
-  neighborhood: 
+  neighborhood: ''
   coordinates: -3.730451, -38.521799
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

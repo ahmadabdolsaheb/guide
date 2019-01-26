@@ -4,7 +4,7 @@ location:
   country: Japan
   state: Aichi
   city: Nagoya
-  neighborhood: 
+  neighborhood: ''
   coordinates: 35.183333, 136.9
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

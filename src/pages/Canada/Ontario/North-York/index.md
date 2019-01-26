@@ -4,7 +4,7 @@ location:
   country: Canada
   state: Ontario
   city: North York
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.978154, -76.733022
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

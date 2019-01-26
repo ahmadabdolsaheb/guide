@@ -2,9 +2,9 @@
 title: Almere
 location:
   country: Netherlands
-  state: 
+  state: ''
   city: Almere
-  neighborhood: 
+  neighborhood: ''
   coordinates: 52.441759, 5.209315
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

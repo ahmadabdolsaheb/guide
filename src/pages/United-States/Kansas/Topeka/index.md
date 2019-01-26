@@ -4,7 +4,7 @@ location:
   country: United States
   state: Kansas
   city: Topeka
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.049011, -95.677556
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

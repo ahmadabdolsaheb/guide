@@ -4,7 +4,7 @@ location:
   country: Canada
   state: British Columbia
   city: Terrace
-  neighborhood: 
+  neighborhood: ''
   coordinates: 54.520572, -128.606057
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

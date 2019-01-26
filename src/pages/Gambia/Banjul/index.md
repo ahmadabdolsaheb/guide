@@ -2,9 +2,9 @@
 title: Banjul
 location:
   country: Gambia
-  state: 
+  state: ''
   city: Banjul
-  neighborhood: 
+  neighborhood: ''
   coordinates: 13.45535, -16.575646
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

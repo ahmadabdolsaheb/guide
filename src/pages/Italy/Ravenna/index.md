@@ -2,9 +2,9 @@
 title: Ravenna
 location:
   country: Italy
-  state: 
+  state: ''
   city: Ravenna
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.416141, 12.201762
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

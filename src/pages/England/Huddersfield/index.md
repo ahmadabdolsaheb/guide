@@ -2,9 +2,9 @@
 title: Huddersfield
 location:
   country: England
-  state: 
+  state: ''
   city: Huddersfield
-  neighborhood: 
+  neighborhood: ''
   coordinates: 53.646703, -1.783208
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

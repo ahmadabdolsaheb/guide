@@ -2,9 +2,9 @@
 title: Aarau
 location:
   country: Switzerland
-  state: 
+  state: ''
   city: Aarau
-  neighborhood: 
+  neighborhood: ''
   coordinates: 47.392715, 8.044445
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

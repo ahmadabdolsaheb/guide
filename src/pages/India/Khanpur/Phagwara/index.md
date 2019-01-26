@@ -4,7 +4,7 @@ location:
   country: India
   state: Khanpur
   city: Phagwara
-  neighborhood: 
+  neighborhood: ''
   coordinates: 31.220673, 75.769646
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

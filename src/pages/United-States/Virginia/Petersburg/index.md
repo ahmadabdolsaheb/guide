@@ -4,7 +4,7 @@ location:
   country: United States
   state: Virginia
   city: Petersburg
-  neighborhood: 
+  neighborhood: ''
   coordinates: 59.939366, 30.315363
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

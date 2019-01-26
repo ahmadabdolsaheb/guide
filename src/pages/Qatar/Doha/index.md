@@ -2,9 +2,9 @@
 title: Doha
 location:
   country: Qatar
-  state: 
+  state: ''
   city: Doha
-  neighborhood: 
+  neighborhood: ''
   coordinates: 25.301496, 51.499667
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

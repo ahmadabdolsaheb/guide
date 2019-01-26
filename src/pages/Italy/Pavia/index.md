@@ -2,9 +2,9 @@
 title: Pavia
 location:
   country: Italy
-  state: 
+  state: ''
   city: Pavia
-  neighborhood: 
+  neighborhood: ''
   coordinates: 45.186004, 9.154638
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

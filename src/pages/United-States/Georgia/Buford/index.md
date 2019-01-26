@@ -4,7 +4,7 @@ location:
   country: United States
   state: Georgia
   city: Buford
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.120656, -84.004351
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

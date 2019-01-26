@@ -2,9 +2,9 @@
 title: Irkutsk
 location:
   country: Russia
-  state: 
+  state: ''
   city: Irkutsk
-  neighborhood: 
+  neighborhood: ''
   coordinates: 52.289598, 104.280584
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: South Carolina
   city: Columbia
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.000749, -81.034331
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

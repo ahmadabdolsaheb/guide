@@ -2,9 +2,9 @@
 title: Lodi
 location:
   country: Italy
-  state: 
+  state: ''
   city: Lodi
-  neighborhood: 
+  neighborhood: ''
   coordinates: 45.313823, 9.502427
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

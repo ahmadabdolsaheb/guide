@@ -4,7 +4,7 @@ location:
   country: India
   state: Chattisgarh
   city: Delhi
-  neighborhood: 
+  neighborhood: ''
   coordinates: 28.651718, 77.221939
   plusCode: ''
 social:

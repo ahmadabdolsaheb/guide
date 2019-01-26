@@ -4,7 +4,7 @@ location:
   country: United States
   state: North Carolina
   city: Wake Forest
-  neighborhood: 
+  neighborhood: ''
   coordinates: 35.98031, -78.510343
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: India
   state: Maharashtra
   city: Nagpur
-  neighborhood: 
+  neighborhood: ''
   coordinates: 21.149804, 79.080609
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: Colorado
   city: Colorado Springs
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.833958, -104.825348
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

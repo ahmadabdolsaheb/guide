@@ -2,9 +2,9 @@
 title: Guantánamo
 location:
   country: Cuba
-  state: 
+  state: ''
   city: Guantánamo
-  neighborhood: 
+  neighborhood: ''
   coordinates: 20.144953, -75.207252
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

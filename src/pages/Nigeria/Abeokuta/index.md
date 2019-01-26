@@ -2,9 +2,9 @@
 title: Abeokuta
 location:
   country: Nigeria
-  state: 
+  state: ''
   city: Abeokuta
-  neighborhood: 
+  neighborhood: ''
   coordinates: 7.161, 3.348
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

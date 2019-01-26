@@ -4,7 +4,7 @@ location:
   country: United States
   state: Louisiana
   city: Alexandria
-  neighborhood: 
+  neighborhood: ''
   coordinates: 31.199004, 29.894379
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

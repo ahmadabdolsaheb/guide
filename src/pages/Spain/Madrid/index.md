@@ -2,9 +2,9 @@
 title: Madrid
 location:
   country: Spain
-  state: 
+  state: ''
   city: Madrid
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.416705, -3.703582
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

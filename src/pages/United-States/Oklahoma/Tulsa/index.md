@@ -4,7 +4,7 @@ location:
   country: United States
   state: Oklahoma
   city: Tulsa
-  neighborhood: 
+  neighborhood: ''
   coordinates: 36.155681, -95.992911
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

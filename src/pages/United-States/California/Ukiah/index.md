@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Ukiah
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.150166, -123.207786
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

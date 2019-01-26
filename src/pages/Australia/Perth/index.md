@@ -2,9 +2,9 @@
 title: Perth
 location:
   country: Australia
-  state: 
+  state: ''
   city: Perth
-  neighborhood: 
+  neighborhood: ''
   coordinates: -31.952712, 115.86048
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

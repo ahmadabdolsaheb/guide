@@ -4,7 +4,7 @@ location:
   country: Canada
   state: Alberta
   city: Red Deer
-  neighborhood: 
+  neighborhood: ''
   coordinates: 52.269182, -113.815762
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

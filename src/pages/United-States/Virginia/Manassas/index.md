@@ -4,7 +4,7 @@ location:
   country: United States
   state: Virginia
   city: Manassas
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.750949, -77.475267
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

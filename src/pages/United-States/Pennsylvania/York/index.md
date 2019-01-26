@@ -4,7 +4,7 @@ location:
   country: United States
   state: Pennsylvania
   city: York
-  neighborhood: 
+  neighborhood: ''
   coordinates: 53.959056, -1.081536
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

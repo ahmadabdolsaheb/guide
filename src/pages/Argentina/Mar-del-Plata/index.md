@@ -2,9 +2,9 @@
 title: Mar del Plata
 location:
   country: Argentina
-  state: 
+  state: ''
   city: Mar del Plata
-  neighborhood: 
+  neighborhood: ''
   coordinates: -37.997722, -57.54827
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

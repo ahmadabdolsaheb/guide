@@ -4,7 +4,7 @@ location:
   country: United States
   state: Utah
   city: Provo
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.233844, -111.658534
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

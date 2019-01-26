@@ -2,9 +2,9 @@
 title: Torino
 location:
   country: Italy
-  state: 
+  state: ''
   city: Torino
-  neighborhood: 
+  neighborhood: ''
   coordinates: 45.07092, 7.685972
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

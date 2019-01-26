@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Mato Grosso
   city: Lucas do Rio Verde
-  neighborhood: 
+  neighborhood: ''
   coordinates: -13.065455, -55.920077
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

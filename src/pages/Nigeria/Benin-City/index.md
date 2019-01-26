@@ -2,9 +2,9 @@
 title: Benin City
 location:
   country: Nigeria
-  state: 
+  state: ''
   city: Benin City
-  neighborhood: 
+  neighborhood: ''
   coordinates: 6.333059, 5.622106
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

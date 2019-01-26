@@ -4,7 +4,7 @@ location:
   country: Algeria
   state: Annaba
   city: Annaba
-  neighborhood: 
+  neighborhood: ''
   coordinates: 36.9264582,7.752535200000001
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

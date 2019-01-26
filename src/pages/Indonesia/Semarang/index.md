@@ -2,9 +2,9 @@
 title: Semarang
 location:
   country: Indonesia
-  state: 
+  state: ''
   city: Semarang
-  neighborhood: 
+  neighborhood: ''
   coordinates: -6.990404, 110.422946
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

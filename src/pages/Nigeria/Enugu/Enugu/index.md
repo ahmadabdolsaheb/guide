@@ -4,7 +4,7 @@ location:
   country: Nigeria
   state: Enugu
   city: Enugu
-  neighborhood: 
+  neighborhood: ''
   coordinates: 6.4583661,7.5463885
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

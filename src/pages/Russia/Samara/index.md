@@ -2,9 +2,9 @@
 title: Samara
 location:
   country: Russia
-  state: 
+  state: ''
   city: Samara
-  neighborhood: 
+  neighborhood: ''
   coordinates: 53.198476, 50.114242
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Fremont
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.54827, -121.988572
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

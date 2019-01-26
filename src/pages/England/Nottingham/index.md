@@ -2,9 +2,9 @@
 title: Nottingham
 location:
   country: England
-  state: 
+  state: ''
   city: Nottingham
-  neighborhood: 
+  neighborhood: ''
   coordinates: 52.955863, -1.158047
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

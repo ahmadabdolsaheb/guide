@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Santa Catarina
   city: Balneário Camboriú
-  neighborhood: 
+  neighborhood: ''
   coordinates: -26.992439, -48.633978
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

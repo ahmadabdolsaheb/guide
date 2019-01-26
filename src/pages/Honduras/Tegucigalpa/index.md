@@ -2,9 +2,9 @@
 title: Tegucigalpa
 location:
   country: Honduras
-  state: 
+  state: ''
   city: Tegucigalpa
-  neighborhood: 
+  neighborhood: ''
   coordinates: 14.093192, -87.201263
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

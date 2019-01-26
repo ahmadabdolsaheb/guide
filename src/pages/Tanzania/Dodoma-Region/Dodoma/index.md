@@ -4,7 +4,7 @@ location:
   country: Tanzania
   state: Dodoma Region
   city: Dodoma
-  neighborhood: 
+  neighborhood: ''
   coordinates: -6.162959000000001,35.7516069
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

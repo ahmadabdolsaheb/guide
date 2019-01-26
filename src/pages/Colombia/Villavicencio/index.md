@@ -2,9 +2,9 @@
 title: Villavicencio
 location:
   country: Colombia
-  state: 
+  state: ''
   city: Villavicencio
-  neighborhood: 
+  neighborhood: ''
   coordinates: 4.131511, -73.620667
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

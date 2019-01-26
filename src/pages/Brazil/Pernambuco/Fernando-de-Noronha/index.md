@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Pernambuco
   city: Fernando de Noronha
-  neighborhood: 
+  neighborhood: ''
   coordinates: -3.856101, -32.424819
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

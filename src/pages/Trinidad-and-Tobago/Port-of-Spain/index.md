@@ -2,9 +2,9 @@
 title: Port of Spain
 location:
   country: Trinidad and Tobago
-  state: 
+  state: ''
   city: Port of Spain
-  neighborhood: 
+  neighborhood: ''
   coordinates: 10.657268, -61.518017
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

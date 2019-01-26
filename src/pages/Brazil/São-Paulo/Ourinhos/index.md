@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: São Paulo
   city: Ourinhos
-  neighborhood: 
+  neighborhood: ''
   coordinates: -22.9493713,-49.87520689999999
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

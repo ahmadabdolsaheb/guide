@@ -4,7 +4,7 @@ location:
   country: United States
   state: Arizona
   city: Prescott
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.540024, -112.468502
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

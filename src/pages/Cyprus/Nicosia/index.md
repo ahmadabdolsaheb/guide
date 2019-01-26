@@ -2,9 +2,9 @@
 title: Nicosia
 location:
   country: Cyprus
-  state: 
+  state: ''
   city: Nicosia
-  neighborhood: 
+  neighborhood: ''
   coordinates: 35.180282, 33.373687
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

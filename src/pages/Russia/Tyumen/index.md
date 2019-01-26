@@ -2,9 +2,9 @@
 title: Tyumen
 location:
   country: Russia
-  state: 
+  state: ''
   city: Tyumen
-  neighborhood: 
+  neighborhood: ''
   coordinates: 57.153534, 65.542276
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

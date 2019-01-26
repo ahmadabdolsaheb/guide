@@ -4,7 +4,7 @@ location:
   country: United States
   state: Iowa
   city: Sioux City
-  neighborhood: 
+  neighborhood: ''
   coordinates: 42.496682, -96.405878
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

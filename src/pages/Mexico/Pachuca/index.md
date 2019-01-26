@@ -2,9 +2,9 @@
 title: Pachuca
 location:
   country: Mexico
-  state: 
+  state: ''
   city: Pachuca
-  neighborhood: 
+  neighborhood: ''
   coordinates: 20.116541, -98.741353
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

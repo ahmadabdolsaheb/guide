@@ -2,9 +2,9 @@
 title: Covasna
 location:
   country: Romania
-  state: 
+  state: ''
   city: Covasna
-  neighborhood: 
+  neighborhood: ''
   coordinates: 45.844899, 26.169311
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Bali
 location:
   country: Indonesia
-  state: 
+  state: ''
   city: Bali
-  neighborhood: 
+  neighborhood: ''
   coordinates: 48.85661, 2.351499
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

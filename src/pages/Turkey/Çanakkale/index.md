@@ -2,9 +2,9 @@
 title: Çanakkale
 location:
   country: Turkey
-  state: 
+  state: ''
   city: Çanakkale
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.150081, 26.414887
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

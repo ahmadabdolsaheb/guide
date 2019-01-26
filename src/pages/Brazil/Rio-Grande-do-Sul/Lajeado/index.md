@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Rio Grande do Sul
   city: Lajeado
-  neighborhood: 
+  neighborhood: ''
   coordinates: -29.456321, -51.963397
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

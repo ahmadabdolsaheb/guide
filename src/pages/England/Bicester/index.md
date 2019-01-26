@@ -2,9 +2,9 @@
 title: Bicester
 location:
   country: England
-  state: 
+  state: ''
   city: Bicester
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.898883, -1.151829
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

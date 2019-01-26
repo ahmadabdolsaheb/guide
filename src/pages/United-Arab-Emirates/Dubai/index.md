@@ -2,9 +2,9 @@
 title: Dubai
 location:
   country: United Arab Emirates
-  state: 
+  state: ''
   city: Dubai
-  neighborhood: 
+  neighborhood: ''
   coordinates: 25.268352, 55.296196
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

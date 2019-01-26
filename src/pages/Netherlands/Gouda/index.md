@@ -2,9 +2,9 @@
 title: Gouda
 location:
   country: Netherlands
-  state: 
+  state: ''
   city: Gouda
-  neighborhood: 
+  neighborhood: ''
   coordinates: 52.018119, 4.711122
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

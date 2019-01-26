@@ -2,9 +2,9 @@
 title: Addis Ababa
 location:
   country: Ethiopia
-  state: 
+  state: ''
   city: Addis Ababa
-  neighborhood: 
+  neighborhood: ''
   coordinates: 9.010793, 38.761253
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

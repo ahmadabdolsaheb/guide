@@ -4,7 +4,7 @@ location:
   country: United States
   state: Kansas
   city: Wellington
-  neighborhood: 
+  neighborhood: ''
   coordinates: -41.288764, 174.777224
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

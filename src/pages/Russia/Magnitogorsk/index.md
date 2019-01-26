@@ -2,9 +2,9 @@
 title: Magnitogorsk
 location:
   country: Russia
-  state: 
+  state: ''
   city: Magnitogorsk
-  neighborhood: 
+  neighborhood: ''
   coordinates: 53.424281, 58.983333
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

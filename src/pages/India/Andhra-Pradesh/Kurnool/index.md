@@ -4,7 +4,7 @@ location:
   country: India
   state: Andhra Pradesh
   city: Kurnool
-  neighborhood: 
+  neighborhood: ''
   coordinates: 15.8281,78.0373
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

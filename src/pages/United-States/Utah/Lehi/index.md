@@ -4,7 +4,7 @@ location:
   country: United States
   state: Utah
   city: Lehi
-  neighborhood: 
+  neighborhood: ''
   coordinates: 48.111359, -1.680009
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

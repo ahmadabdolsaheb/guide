@@ -4,7 +4,7 @@ location:
   country: United States
   state: Virginia
   city: Charlottesville
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.536162, -84.853012
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

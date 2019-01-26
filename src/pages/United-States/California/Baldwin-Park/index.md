@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Baldwin Park
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.085474, -117.961176
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

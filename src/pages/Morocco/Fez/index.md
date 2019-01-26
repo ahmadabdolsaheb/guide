@@ -2,9 +2,9 @@
 title: Fez
 location:
   country: Morocco
-  state: 
+  state: ''
   city: Fez
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.034116, -5.013355
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

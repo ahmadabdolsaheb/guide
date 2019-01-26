@@ -4,7 +4,7 @@ location:
   country: India
   state: Jammu & Kashmir
   city: Srinagar
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.074744, 74.820444
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: Ohio
   city: Toledo
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.678675, -83.512728
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

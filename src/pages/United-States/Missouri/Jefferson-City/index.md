@@ -4,7 +4,7 @@ location:
   country: United States
   state: Missouri
   city: Jefferson City
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.577359, -92.172426
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

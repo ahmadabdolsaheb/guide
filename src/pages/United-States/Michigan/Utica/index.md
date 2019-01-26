@@ -4,7 +4,7 @@ location:
   country: United States
   state: Michigan
   city: Utica
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.100903, -75.232664
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

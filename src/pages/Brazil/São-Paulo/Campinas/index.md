@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: São Paulo
   city: Campinas
-  neighborhood: 
+  neighborhood: ''
   coordinates: -22.90556, -47.06083
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

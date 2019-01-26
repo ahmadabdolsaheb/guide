@@ -4,7 +4,7 @@ location:
   country: United States
   state: New York
   city: White plains
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.033986, -73.76291
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

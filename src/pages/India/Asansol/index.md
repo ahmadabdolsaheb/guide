@@ -2,9 +2,9 @@
 title: Asansol
 location:
   country: India
-  state: 
+  state: ''
   city: Asansol
-  neighborhood: 
+  neighborhood: ''
   coordinates: 23.68556, 86.975662
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

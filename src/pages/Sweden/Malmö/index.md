@@ -2,9 +2,9 @@
 title: Malmö
 location:
   country: Sweden
-  state: 
+  state: ''
   city: Malmö
-  neighborhood: 
+  neighborhood: ''
   coordinates: 55.605293, 13.000157
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

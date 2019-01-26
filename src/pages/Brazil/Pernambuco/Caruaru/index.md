@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Pernambuco
   city: Caruaru
-  neighborhood: 
+  neighborhood: ''
   coordinates: -8.28297, -35.972285
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

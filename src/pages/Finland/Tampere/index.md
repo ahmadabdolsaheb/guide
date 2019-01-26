@@ -2,9 +2,9 @@
 title: Tampere
 location:
   country: Finland
-  state: 
+  state: ''
   city: Tampere
-  neighborhood: 
+  neighborhood: ''
   coordinates: 61.498021, 23.760312
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

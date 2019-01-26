@@ -2,9 +2,9 @@
 title: Washington, D.C.
 location:
   country: United States
-  state: 
+  state: ''
   city: Washington, D.C.
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.894955, -77.036646
   plusCode: ''
 social:

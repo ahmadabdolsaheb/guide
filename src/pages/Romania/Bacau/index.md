@@ -2,9 +2,9 @@
 title: Bacau
 location:
   country: Romania
-  state: 
+  state: ''
   city: Bacau
-  neighborhood: 
+  neighborhood: ''
   coordinates: 46.556049, 26.915356
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

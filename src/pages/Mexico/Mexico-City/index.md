@@ -2,9 +2,9 @@
 title: Mexico City
 location:
   country: Mexico
-  state: 
+  state: ''
   city: Mexico City
-  neighborhood: 
+  neighborhood: ''
   coordinates: 19.43253, -99.13321
   plusCode: ''
 social:

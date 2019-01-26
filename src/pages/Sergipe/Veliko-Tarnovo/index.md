@@ -2,9 +2,9 @@
 title: Veliko Tarnovo
 location:
   country: Sergipe
-  state: 
+  state: ''
   city: Veliko Tarnovo
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.082058, 25.632131
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

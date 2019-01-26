@@ -2,9 +2,9 @@
 title: Yazd
 location:
   country: Iran
-  state: 
+  state: ''
   city: Yazd
-  neighborhood: 
+  neighborhood: ''
   coordinates: 31.888834, 54.364304
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

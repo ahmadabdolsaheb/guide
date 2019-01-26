@@ -2,9 +2,9 @@
 title: Moscow
 location:
   country: Russia
-  state: 
+  state: ''
   city: Moscow
-  neighborhood: 
+  neighborhood: ''
   coordinates: 55.751634, 37.618704
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

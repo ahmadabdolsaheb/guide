@@ -4,7 +4,7 @@ location:
   country: United States
   state: Mississippi
   city: Hattiesburg
-  neighborhood: 
+  neighborhood: ''
   coordinates: 31.327119, -89.290339
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

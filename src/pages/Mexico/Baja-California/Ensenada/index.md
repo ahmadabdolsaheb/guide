@@ -4,7 +4,7 @@ location:
   country: Mexico
   state: Baja California
   city: Ensenada
-  neighborhood: 
+  neighborhood: ''
   coordinates: 31.8667427,-116.5963713
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

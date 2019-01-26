@@ -4,7 +4,7 @@ location:
   country: United States
   state: Connecticut
   city: Durango
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.27528, -107.880067
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

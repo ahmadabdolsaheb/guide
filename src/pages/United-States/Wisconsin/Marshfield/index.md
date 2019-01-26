@@ -4,7 +4,7 @@ location:
   country: United States
   state: Wisconsin
   city: Marshfield
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.668852, -90.171799
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

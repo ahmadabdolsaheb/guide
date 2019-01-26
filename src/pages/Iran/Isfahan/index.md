@@ -2,9 +2,9 @@
 title: Isfahan
 location:
   country: Iran
-  state: 
+  state: ''
   city: Isfahan
-  neighborhood: 
+  neighborhood: ''
   coordinates: 32.670788, 51.665
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

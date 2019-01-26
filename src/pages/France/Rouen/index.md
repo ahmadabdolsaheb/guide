@@ -2,9 +2,9 @@
 title: Rouen
 location:
   country: France
-  state: 
+  state: ''
   city: Rouen
-  neighborhood: 
+  neighborhood: ''
   coordinates: 49.440459, 1.093966
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

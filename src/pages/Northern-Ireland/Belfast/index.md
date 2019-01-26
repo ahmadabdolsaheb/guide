@@ -2,9 +2,9 @@
 title: Belfast
 location:
   country: Northern Ireland
-  state: 
+  state: ''
   city: Belfast
-  neighborhood: 
+  neighborhood: ''
   coordinates: 54.596987, -5.930099
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

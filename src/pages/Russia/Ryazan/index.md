@@ -2,9 +2,9 @@
 title: Ryazan
 location:
   country: Russia
-  state: 
+  state: ''
   city: Ryazan
-  neighborhood: 
+  neighborhood: ''
   coordinates: 55.670796, 36.667606
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

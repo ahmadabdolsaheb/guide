@@ -2,9 +2,9 @@
 title: Skopje
 location:
   country: Macedonia
-  state: 
+  state: ''
   city: Skopje
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.996227, 21.431796
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

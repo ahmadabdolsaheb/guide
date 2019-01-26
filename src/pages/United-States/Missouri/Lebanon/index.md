@@ -4,7 +4,7 @@ location:
   country: United States
   state: Missouri
   city: Lebanon
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.34655, -76.428381
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

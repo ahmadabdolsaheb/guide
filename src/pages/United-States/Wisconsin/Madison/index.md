@@ -4,7 +4,7 @@ location:
   country: United States
   state: Wisconsin
   city: Madison
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.074761, -89.383761
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

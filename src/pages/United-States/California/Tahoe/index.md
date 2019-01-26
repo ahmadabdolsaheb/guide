@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Tahoe
-  neighborhood: 
+  neighborhood: ''
   coordinates: 46.096288, -115.807083
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

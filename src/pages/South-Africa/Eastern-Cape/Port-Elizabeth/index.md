@@ -4,7 +4,7 @@ location:
   country: South Africa
   state: Eastern Cape
   city: Port Elizabeth
-  neighborhood: 
+  neighborhood: ''
   coordinates: -33.7139247,25.5207358
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

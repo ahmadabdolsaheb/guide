@@ -2,9 +2,9 @@
 title: Sousse
 location:
   country: Tunisia
-  state: 
+  state: ''
   city: Sousse
-  neighborhood: 
+  neighborhood: ''
   coordinates: 35.828829, 10.640526
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

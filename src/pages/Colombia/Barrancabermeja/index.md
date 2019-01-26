@@ -2,9 +2,9 @@
 title: Barrancabermeja
 location:
   country: Colombia
-  state: 
+  state: ''
   city: Barrancabermeja
-  neighborhood: 
+  neighborhood: ''
   coordinates: 7.067331, -73.852563
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

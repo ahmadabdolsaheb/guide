@@ -4,7 +4,7 @@ location:
   country: United States
   state: North Carolina
   city: Raleigh
-  neighborhood: 
+  neighborhood: ''
   coordinates: 35.780398, -78.639099
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

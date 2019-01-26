@@ -4,7 +4,7 @@ location:
   country: United States
   state: Florida
   city: Deland
-  neighborhood: 
+  neighborhood: ''
   coordinates: 29.019515, -81.294142
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

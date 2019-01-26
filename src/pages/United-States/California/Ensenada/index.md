@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Ensenada
-  neighborhood: 
+  neighborhood: ''
   coordinates: 31.860742, -116.624825
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

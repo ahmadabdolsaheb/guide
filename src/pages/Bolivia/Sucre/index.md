@@ -2,9 +2,9 @@
 title: Sucre
 location:
   country: Bolivia
-  state: 
+  state: ''
   city: Sucre
-  neighborhood: 
+  neighborhood: ''
   coordinates: -19.047862, -65.259602
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

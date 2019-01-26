@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Paraná
   city: Cascavel
-  neighborhood: 
+  neighborhood: ''
   coordinates: -24.961676, -53.436067
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

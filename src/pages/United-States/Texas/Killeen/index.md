@@ -4,7 +4,7 @@ location:
   country: United States
   state: Texas
   city: Killeen
-  neighborhood: 
+  neighborhood: ''
   coordinates: 31.117144, -97.727796
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

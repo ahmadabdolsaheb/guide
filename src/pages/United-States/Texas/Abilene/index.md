@@ -4,7 +4,7 @@ location:
   country: United States
   state: Texas
   city: Abilene
-  neighborhood: 
+  neighborhood: ''
   coordinates: 32.446453, -99.733348
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

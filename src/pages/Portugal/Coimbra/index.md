@@ -2,9 +2,9 @@
 title: Coimbra
 location:
   country: Portugal
-  state: 
+  state: ''
   city: Coimbra
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.21098, -8.429206
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

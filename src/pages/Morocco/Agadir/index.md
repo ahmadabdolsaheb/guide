@@ -2,9 +2,9 @@
 title: Agadir
 location:
   country: Morocco
-  state: 
+  state: ''
   city: Agadir
-  neighborhood: 
+  neighborhood: ''
   coordinates: 30.421468, -9.583016
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

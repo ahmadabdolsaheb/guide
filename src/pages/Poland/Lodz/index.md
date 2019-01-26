@@ -2,9 +2,9 @@
 title: Lodz
 location:
   country: Poland
-  state: 
+  state: ''
   city: Lodz
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.768749, 19.456982
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

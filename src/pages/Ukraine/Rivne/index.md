@@ -2,9 +2,9 @@
 title: Rivne
 location:
   country: Ukraine
-  state: 
+  state: ''
   city: Rivne
-  neighborhood: 
+  neighborhood: ''
   coordinates: 50.619618, 26.251317
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

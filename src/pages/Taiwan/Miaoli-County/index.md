@@ -3,8 +3,8 @@ title: Miaoli County
 location:
   country: Taiwan
   state: Miaoli County
-  city: 
-  neighborhood: 
+  city: ''
+  neighborhood: ''
   coordinates: 24.560159,120.8214265
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

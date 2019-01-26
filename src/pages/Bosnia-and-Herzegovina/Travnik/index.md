@@ -2,9 +2,9 @@
 title: Travnik
 location:
   country: Bosnia and Herzegovina
-  state: 
+  state: ''
   city: Travnik
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.226089, 17.662872
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

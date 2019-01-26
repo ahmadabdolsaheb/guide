@@ -2,9 +2,9 @@
 title: Paris
 location:
   country: France
-  state: 
+  state: ''
   city: Paris
-  neighborhood: 
+  neighborhood: ''
   coordinates: 48.85661, 2.351499
   plusCode: ''
 social:

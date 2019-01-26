@@ -4,7 +4,7 @@ location:
   country: Canada
   state: British Columbia
   city: Prince George
-  neighborhood: 
+  neighborhood: ''
   coordinates: 53.917253, -122.746134
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

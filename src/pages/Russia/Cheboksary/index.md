@@ -2,9 +2,9 @@
 title: Cheboksary
 location:
   country: Russia
-  state: 
+  state: ''
   city: Cheboksary
-  neighborhood: 
+  neighborhood: ''
   coordinates: 56.131174, 47.245482
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: Indiana
   city: Gary
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.602129, -87.337137
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

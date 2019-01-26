@@ -2,9 +2,9 @@
 title: La Plata
 location:
   country: Argentina
-  state: 
+  state: ''
   city: La Plata
-  neighborhood: 
+  neighborhood: ''
   coordinates: -34.92068, -57.953764
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

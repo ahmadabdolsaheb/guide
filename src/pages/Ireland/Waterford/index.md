@@ -2,9 +2,9 @@
 title: Waterford
 location:
   country: Ireland
-  state: 
+  state: ''
   city: Waterford
-  neighborhood: 
+  neighborhood: ''
   coordinates: 52.245157, -7.101979
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Bangi
 location:
   country: Malaysia
-  state: 
+  state: ''
   city: Bangi
-  neighborhood: 
+  neighborhood: ''
   coordinates: 2.962646, 101.757905
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

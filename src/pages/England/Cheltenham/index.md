@@ -2,9 +2,9 @@
 title: Cheltenham
 location:
   country: England
-  state: 
+  state: ''
   city: Cheltenham
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.899569, -2.071156
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

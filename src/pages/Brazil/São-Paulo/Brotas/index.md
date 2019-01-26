@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: São Paulo
   city: Brotas
-  neighborhood: 
+  neighborhood: ''
   coordinates: -22.283592, -48.120203
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

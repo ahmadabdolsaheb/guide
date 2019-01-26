@@ -2,9 +2,9 @@
 title: Townsville
 location:
   country: Australia
-  state: 
+  state: ''
   city: Townsville
-  neighborhood: 
+  neighborhood: ''
   coordinates: -19.256939, 146.823954
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

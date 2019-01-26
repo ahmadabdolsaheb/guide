@@ -4,7 +4,7 @@ location:
   country: United States
   state: Texas
   city: Southlake
-  neighborhood: 
+  neighborhood: ''
   coordinates: 32.941236, -97.134178
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

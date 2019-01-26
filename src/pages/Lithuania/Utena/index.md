@@ -2,9 +2,9 @@
 title: Utena
 location:
   country: Lithuania
-  state: 
+  state: ''
   city: Utena
-  neighborhood: 
+  neighborhood: ''
   coordinates: 55.496642, 25.6039
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

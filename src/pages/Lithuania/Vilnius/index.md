@@ -2,9 +2,9 @@
 title: Vilnius
 location:
   country: Lithuania
-  state: 
+  state: ''
   city: Vilnius
-  neighborhood: 
+  neighborhood: ''
   coordinates: 54.684314, 25.285398
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

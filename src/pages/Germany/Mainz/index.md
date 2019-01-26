@@ -2,9 +2,9 @@
 title: Mainz
 location:
   country: Germany
-  state: 
+  state: ''
   city: Mainz
-  neighborhood: 
+  neighborhood: ''
   coordinates: 49.999995, 8.271024
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

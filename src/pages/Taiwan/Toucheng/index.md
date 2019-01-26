@@ -2,9 +2,9 @@
 title: Toucheng
 location:
   country: Taiwan
-  state: 
+  state: ''
   city: Toucheng
-  neighborhood: 
+  neighborhood: ''
   coordinates: 24.951152, 121.492128
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

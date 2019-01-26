@@ -4,7 +4,7 @@ location:
   country: India
   state: Khanpur
   city: Patiala
-  neighborhood: 
+  neighborhood: ''
   coordinates: 30.329561, 76.412782
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

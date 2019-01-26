@@ -4,7 +4,7 @@ location:
   country: India
   state: Jammu & Kashmir
   city: Jammu
-  neighborhood: 
+  neighborhood: ''
   coordinates: 32.718561, 74.858092
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

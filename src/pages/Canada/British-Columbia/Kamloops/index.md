@@ -4,7 +4,7 @@ location:
   country: Canada
   state: British Columbia
   city: Kamloops
-  neighborhood: 
+  neighborhood: ''
   coordinates: 50.676556, -120.341734
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

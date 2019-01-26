@@ -4,7 +4,7 @@ location:
   country: Argentina
   state: Tucumán/Noroeste
   city: San Miguel de Tucumán
-  neighborhood: 
+  neighborhood: ''
   coordinates: -26.8241405, -65.2226028
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

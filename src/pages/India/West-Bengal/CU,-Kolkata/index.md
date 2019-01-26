@@ -4,7 +4,7 @@ location:
   country: India
   state: West Bengal
   city: CU, Kolkata
-  neighborhood: 
+  neighborhood: ''
   coordinates: 22.574943, 88.362892
   plusCode: ''
 social:

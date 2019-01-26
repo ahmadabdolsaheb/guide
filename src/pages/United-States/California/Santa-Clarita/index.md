@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Santa Clarita
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.391664, -118.542586
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

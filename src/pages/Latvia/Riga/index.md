@@ -2,9 +2,9 @@
 title: Riga
 location:
   country: Latvia
-  state: 
+  state: ''
   city: Riga
-  neighborhood: 
+  neighborhood: ''
   coordinates: 56.949398, 24.105185
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

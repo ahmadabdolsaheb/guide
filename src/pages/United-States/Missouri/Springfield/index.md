@@ -4,7 +4,7 @@ location:
   country: United States
   state: Missouri
   city: Springfield
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.798976, -89.644369
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

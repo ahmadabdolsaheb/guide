@@ -4,7 +4,7 @@ location:
   country: United States
   state: Indiana
   city: Lafayette
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.4167022,-86.87528689999999
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

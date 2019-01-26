@@ -4,7 +4,7 @@ location:
   country: Indonesia
   state: South Sumatra
   city: Palembang
-  neighborhood: 
+  neighborhood: ''
   coordinates: -2.972795, 104.759185
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

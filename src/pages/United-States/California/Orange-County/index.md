@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Orange County
-  neighborhood: 
+  neighborhood: ''
   coordinates: 28.640022, 77.361486
   plusCode: ''
 social:

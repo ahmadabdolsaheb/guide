@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: São Paulo
   city: Engenheiro Coelho
-  neighborhood: 
+  neighborhood: ''
   coordinates: -22.478, -47.2015
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

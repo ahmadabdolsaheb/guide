@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Davis
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.545379, -121.744583
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

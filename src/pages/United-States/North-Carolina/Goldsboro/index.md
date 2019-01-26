@@ -4,7 +4,7 @@ location:
   country: United States
   state: North Carolina
   city: Goldsboro
-  neighborhood: 
+  neighborhood: ''
   coordinates: 35.384884, -77.992765
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

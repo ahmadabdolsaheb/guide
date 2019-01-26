@@ -2,9 +2,9 @@
 title: Katzrin
 location:
   country: Israel
-  state: 
+  state: ''
   city: Katzrin
-  neighborhood: 
+  neighborhood: ''
   coordinates: 32.992026, 35.6877
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

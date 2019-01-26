@@ -2,9 +2,9 @@
 title: Znojmo
 location:
   country: Czech Republic
-  state: 
+  state: ''
   city: Znojmo
-  neighborhood: 
+  neighborhood: ''
   coordinates: 48.855434, 16.048946
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

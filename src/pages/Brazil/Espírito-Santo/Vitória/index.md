@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Espírito Santo
   city: Vitória
-  neighborhood: 
+  neighborhood: ''
   coordinates: -20.299683, -40.301633
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

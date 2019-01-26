@@ -4,7 +4,7 @@ location:
   country: United States
   state: Minnesota
   city: Moorhead
-  neighborhood: 
+  neighborhood: ''
   coordinates: 46.873908, -96.753867
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

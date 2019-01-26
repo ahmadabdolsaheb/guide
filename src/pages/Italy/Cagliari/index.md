@@ -2,9 +2,9 @@
 title: Cagliari
 location:
   country: Italy
-  state: 
+  state: ''
   city: Cagliari
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.216953, 9.112851
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

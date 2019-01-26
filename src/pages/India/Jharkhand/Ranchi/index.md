@@ -4,7 +4,7 @@ location:
   country: India
   state: Jharkhand
   city: Ranchi
-  neighborhood: 
+  neighborhood: ''
   coordinates: 23.366464, 85.320503
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

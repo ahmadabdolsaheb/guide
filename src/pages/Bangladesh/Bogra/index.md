@@ -2,9 +2,9 @@
 title: Bogra
 location:
   country: Bangladesh
-  state: 
+  state: ''
   city: Bogra
-  neighborhood: 
+  neighborhood: ''
   coordinates: 24.848086, 89.372953
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

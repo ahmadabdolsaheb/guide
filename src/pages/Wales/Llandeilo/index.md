@@ -2,9 +2,9 @@
 title: Llandeilo
 location:
   country: Wales
-  state: 
+  state: ''
   city: Llandeilo
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.885394, -3.992514
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

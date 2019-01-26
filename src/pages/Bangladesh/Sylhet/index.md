@@ -2,9 +2,9 @@
 title: Sylhet
 location:
   country: Bangladesh
-  state: 
+  state: ''
   city: Sylhet
-  neighborhood: 
+  neighborhood: ''
   coordinates: 24.899091, 91.86881
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

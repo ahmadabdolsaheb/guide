@@ -2,9 +2,9 @@
 title: Chlef
 location:
   country: Algeria
-  state: 
+  state: ''
   city: Chlef
-  neighborhood: 
+  neighborhood: ''
   coordinates: 36.164592, 1.331499
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

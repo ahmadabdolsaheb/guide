@@ -2,9 +2,9 @@
 title: Pécs
 location:
   country: Hungary
-  state: 
+  state: ''
   city: Pécs
-  neighborhood: 
+  neighborhood: ''
   coordinates: 46.076296, 18.228147
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

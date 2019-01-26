@@ -2,9 +2,9 @@
 title: San Salvador
 location:
   country: El Salvador
-  state: 
+  state: ''
   city: San Salvador
-  neighborhood: 
+  neighborhood: ''
   coordinates: 13.697759, -89.19301
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

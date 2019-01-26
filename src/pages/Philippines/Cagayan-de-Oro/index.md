@@ -2,9 +2,9 @@
 title: Cagayan de Oro
 location:
   country: Philippines
-  state: 
+  state: ''
   city: Cagayan de Oro
-  neighborhood: 
+  neighborhood: ''
   coordinates: 8.476377, 124.6415
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

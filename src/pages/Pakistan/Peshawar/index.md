@@ -2,9 +2,9 @@
 title: Peshawar
 location:
   country: Pakistan
-  state: 
+  state: ''
   city: Peshawar
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.012385, 71.578746
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

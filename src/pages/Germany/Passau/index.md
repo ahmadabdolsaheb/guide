@@ -2,9 +2,9 @@
 title: Passau
 location:
   country: Germany
-  state: 
+  state: ''
   city: Passau
-  neighborhood: 
+  neighborhood: ''
   coordinates: 48.574014, 13.460645
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

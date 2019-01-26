@@ -2,9 +2,9 @@
 title: Gold Coast
 location:
   country: Australia
-  state: 
+  state: ''
   city: Gold Coast
-  neighborhood: 
+  neighborhood: ''
   coordinates: -28.002373, 153.414599
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

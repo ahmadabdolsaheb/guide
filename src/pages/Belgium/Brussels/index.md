@@ -2,9 +2,9 @@
 title: Brussels
 location:
   country: Belgium
-  state: 
+  state: ''
   city: Brussels
-  neighborhood: 
+  neighborhood: ''
   coordinates: 50.846557, 4.351697
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

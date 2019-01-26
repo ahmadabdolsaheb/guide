@@ -2,9 +2,9 @@
 title: Sokoto
 location:
   country: Nigeria
-  state: 
+  state: ''
   city: Sokoto
-  neighborhood: 
+  neighborhood: ''
   coordinates: 13.061059, 5.237319
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

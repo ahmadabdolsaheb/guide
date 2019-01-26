@@ -4,7 +4,7 @@ location:
   country: United States
   state: Texas
   city: Fort Worth
-  neighborhood: 
+  neighborhood: ''
   coordinates: 32.753177, -97.332746
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

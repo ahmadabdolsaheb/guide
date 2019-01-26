@@ -2,9 +2,9 @@
 title: Hermosillo
 location:
   country: Mexico
-  state: 
+  state: ''
   city: Hermosillo
-  neighborhood: 
+  neighborhood: ''
   coordinates: 29.089415, -110.961238
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

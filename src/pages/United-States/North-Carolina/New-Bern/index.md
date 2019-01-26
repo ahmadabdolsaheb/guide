@@ -4,7 +4,7 @@ location:
   country: United States
   state: North Carolina
   city: New Bern
-  neighborhood: 
+  neighborhood: ''
   coordinates: 35.108493, -77.044114
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

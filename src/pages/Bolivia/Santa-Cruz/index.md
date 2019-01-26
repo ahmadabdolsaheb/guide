@@ -2,9 +2,9 @@
 title: Santa Cruz
 location:
   country: Bolivia
-  state: 
+  state: ''
   city: Santa Cruz
-  neighborhood: 
+  neighborhood: ''
   coordinates: 36.97461, -122.029426
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

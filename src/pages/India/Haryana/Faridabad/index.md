@@ -4,7 +4,7 @@ location:
   country: India
   state: Haryana
   city: Faridabad
-  neighborhood: 
+  neighborhood: ''
   coordinates: 28.402837, 77.308563
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

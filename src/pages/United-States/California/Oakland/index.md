@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Oakland
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.804456, -122.271356
   plusCode: ''
 social:

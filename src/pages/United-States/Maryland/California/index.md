@@ -4,7 +4,7 @@ location:
   country: United States
   state: Maryland
   city: California
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.3004029,-76.5074542
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

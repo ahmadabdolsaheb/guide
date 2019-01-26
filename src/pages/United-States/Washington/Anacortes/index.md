@@ -4,7 +4,7 @@ location:
   country: United States
   state: Washington
   city: Anacortes
-  neighborhood: 
+  neighborhood: ''
   coordinates: 48.502012, -122.623736
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

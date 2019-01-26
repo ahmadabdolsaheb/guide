@@ -4,7 +4,7 @@ location:
   country: Canada
   state: British Columbia
   city: Fort St. John
-  neighborhood: 
+  neighborhood: ''
   coordinates: 56.250094, -120.833466
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Tikrit
 location:
   country: Iraq
-  state: 
+  state: ''
   city: Tikrit
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.519167, 36.157222
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: India
   state: Kerala
   city: Kannur
-  neighborhood: 
+  neighborhood: ''
   coordinates: 11.876225, 75.373804
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

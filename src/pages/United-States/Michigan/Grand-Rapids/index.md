@@ -4,7 +4,7 @@ location:
   country: United States
   state: Michigan
   city: Grand Rapids
-  neighborhood: 
+  neighborhood: ''
   coordinates: 42.96336, -85.668086
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Fuengirola
 location:
   country: Spain
-  state: 
+  state: ''
   city: Fuengirola
-  neighborhood: 
+  neighborhood: ''
   coordinates: 36.541358, -4.623757
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: São Paulo
   city: Sorocaba
-  neighborhood: 
+  neighborhood: ''
   coordinates: -23.501667, -47.458056
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

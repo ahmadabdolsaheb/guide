@@ -2,9 +2,9 @@
 title: Enschede
 location:
   country: Netherlands
-  state: 
+  state: ''
   city: Enschede
-  neighborhood: 
+  neighborhood: ''
   coordinates: 52.223363, 6.870596
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

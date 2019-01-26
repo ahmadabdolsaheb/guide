@@ -2,9 +2,9 @@
 title: Sahiwal
 location:
   country: Pakistan
-  state: 
+  state: ''
   city: Sahiwal
-  neighborhood: 
+  neighborhood: ''
   coordinates: 30.67151, 73.111057
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Corfu
 location:
   country: Greece
-  state: 
+  state: ''
   city: Corfu
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.624247, 19.921043
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

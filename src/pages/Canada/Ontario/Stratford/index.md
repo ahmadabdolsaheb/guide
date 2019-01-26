@@ -4,7 +4,7 @@ location:
   country: Canada
   state: Ontario
   city: Stratford
-  neighborhood: 
+  neighborhood: ''
   coordinates: 52.192341, -1.705788
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

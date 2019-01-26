@@ -2,9 +2,9 @@
 title: Balti
 location:
   country: Moldova
-  state: 
+  state: ''
   city: Balti
-  neighborhood: 
+  neighborhood: ''
   coordinates: 47.758495, 27.91139
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: North Carolina
   city: Hickory
-  neighborhood: 
+  neighborhood: ''
   coordinates: 35.73319, -81.341201
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: Other US locations
   city: Armed Forces, Camp Buehring
-  neighborhood: 
+  neighborhood: ''
   coordinates: 29.699025, 47.420235
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

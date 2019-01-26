@@ -2,9 +2,9 @@
 title: Zamboanga City
 location:
   country: Philippines
-  state: 
+  state: ''
   city: Zamboanga City
-  neighborhood: 
+  neighborhood: ''
   coordinates: 6.9046, 122.07637
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

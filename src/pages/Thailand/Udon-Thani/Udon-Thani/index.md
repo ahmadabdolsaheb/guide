@@ -4,7 +4,7 @@ location:
   country: Thailand
   state: Udon Thani
   city: Udon Thani
-  neighborhood: 
+  neighborhood: ''
   coordinates: 17.3646969,102.8158924
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

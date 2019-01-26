@@ -4,7 +4,7 @@ location:
   country: United States
   state: Texas
   city: Laredo
-  neighborhood: 
+  neighborhood: ''
   coordinates: 27.506099, -99.508898
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: India
   state: Andhra Pradesh
   city: Guntur
-  neighborhood: 
+  neighborhood: ''
   coordinates: -6.208383, 106.833559
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

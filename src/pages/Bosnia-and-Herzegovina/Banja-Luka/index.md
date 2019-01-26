@@ -2,9 +2,9 @@
 title: Banja Luka
 location:
   country: Bosnia and Herzegovina
-  state: 
+  state: ''
   city: Banja Luka
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.771989, 17.189877
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

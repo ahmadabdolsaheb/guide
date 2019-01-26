@@ -2,9 +2,9 @@
 title: Monthey
 location:
   country: Switzerland
-  state: 
+  state: ''
   city: Monthey
-  neighborhood: 
+  neighborhood: ''
   coordinates: 46.255457, 6.953783
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

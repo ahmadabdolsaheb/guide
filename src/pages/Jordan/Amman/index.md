@@ -2,9 +2,9 @@
 title: Amman
 location:
   country: Jordan
-  state: 
+  state: ''
   city: Amman
-  neighborhood: 
+  neighborhood: ''
   coordinates: 31.951569, 35.923963
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

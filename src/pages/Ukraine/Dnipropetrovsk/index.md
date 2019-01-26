@@ -2,9 +2,9 @@
 title: Dnipropetrovsk
 location:
   country: Ukraine
-  state: 
+  state: ''
   city: Dnipropetrovsk
-  neighborhood: 
+  neighborhood: ''
   coordinates: 48.468022, 35.041771
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

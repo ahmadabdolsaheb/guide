@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Temecula
-  neighborhood: 
+  neighborhood: ''
   coordinates: 33.494635, -117.147366
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

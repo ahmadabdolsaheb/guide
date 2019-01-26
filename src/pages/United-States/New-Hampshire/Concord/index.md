@@ -4,7 +4,7 @@ location:
   country: United States
   state: New Hampshire
   city: Concord
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.2081, -71.5376
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

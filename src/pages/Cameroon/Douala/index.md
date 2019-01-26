@@ -2,9 +2,9 @@
 title: Douala
 location:
   country: Cameroon
-  state: 
+  state: ''
   city: Douala
-  neighborhood: 
+  neighborhood: ''
   coordinates: 4.053729, 9.664307
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

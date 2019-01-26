@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Diamond Bar
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.028623, -117.810337
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: Indiana
   city: Dale
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.1689415,-86.98999660000001
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

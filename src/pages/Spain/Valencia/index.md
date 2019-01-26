@@ -2,9 +2,9 @@
 title: Valencia
 location:
   country: Spain
-  state: 
+  state: ''
   city: Valencia
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.469901, -0.375951
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

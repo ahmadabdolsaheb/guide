@@ -4,7 +4,7 @@ location:
   country: United States
   state: Indiana
   city: Anderson
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.10532, -85.680254
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

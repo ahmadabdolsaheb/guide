@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Tustin
-  neighborhood: 
+  neighborhood: ''
   coordinates: 33.745851, -117.826166
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

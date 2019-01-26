@@ -4,7 +4,7 @@ location:
   country: China
   state: Jiangsu
   city: Wuxi
-  neighborhood: 
+  neighborhood: ''
   coordinates: 31.575635, 120.295453
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

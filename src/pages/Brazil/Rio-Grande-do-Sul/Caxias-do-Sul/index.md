@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Rio Grande do Sul
   city: Caxias do Sul
-  neighborhood: 
+  neighborhood: ''
   coordinates: -29.16848, -51.179386
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

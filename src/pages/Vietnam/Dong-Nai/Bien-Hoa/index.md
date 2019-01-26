@@ -4,7 +4,7 @@ location:
   country: Vietnam
   state: Dong Nai
   city: Bien Hoa
-  neighborhood: 
+  neighborhood: ''
   coordinates: 10.9574128,106.8426871
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

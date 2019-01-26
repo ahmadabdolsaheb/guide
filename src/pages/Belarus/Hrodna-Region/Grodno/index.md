@@ -4,7 +4,7 @@ location:
   country: Belarus
   state: Hrodna Region
   city: Grodno
-  neighborhood: 
+  neighborhood: ''
   coordinates: 53.6693538,23.8131306
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

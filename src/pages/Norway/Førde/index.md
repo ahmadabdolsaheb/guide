@@ -2,9 +2,9 @@
 title: Førde
 location:
   country: Norway
-  state: 
+  state: ''
   city: Førde
-  neighborhood: 
+  neighborhood: ''
   coordinates: 61.462273, 5.794291
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

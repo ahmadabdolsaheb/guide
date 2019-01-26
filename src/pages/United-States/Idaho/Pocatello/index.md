@@ -4,7 +4,7 @@ location:
   country: United States
   state: Idaho
   city: Pocatello
-  neighborhood: 
+  neighborhood: ''
   coordinates: 42.868861, -112.44011
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: Wisconsin
   city: Beloit
-  neighborhood: 
+  neighborhood: ''
   coordinates: 42.5083482,-89.03177649999999
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

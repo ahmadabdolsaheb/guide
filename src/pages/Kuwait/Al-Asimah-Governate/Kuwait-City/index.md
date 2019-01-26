@@ -4,7 +4,7 @@ location:
   country: Kuwait
   state: Al Asimah Governate
   city: Kuwait City
-  neighborhood: 
+  neighborhood: ''
   coordinates: 29.375859,47.9774052
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

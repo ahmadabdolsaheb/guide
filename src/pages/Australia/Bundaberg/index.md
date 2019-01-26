@@ -2,9 +2,9 @@
 title: Bundaberg
 location:
   country: Australia
-  state: 
+  state: ''
   city: Bundaberg
-  neighborhood: 
+  neighborhood: ''
   coordinates: -24.865325, 152.351679
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

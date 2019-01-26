@@ -4,7 +4,7 @@ location:
   country: United States
   state: Indiana
   city: Fort Wayne
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.07999, -85.138601
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Kota Kinabalu
 location:
   country: Malaysia
-  state: 
+  state: ''
   city: Kota Kinabalu
-  neighborhood: 
+  neighborhood: ''
   coordinates: 5.978007, 116.072899
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

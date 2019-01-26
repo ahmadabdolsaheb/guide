@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Auburn
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.8965654,-121.0768901
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

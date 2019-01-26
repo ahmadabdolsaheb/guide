@@ -2,9 +2,9 @@
 title: Desouk
 location:
   country: Egypt
-  state: 
+  state: ''
   city: Desouk
-  neighborhood: 
+  neighborhood: ''
   coordinates: 31.128233, 30.646198
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Münster
 location:
   country: Germany
-  state: 
+  state: ''
   city: Münster
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.96251, 7.625188
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

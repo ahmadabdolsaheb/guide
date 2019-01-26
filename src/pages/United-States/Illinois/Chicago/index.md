@@ -4,7 +4,7 @@ location:
   country: United States
   state: Illinois
   city: Chicago
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.875555, -87.624421
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

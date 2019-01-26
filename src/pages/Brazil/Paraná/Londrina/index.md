@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Paraná
   city: Londrina
-  neighborhood: 
+  neighborhood: ''
   coordinates: -23.311288, -51.159502
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: Michigan
   city: Novi
-  neighborhood: 
+  neighborhood: ''
   coordinates: 42.48059, -83.475491
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Aguascalientes
 location:
   country: Mexico
-  state: 
+  state: ''
   city: Aguascalientes
-  neighborhood: 
+  neighborhood: ''
   coordinates: 7.918384, -72.430163
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Ondo
 location:
   country: Nigeria
-  state: 
+  state: ''
   city: Ondo
-  neighborhood: 
+  neighborhood: ''
   coordinates: 7.2743, 7.836846
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

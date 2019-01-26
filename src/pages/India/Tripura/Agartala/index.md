@@ -4,7 +4,7 @@ location:
   country: India
   state: Tripura
   city: Agartala
-  neighborhood: 
+  neighborhood: ''
   coordinates: 23.831238, 91.282382
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

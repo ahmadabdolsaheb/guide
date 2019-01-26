@@ -2,9 +2,9 @@
 title: Salamanca
 location:
   country: Spain
-  state: 
+  state: ''
   city: Salamanca
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.965157, -5.664018
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

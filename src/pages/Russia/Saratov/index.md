@@ -2,9 +2,9 @@
 title: Saratov
 location:
   country: Russia
-  state: 
+  state: ''
   city: Saratov
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.530018, 46.034685
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

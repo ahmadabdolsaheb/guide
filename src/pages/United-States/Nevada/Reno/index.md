@@ -4,7 +4,7 @@ location:
   country: United States
   state: Nevada
   city: Reno
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.52927, -119.813674
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

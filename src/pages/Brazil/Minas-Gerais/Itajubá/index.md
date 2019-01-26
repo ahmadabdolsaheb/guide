@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Minas Gerais
   city: Itajubá
-  neighborhood: 
+  neighborhood: ''
   coordinates: -22.423739, -45.452432
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

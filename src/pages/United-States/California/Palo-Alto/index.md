@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Palo Alto
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.442156, -122.163447
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

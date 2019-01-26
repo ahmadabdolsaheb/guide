@@ -4,7 +4,7 @@ location:
   country: United States
   state: New Jersey
   city: Morristown
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.797021, -74.481011
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

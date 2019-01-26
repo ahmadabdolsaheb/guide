@@ -4,7 +4,7 @@ location:
   country: Japan
   state: Hyōgo
   city: Kobe
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.693238, 135.194376
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

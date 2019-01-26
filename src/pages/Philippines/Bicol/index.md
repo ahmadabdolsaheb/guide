@@ -2,9 +2,9 @@
 title: Bicol
 location:
   country: Philippines
-  state: 
+  state: ''
   city: Bicol
-  neighborhood: 
+  neighborhood: ''
   coordinates: 13.158964, 123.747738
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

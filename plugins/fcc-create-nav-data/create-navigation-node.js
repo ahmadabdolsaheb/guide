@@ -18,7 +18,6 @@ exports.createNavigationNode = node => {
     .split('/')
     .slice(0, -1)
     .join('/');
-
   const categoryChildren = readDir(nodeDir);
   const navNode = {
     categoryChildren,

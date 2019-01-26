@@ -2,9 +2,9 @@
 title: Cardiff
 location:
   country: Wales
-  state: 
+  state: ''
   city: Cardiff
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.481655, -3.179193
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

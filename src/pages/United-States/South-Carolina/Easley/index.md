@@ -4,7 +4,7 @@ location:
   country: United States
   state: South Carolina
   city: Easley
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.826928, -82.581705
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

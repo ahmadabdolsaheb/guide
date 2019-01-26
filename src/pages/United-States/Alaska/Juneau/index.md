@@ -4,7 +4,7 @@ location:
   country: United States
   state: Alaska
   city: Juneau
-  neighborhood: 
+  neighborhood: ''
   coordinates: 58.30195, -134.419734
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

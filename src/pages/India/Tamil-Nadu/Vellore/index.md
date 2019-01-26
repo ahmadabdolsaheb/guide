@@ -4,7 +4,7 @@ location:
   country: India
   state: Tamil Nadu
   city: Vellore
-  neighborhood: 
+  neighborhood: ''
   coordinates: 12.9657203,79.1454622
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

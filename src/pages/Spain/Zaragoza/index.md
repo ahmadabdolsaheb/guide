@@ -2,9 +2,9 @@
 title: Zaragoza
 location:
   country: Spain
-  state: 
+  state: ''
   city: Zaragoza
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.652134, -0.880943
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

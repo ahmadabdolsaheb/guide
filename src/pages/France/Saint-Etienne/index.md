@@ -2,9 +2,9 @@
 title: Saint Etienne
 location:
   country: France
-  state: 
+  state: ''
   city: Saint Etienne
-  neighborhood: 
+  neighborhood: ''
   coordinates: 45.440147, 4.387306
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

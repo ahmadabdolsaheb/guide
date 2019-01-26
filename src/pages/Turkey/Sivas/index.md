@@ -2,9 +2,9 @@
 title: Sivas
 location:
   country: Turkey
-  state: 
+  state: ''
   city: Sivas
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.749781, 37.013697
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

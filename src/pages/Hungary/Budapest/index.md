@@ -2,9 +2,9 @@
 title: Budapest
 location:
   country: Hungary
-  state: 
+  state: ''
   city: Budapest
-  neighborhood: 
+  neighborhood: ''
   coordinates: 47.498382, 19.040471
   plusCode: ''
 social:

@@ -2,9 +2,9 @@
 title: Preston
 location:
   country: England
-  state: 
+  state: ''
   city: Preston
-  neighborhood: 
+  neighborhood: ''
   coordinates: 53.758994, -2.705162
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: India
   state: Tamil Nadu
   city: Tirunelveli
-  neighborhood: 
+  neighborhood: ''
   coordinates: 8.713912600000002,77.7566523
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

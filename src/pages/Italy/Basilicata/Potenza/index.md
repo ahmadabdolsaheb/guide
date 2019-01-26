@@ -4,7 +4,7 @@ location:
   country: Italy
   state: Basilicata
   city: Potenza
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.6404067,15.8056041
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

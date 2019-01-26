@@ -4,7 +4,7 @@ location:
   country: India
   state: Uttar Pradesh
   city: Aligarh
-  neighborhood: 
+  neighborhood: ''
   coordinates: 27.881541, 78.069022
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

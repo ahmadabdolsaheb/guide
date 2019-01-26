@@ -2,9 +2,9 @@
 title: Ramallah
 location:
   country: Palestine
-  state: 
+  state: ''
   city: Ramallah
-  neighborhood: 
+  neighborhood: ''
   coordinates: 31.903082, 35.195174
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

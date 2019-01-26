@@ -4,7 +4,7 @@ location:
   country: United States
   state: Mississippi
   city: Moss Point
-  neighborhood: 
+  neighborhood: ''
   coordinates: 30.411588, -88.53446
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

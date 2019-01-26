@@ -2,9 +2,9 @@
 title: Melitopol
 location:
   country: Ukraine
-  state: 
+  state: ''
   city: Melitopol
-  neighborhood: 
+  neighborhood: ''
   coordinates: 46.848748, 35.367645
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

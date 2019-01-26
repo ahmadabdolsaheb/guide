@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Paraíba
   city: João Pessoa
-  neighborhood: 
+  neighborhood: ''
   coordinates: -7.114784, -34.889798
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

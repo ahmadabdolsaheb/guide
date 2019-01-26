@@ -4,7 +4,7 @@ location:
   country: United States
   state: Illinois
   city: Quad Cities
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.725981, -90.310323
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

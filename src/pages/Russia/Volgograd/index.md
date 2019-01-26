@@ -2,9 +2,9 @@
 title: Volgograd
 location:
   country: Russia
-  state: 
+  state: ''
   city: Volgograd
-  neighborhood: 
+  neighborhood: ''
   coordinates: 48.70984, 44.515547
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

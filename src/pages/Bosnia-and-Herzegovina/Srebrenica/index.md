@@ -2,9 +2,9 @@
 title: Srebrenica
 location:
   country: Bosnia and Herzegovina
-  state: 
+  state: ''
   city: Srebrenica
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.106319, 19.295278
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

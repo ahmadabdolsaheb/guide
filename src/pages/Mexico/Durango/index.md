@@ -2,9 +2,9 @@
 title: Durango
 location:
   country: Mexico
-  state: 
+  state: ''
   city: Durango
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.27528, -107.880067
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

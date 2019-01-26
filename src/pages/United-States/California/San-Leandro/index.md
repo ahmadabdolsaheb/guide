@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: San Leandro
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.72493, -122.156077
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

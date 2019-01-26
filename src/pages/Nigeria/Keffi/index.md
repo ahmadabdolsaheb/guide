@@ -2,9 +2,9 @@
 title: Keffi
 location:
   country: Nigeria
-  state: 
+  state: ''
   city: Keffi
-  neighborhood: 
+  neighborhood: ''
   coordinates: 8.845318, 7.876834
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

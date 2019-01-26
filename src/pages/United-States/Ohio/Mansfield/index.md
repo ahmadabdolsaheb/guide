@@ -4,7 +4,7 @@ location:
   country: United States
   state: Ohio
   city: Mansfield
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.75839, -82.515447
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

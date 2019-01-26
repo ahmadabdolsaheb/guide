@@ -4,7 +4,7 @@ location:
   country: United States
   state: New York
   city: Queens
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.633686, -83.4388
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

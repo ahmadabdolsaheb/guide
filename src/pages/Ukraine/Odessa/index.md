@@ -2,9 +2,9 @@
 title: Odessa
 location:
   country: Ukraine
-  state: 
+  state: ''
   city: Odessa
-  neighborhood: 
+  neighborhood: ''
   coordinates: 46.484612, 30.732559
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

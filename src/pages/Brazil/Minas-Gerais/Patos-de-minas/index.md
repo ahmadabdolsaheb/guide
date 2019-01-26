@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Minas Gerais
   city: Patos de minas
-  neighborhood: 
+  neighborhood: ''
   coordinates: -18.604145, -46.50967
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

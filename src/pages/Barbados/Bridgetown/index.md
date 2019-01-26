@@ -2,9 +2,9 @@
 title: Bridgetown
 location:
   country: Barbados
-  state: 
+  state: ''
   city: Bridgetown
-  neighborhood: 
+  neighborhood: ''
   coordinates: 13.097783, -59.618418
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

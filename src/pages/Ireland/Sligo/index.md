@@ -2,9 +2,9 @@
 title: Sligo
 location:
   country: Ireland
-  state: 
+  state: ''
   city: Sligo
-  neighborhood: 
+  neighborhood: ''
   coordinates: 54.27207, -8.475136
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

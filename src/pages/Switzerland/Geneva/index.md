@@ -2,9 +2,9 @@
 title: Geneva
 location:
   country: Switzerland
-  state: 
+  state: ''
   city: Geneva
-  neighborhood: 
+  neighborhood: ''
   coordinates: 46.201756, 6.146601
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

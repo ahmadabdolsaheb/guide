@@ -2,9 +2,9 @@
 title: Vladivostok
 location:
   country: Russia
-  state: 
+  state: ''
   city: Vladivostok
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.115284, 131.885401
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

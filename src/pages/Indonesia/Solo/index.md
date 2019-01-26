@@ -2,9 +2,9 @@
 title: Solo
 location:
   country: Indonesia
-  state: 
+  state: ''
   city: Solo
-  neighborhood: 
+  neighborhood: ''
   coordinates: -7.569246, 110.828448
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

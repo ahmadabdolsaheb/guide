@@ -2,9 +2,9 @@
 title: Panama City
 location:
   country: Panama
-  state: 
+  state: ''
   city: Panama City
-  neighborhood: 
+  neighborhood: ''
   coordinates: 30.160083, -85.654573
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

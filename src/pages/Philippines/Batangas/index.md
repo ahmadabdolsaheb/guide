@@ -2,9 +2,9 @@
 title: Batangas
 location:
   country: Philippines
-  state: 
+  state: ''
   city: Batangas
-  neighborhood: 
+  neighborhood: ''
   coordinates: 13.756122, 121.057754
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

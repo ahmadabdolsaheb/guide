@@ -2,9 +2,9 @@
 title: Shanghai
 location:
   country: China
-  state: 
+  state: ''
   city: Shanghai
-  neighborhood: 
+  neighborhood: ''
   coordinates: 31.225344, 121.488892
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

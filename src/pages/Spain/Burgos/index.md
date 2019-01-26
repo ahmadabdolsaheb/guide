@@ -2,9 +2,9 @@
 title: Burgos
 location:
   country: Spain
-  state: 
+  state: ''
   city: Burgos
-  neighborhood: 
+  neighborhood: ''
   coordinates: 42.343926, -3.696977
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

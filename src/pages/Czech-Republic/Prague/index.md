@@ -2,9 +2,9 @@
 title: Prague
 location:
   country: Czech Republic
-  state: 
+  state: ''
   city: Prague
-  neighborhood: 
+  neighborhood: ''
   coordinates: 50.08744, 14.421256
   plusCode: ''
 social:

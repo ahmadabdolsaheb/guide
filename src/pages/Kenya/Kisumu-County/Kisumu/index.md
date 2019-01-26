@@ -4,7 +4,7 @@ location:
   country: Kenya
   state: Kisumu County
   city: Kisumu
-  neighborhood: 
+  neighborhood: ''
   coordinates: -0.0917016,34.7679568
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

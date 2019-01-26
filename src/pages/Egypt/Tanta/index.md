@@ -2,9 +2,9 @@
 title: Tanta
 location:
   country: Egypt
-  state: 
+  state: ''
   city: Tanta
-  neighborhood: 
+  neighborhood: ''
   coordinates: 30.783564, 30.998338
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Garden Grove
-  neighborhood: 
+  neighborhood: ''
   coordinates: 33.774629, -117.946372
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

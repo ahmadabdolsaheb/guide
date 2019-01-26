@@ -2,9 +2,9 @@
 title: Bournemouth
 location:
   country: England
-  state: 
+  state: ''
   city: Bournemouth
-  neighborhood: 
+  neighborhood: ''
   coordinates: 50.719478, -1.876771
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Masterton
 location:
   country: New Zealand
-  state: 
+  state: ''
   city: Masterton
-  neighborhood: 
+  neighborhood: ''
   coordinates: -40.948983, 175.659735
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

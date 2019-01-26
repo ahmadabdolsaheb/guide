@@ -2,9 +2,9 @@
 title: Iloilo
 location:
   country: Philippines
-  state: 
+  state: ''
   city: Iloilo
-  neighborhood: 
+  neighborhood: ''
   coordinates: 10.702427, 122.569032
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

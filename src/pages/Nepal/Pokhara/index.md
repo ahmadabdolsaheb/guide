@@ -2,9 +2,9 @@
 title: Pokhara
 location:
   country: Nepal
-  state: 
+  state: ''
   city: Pokhara
-  neighborhood: 
+  neighborhood: ''
   coordinates: 28.209538, 83.991403
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

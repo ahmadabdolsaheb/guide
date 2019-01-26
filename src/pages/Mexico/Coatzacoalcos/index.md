@@ -2,9 +2,9 @@
 title: Coatzacoalcos
 location:
   country: Mexico
-  state: 
+  state: ''
   city: Coatzacoalcos
-  neighborhood: 
+  neighborhood: ''
   coordinates: 18.139679, -94.450173
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

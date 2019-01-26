@@ -2,9 +2,9 @@
 title: Balikpapan
 location:
   country: Indonesia
-  state: 
+  state: ''
   city: Balikpapan
-  neighborhood: 
+  neighborhood: ''
   coordinates: -1.239871, 116.859338
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

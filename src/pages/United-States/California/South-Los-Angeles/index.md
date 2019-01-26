@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: South Los Angeles
-  neighborhood: 
+  neighborhood: ''
   coordinates: 33.927515, -118.278129
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

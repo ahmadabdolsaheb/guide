@@ -3,8 +3,8 @@ title: Ebonyi
 location:
   country: Nigeria
   state: Ebonyi
-  city: 
-  neighborhood: 
+  city: ''
+  neighborhood: ''
   coordinates: 6.177973,7.959286299999999
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

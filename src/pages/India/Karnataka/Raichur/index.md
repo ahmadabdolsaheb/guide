@@ -4,7 +4,7 @@ location:
   country: India
   state: Karnataka
   city: Raichur
-  neighborhood: 
+  neighborhood: ''
   coordinates: 16.202495, 77.356854
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

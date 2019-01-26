@@ -2,9 +2,9 @@
 title: Eskişehir
 location:
   country: Turkey
-  state: 
+  state: ''
   city: Eskişehir
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.768856, 30.521647
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

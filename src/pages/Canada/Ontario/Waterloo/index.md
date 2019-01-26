@@ -4,7 +4,7 @@ location:
   country: Canada
   state: Ontario
   city: Waterloo
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.465552, -80.521779
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

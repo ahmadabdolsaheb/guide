@@ -4,7 +4,7 @@ location:
   country: United States
   state: Iowa
   city: Ames
-  neighborhood: 
+  neighborhood: ''
   coordinates: 42.02677, -93.617055
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

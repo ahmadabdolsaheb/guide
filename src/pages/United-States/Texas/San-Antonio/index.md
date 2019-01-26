@@ -4,7 +4,7 @@ location:
   country: United States
   state: Texas
   city: San Antonio
-  neighborhood: 
+  neighborhood: ''
   coordinates: 29.4246, -98.49514
   plusCode: ''
 social:

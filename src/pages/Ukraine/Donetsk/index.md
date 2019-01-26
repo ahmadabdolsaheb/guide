@@ -2,9 +2,9 @@
 title: Donetsk
 location:
   country: Ukraine
-  state: 
+  state: ''
   city: Donetsk
-  neighborhood: 
+  neighborhood: ''
   coordinates: 48.015875, 37.801341
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

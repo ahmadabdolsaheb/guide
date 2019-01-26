@@ -4,7 +4,7 @@ location:
   country: United States
   state: Maine
   city: Auburn
-  neighborhood: 
+  neighborhood: ''
   coordinates: 32.609857, -85.480782
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

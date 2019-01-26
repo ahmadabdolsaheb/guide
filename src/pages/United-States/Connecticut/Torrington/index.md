@@ -4,7 +4,7 @@ location:
   country: United States
   state: Connecticut
   city: Torrington
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.800652, -73.121221
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

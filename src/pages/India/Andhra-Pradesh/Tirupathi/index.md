@@ -4,7 +4,7 @@ location:
   country: India
   state: Andhra Pradesh
   city: Tirupathi
-  neighborhood: 
+  neighborhood: ''
   coordinates: 12.895511, 77.866927
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

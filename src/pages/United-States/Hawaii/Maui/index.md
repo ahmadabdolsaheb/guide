@@ -4,7 +4,7 @@ location:
   country: United States
   state: Hawaii
   city: Maui
-  neighborhood: 
+  neighborhood: ''
   coordinates: -21.131812, -175.222736
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

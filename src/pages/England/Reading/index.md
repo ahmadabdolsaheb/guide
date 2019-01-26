@@ -2,9 +2,9 @@
 title: Reading
 location:
   country: England
-  state: 
+  state: ''
   city: Reading
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.458022, -0.967373
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

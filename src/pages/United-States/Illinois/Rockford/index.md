@@ -4,7 +4,7 @@ location:
   country: United States
   state: Illinois
   city: Rockford
-  neighborhood: 
+  neighborhood: ''
   coordinates: 42.271395, -89.093966
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

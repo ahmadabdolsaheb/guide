@@ -4,7 +4,7 @@ location:
   country: Japan
   state: Ibaraki
   city: Tsukuba
-  neighborhood: 
+  neighborhood: ''
   coordinates: 36.083388, 140.07651
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

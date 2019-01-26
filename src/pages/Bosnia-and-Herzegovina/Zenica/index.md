@@ -2,9 +2,9 @@
 title: Zenica
 location:
   country: Bosnia and Herzegovina
-  state: 
+  state: ''
   city: Zenica
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.200713, 17.908095
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

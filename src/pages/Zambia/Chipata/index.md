@@ -2,9 +2,9 @@
 title: Chipata
 location:
   country: Zambia
-  state: 
+  state: ''
   city: Chipata
-  neighborhood: 
+  neighborhood: ''
   coordinates: -13.63692, 32.649193
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

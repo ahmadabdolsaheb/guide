@@ -2,9 +2,9 @@
 title: Aichi
 location:
   country: Peru
-  state: 
+  state: ''
   city: Aichi
-  neighborhood: 
+  neighborhood: ''
   coordinates: 35.121932, 137.081753
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

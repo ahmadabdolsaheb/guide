@@ -2,9 +2,9 @@
 title: Eindhoven
 location:
   country: Netherlands
-  state: 
+  state: ''
   city: Eindhoven
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.448557, 5.450123
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

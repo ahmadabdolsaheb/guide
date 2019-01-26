@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Cathedral City
-  neighborhood: 
+  neighborhood: ''
   coordinates: 33.781003, -116.464076
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

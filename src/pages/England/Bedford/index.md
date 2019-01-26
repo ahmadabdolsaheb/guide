@@ -2,9 +2,9 @@
 title: Bedford
 location:
   country: England
-  state: 
+  state: ''
   city: Bedford
-  neighborhood: 
+  neighborhood: ''
   coordinates: 52.136381, -0.467504
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

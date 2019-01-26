@@ -4,7 +4,7 @@ location:
   country: Canada
   state: Québec
   city: Québec
-  neighborhood: 
+  neighborhood: ''
   coordinates: 46.825737, -71.234911
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

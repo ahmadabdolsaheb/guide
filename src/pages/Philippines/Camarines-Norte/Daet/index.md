@@ -4,7 +4,7 @@ location:
   country: Philippines
   state: Camarines Norte
   city: Daet
-  neighborhood: 
+  neighborhood: ''
   coordinates: 14.099611, 122.955000
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Hyderabad
 location:
   country: Pakistan
-  state: 
+  state: ''
   city: Hyderabad
-  neighborhood: 
+  neighborhood: ''
   coordinates: 25.3818, 68.3694
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

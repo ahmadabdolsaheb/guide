@@ -2,9 +2,9 @@
 title: Nairobi
 location:
   country: Kenya
-  state: 
+  state: ''
   city: Nairobi
-  neighborhood: 
+  neighborhood: ''
   coordinates: -1.283253, 36.817245
   plusCode: ''
 social:

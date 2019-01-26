@@ -2,9 +2,9 @@
 title: Oaxaca
 location:
   country: Mexico
-  state: 
+  state: ''
   city: Oaxaca
-  neighborhood: 
+  neighborhood: ''
   coordinates: 17.060466, -96.725357
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

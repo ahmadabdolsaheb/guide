@@ -4,7 +4,7 @@ location:
   country: United States
   state: Connecticut
   city: Stamford
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.05343, -73.538734
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

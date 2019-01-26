@@ -2,9 +2,9 @@
 title: Mianwali
 location:
   country: Pakistan
-  state: 
+  state: ''
   city: Mianwali
-  neighborhood: 
+  neighborhood: ''
   coordinates: 32.57451, 71.580041
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

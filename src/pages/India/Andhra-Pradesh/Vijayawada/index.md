@@ -4,7 +4,7 @@ location:
   country: India
   state: Andhra Pradesh
   city: Vijayawada
-  neighborhood: 
+  neighborhood: ''
   coordinates: 16.508759, 80.61851
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

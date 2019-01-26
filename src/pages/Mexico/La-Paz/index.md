@@ -2,9 +2,9 @@
 title: La Paz
 location:
   country: Mexico
-  state: 
+  state: ''
   city: La Paz
-  neighborhood: 
+  neighborhood: ''
   coordinates: -16.495647, -68.133542
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

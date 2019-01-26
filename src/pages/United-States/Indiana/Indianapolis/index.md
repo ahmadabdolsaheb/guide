@@ -4,7 +4,7 @@ location:
   country: United States
   state: Indiana
   city: Indianapolis
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.768333, -86.15835
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

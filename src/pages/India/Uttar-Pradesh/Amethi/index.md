@@ -4,7 +4,7 @@ location:
   country: India
   state: Uttar Pradesh
   city: Amethi
-  neighborhood: 
+  neighborhood: ''
   coordinates: 26.756059, 81.157675
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

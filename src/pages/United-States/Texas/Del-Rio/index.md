@@ -4,7 +4,7 @@ location:
   country: United States
   state: Texas
   city: Del Rio
-  neighborhood: 
+  neighborhood: ''
   coordinates: 29.36273, -100.896761
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

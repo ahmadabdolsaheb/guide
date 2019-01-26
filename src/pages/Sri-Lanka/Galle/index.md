@@ -2,9 +2,9 @@
 title: Galle
 location:
   country: Sri Lanka
-  state: 
+  state: ''
   city: Galle
-  neighborhood: 
+  neighborhood: ''
   coordinates: 6.032846, 80.214938
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

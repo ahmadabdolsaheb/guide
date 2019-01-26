@@ -2,9 +2,9 @@
 title: Manado
 location:
   country: Indonesia
-  state: 
+  state: ''
   city: Manado
-  neighborhood: 
+  neighborhood: ''
   coordinates: 1.490058, 124.840871
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

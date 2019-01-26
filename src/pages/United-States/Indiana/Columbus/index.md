@@ -4,7 +4,7 @@ location:
   country: United States
   state: Indiana
   city: Columbus
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.209782, -85.899962
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: India
   state: Uttar Pradesh
   city: Dharwad
-  neighborhood: 
+  neighborhood: ''
   coordinates: 15.454051, 75.006652
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

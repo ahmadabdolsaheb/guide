@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Alagoas
   city: Maceió
-  neighborhood: 
+  neighborhood: ''
   coordinates: -9.647684, -35.733926
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

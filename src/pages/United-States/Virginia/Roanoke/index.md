@@ -4,7 +4,7 @@ location:
   country: United States
   state: Virginia
   city: Roanoke
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.270973, -79.941431
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

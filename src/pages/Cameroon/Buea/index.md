@@ -2,9 +2,9 @@
 title: Buea
 location:
   country: Cameroon
-  state: 
+  state: ''
   city: Buea
-  neighborhood: 
+  neighborhood: ''
   coordinates: 4.167118, 9.242743
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

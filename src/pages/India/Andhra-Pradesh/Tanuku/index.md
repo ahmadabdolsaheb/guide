@@ -4,7 +4,7 @@ location:
   country: India
   state: Andhra Pradesh
   city: Tanuku
-  neighborhood: 
+  neighborhood: ''
   coordinates: 16.75414, 81.685839
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

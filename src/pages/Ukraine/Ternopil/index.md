@@ -2,9 +2,9 @@
 title: Ternopil
 location:
   country: Ukraine
-  state: 
+  state: ''
   city: Ternopil
-  neighborhood: 
+  neighborhood: ''
   coordinates: 49.555772, 25.591886
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Kaunas
 location:
   country: Lithuania
-  state: 
+  state: ''
   city: Kaunas
-  neighborhood: 
+  neighborhood: ''
   coordinates: 54.898106, 23.911752
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

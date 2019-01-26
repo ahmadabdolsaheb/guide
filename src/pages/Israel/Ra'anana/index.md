@@ -2,9 +2,9 @@
 title: Ra'anana
 location:
   country: Israel
-  state: 
+  state: ''
   city: Ra'anana
-  neighborhood: 
+  neighborhood: ''
   coordinates: 32.186248, 34.869635
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: Texas
   city: San Marcos
-  neighborhood: 
+  neighborhood: ''
   coordinates: 29.882644, -97.940583
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

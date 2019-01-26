@@ -2,9 +2,9 @@
 title: Cherepovets
 location:
   country: Russia
-  state: 
+  state: ''
   city: Cherepovets
-  neighborhood: 
+  neighborhood: ''
   coordinates: 59.128697, 37.916389
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

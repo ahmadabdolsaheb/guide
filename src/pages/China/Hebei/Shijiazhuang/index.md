@@ -4,7 +4,7 @@ location:
   country: China
   state: Hebei
   city: Shijiazhuang
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.035981, 114.462773
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Exeter
 location:
   country: England
-  state: 
+  state: ''
   city: Exeter
-  neighborhood: 
+  neighborhood: ''
   coordinates: 50.725647, -3.526661
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

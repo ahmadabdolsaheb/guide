@@ -2,9 +2,9 @@
 title: Faro
 location:
   country: Portugal
-  state: 
+  state: ''
   city: Faro
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.053757, -7.931937
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

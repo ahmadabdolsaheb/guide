@@ -2,9 +2,9 @@
 title: Chihuahua
 location:
   country: Mexico
-  state: 
+  state: ''
   city: Chihuahua
-  neighborhood: 
+  neighborhood: ''
   coordinates: 28.660574, -106.074978
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

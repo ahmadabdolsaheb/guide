@@ -2,9 +2,9 @@
 title: Lund
 location:
   country: Sweden
-  state: 
+  state: ''
   city: Lund
-  neighborhood: 
+  neighborhood: ''
   coordinates: 55.70293, 13.192945
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

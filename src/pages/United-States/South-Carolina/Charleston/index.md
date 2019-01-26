@@ -4,7 +4,7 @@ location:
   country: United States
   state: South Carolina
   city: Charleston
-  neighborhood: 
+  neighborhood: ''
   coordinates: 32.787601, -79.940273
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

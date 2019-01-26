@@ -2,9 +2,9 @@
 title: Tripoli
 location:
   country: Libya
-  state: 
+  state: ''
   city: Tripoli
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.445358, 35.822512
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

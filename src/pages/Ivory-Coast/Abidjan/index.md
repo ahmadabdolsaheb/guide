@@ -2,9 +2,9 @@
 title: Abidjan
 location:
   country: Ivory Coast
-  state: 
+  state: ''
   city: Abidjan
-  neighborhood: 
+  neighborhood: ''
   coordinates: 5.320357, -4.016107
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

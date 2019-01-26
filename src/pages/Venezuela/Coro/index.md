@@ -2,9 +2,9 @@
 title: Coro
 location:
   country: Venezuela
-  state: 
+  state: ''
   city: Coro
-  neighborhood: 
+  neighborhood: ''
   coordinates: 11.405065, -69.667807
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

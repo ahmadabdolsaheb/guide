@@ -4,7 +4,7 @@ location:
   country: United States
   state: Minnesota
   city: Minneapolis-Saint Paul
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.9773, -93.265469
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

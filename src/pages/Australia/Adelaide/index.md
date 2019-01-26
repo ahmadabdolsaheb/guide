@@ -2,9 +2,9 @@
 title: Adelaide
 location:
   country: Australia
-  state: 
+  state: ''
   city: Adelaide
-  neighborhood: 
+  neighborhood: ''
   coordinates: -34.927428, 138.599899
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

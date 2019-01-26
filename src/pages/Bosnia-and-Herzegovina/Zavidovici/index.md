@@ -2,9 +2,9 @@
 title: Zavidovici
 location:
   country: Bosnia and Herzegovina
-  state: 
+  state: ''
   city: Zavidovici
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.439985, 18.145692
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

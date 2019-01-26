@@ -4,7 +4,7 @@ location:
   country: China
   state: Guizhou
   city: Zunyi
-  neighborhood: 
+  neighborhood: ''
   coordinates: 27.725654,106.927389
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Encarnacion
 location:
   country: Paraguay
-  state: 
+  state: ''
   city: Encarnacion
-  neighborhood: 
+  neighborhood: ''
   coordinates: -27.338582, -55.866846
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

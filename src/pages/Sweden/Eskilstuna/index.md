@@ -2,9 +2,9 @@
 title: Eskilstuna
 location:
   country: Sweden
-  state: 
+  state: ''
   city: Eskilstuna
-  neighborhood: 
+  neighborhood: ''
   coordinates: 59.371738, 16.505147
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

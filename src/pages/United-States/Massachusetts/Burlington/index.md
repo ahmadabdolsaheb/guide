@@ -4,7 +4,7 @@ location:
   country: United States
   state: Massachusetts
   city: Burlington
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.472399, -73.211494
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

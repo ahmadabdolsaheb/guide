@@ -4,7 +4,7 @@ location:
   country: United States
   state: Oklahoma
   city: Oklahoma City
-  neighborhood: 
+  neighborhood: ''
   coordinates: 35.472989, -97.517054
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

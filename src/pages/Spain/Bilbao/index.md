@@ -2,9 +2,9 @@
 title: Bilbao
 location:
   country: Spain
-  state: 
+  state: ''
   city: Bilbao
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.262964, -2.934948
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

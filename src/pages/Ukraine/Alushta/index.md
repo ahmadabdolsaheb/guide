@@ -2,9 +2,9 @@
 title: Alushta
 location:
   country: Ukraine
-  state: 
+  state: ''
   city: Alushta
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.677112, 34.409539
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

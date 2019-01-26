@@ -4,7 +4,7 @@ location:
   country: United States
   state: Utah
   city: St. George
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.104153, -113.584131
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Santa Cruz de Tenerife
 location:
   country: Spain
-  state: 
+  state: ''
   city: Santa Cruz de Tenerife
-  neighborhood: 
+  neighborhood: ''
   coordinates: 28.459782, -16.253638
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

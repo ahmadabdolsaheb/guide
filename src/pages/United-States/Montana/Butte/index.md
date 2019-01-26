@@ -4,7 +4,7 @@ location:
   country: United States
   state: Montana
   city: Butte
-  neighborhood: 
+  neighborhood: ''
   coordinates: 45.984322, -112.501468
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

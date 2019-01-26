@@ -2,9 +2,9 @@
 title: Roma
 location:
   country: Italy
-  state: 
+  state: ''
   city: Roma
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.893344, 12.483072
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

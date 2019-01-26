@@ -2,9 +2,9 @@
 title: Sharqiyah
 location:
   country: Egypt
-  state: 
+  state: ''
   city: Sharqiyah
-  neighborhood: 
+  neighborhood: ''
   coordinates: 30.827563, 46.591377
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

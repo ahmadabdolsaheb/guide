@@ -4,7 +4,7 @@ location:
   country: India
   state: Rajasthan
   city: Neemrana
-  neighborhood: 
+  neighborhood: ''
   coordinates: 27.9628657,76.40318810000001
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Rawalpindi
 location:
   country: Pakistan
-  state: 
+  state: ''
   city: Rawalpindi
-  neighborhood: 
+  neighborhood: ''
   coordinates: 33.599148, 73.0641
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

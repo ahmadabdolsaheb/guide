@@ -4,7 +4,7 @@ location:
   country: United States
   state: South Carolina
   city: Laurens
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.4990116,-82.0142597
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

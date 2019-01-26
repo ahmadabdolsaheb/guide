@@ -2,9 +2,9 @@
 title: Heraklion
 location:
   country: Greece
-  state: 
+  state: ''
   city: Heraklion
-  neighborhood: 
+  neighborhood: ''
   coordinates: 35.334013, 25.132854
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

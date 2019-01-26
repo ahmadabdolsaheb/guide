@@ -2,9 +2,9 @@
 title: Bridgend
 location:
   country: Wales
-  state: 
+  state: ''
   city: Bridgend
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.500654, -3.534955
   plusCode: ''
 social:

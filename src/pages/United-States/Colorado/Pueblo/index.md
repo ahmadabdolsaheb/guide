@@ -4,7 +4,7 @@ location:
   country: United States
   state: Colorado
   city: Pueblo
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.254447, -104.609141
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Lille
 location:
   country: France
-  state: 
+  state: ''
   city: Lille
-  neighborhood: 
+  neighborhood: ''
   coordinates: 50.630509, 3.070641
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

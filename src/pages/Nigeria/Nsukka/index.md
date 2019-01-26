@@ -2,9 +2,9 @@
 title: Nsukka
 location:
   country: Nigeria
-  state: 
+  state: ''
   city: Nsukka
-  neighborhood: 
+  neighborhood: ''
   coordinates: 6.8561, 7.3927
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

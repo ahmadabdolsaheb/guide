@@ -2,9 +2,9 @@
 title: Luton
 location:
   country: England
-  state: 
+  state: ''
   city: Luton
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.878309, -0.418272
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

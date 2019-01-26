@@ -4,7 +4,7 @@ location:
   country: United States
   state: Georgia
   city: Flowery Branch
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.185102, -83.925181
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

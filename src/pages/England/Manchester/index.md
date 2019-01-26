@@ -2,9 +2,9 @@
 title: Manchester
 location:
   country: England
-  state: 
+  state: ''
   city: Manchester
-  neighborhood: 
+  neighborhood: ''
   coordinates: 53.47913, -2.244101
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

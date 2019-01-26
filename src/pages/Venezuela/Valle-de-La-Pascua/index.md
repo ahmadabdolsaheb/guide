@@ -2,9 +2,9 @@
 title: Valle de La Pascua
 location:
   country: Venezuela
-  state: 
+  state: ''
   city: Valle de La Pascua
-  neighborhood: 
+  neighborhood: ''
   coordinates: 9.213061, -66.002307
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Vitoria-Gasteiz
 location:
   country: Spain
-  state: 
+  state: ''
   city: Vitoria-Gasteiz
-  neighborhood: 
+  neighborhood: ''
   coordinates: 42.846453, -2.67241
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

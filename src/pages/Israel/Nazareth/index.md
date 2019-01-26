@@ -2,9 +2,9 @@
 title: Nazareth
 location:
   country: Israel
-  state: 
+  state: ''
   city: Nazareth
-  neighborhood: 
+  neighborhood: ''
   coordinates: 32.70663, 35.304816
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

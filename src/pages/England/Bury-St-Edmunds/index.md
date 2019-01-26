@@ -2,9 +2,9 @@
 title: Bury St Edmunds
 location:
   country: England
-  state: 
+  state: ''
   city: Bury St Edmunds
-  neighborhood: 
+  neighborhood: ''
   coordinates: 52.246037, 0.712517
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

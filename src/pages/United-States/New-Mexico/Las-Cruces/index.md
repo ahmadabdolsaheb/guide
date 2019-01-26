@@ -4,7 +4,7 @@ location:
   country: United States
   state: New Mexico
   city: Las Cruces
-  neighborhood: 
+  neighborhood: ''
   coordinates: 32.314035, -106.779808
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: Wisconsin
   city: Appleton
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.261134, -88.40676
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

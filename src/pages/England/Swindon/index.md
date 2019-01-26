@@ -2,9 +2,9 @@
 title: Swindon
 location:
   country: England
-  state: 
+  state: ''
   city: Swindon
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.561368, -1.785685
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

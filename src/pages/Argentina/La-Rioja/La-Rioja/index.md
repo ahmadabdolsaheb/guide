@@ -4,7 +4,7 @@ location:
   country: Argentina
   state: La Rioja
   city: La Rioja
-  neighborhood: 
+  neighborhood: ''
   coordinates: -29.417881, -66.852688
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

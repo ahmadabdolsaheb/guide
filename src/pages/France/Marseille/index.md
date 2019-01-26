@@ -2,9 +2,9 @@
 title: Marseille
 location:
   country: France
-  state: 
+  state: ''
   city: Marseille
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.296174, 5.369953
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

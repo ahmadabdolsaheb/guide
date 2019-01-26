@@ -2,9 +2,9 @@
 title: Tuxtla Gutiérrez
 location:
   country: Mexico
-  state: 
+  state: ''
   city: Tuxtla Gutiérrez
-  neighborhood: 
+  neighborhood: ''
   coordinates: 16.753801, -93.115959
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

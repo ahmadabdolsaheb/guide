@@ -2,9 +2,9 @@
 title: Strasbourg
 location:
   country: France
-  state: 
+  state: ''
   city: Strasbourg
-  neighborhood: 
+  neighborhood: ''
   coordinates: 48.584614, 7.750713
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

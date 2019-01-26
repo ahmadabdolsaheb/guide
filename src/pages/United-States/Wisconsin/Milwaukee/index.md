@@ -4,7 +4,7 @@ location:
   country: United States
   state: Wisconsin
   city: Milwaukee
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.034993, -87.922497
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Gaggenau
 location:
   country: Germany
-  state: 
+  state: ''
   city: Gaggenau
-  neighborhood: 
+  neighborhood: ''
   coordinates: 48.803043, 8.320204
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

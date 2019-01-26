@@ -2,9 +2,9 @@
 title: Luanda
 location:
   country: Angola
-  state: 
+  state: ''
   city: Luanda
-  neighborhood: 
+  neighborhood: ''
   coordinates: -8.827166, 13.243667
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

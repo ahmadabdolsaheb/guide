@@ -2,9 +2,9 @@
 title: Feni
 location:
   country: Bangladesh
-  state: 
+  state: ''
   city: Feni
-  neighborhood: 
+  neighborhood: ''
   coordinates: 23.006305, 91.395519
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

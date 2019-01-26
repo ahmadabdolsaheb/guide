@@ -2,9 +2,9 @@
 title: Astana
 location:
   country: Kazakhstan
-  state: 
+  state: ''
   city: Astana
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.16052269999999,71.4703558
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

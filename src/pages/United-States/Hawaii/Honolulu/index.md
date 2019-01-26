@@ -4,7 +4,7 @@ location:
   country: United States
   state: Hawaii
   city: Honolulu
-  neighborhood: 
+  neighborhood: ''
   coordinates: 21.304547, -157.855676
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

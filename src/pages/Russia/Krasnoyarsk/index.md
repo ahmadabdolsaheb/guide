@@ -2,9 +2,9 @@
 title: Krasnoyarsk
 location:
   country: Russia
-  state: 
+  state: ''
   city: Krasnoyarsk
-  neighborhood: 
+  neighborhood: ''
   coordinates: 56.008256, 92.870237
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

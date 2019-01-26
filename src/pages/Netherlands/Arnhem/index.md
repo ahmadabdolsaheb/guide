@@ -2,9 +2,9 @@
 title: Arnhem
 location:
   country: Netherlands
-  state: 
+  state: ''
   city: Arnhem
-  neighborhood: 
+  neighborhood: ''
   coordinates: 52.005664, 5.876235
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

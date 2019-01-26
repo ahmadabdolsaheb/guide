@@ -2,9 +2,9 @@
 title: Nizhnevartovsk
 location:
   country: Russia
-  state: 
+  state: ''
   city: Nizhnevartovsk
-  neighborhood: 
+  neighborhood: ''
   coordinates: 60.934044, 76.58037
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

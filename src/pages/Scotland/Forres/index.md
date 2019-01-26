@@ -2,9 +2,9 @@
 title: Forres
 location:
   country: Scotland
-  state: 
+  state: ''
   city: Forres
-  neighborhood: 
+  neighborhood: ''
   coordinates: 57.60979099999999,-3.61998
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

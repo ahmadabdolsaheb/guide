@@ -4,7 +4,7 @@ location:
   country: United States
   state: Missouri
   city: Cape Girardeau
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.305884, -89.518148
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

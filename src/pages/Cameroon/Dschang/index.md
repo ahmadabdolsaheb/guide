@@ -2,9 +2,9 @@
 title: Dschang
 location:
   country: Cameroon
-  state: 
+  state: ''
   city: Dschang
-  neighborhood: 
+  neighborhood: ''
   coordinates: 5.447203, 10.05317
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

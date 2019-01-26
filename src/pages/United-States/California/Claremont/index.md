@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Claremont
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.0966764,-117.7197785
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

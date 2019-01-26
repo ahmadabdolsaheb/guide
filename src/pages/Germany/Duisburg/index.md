@@ -2,9 +2,9 @@
 title: Duisburg
 location:
   country: Germany
-  state: 
+  state: ''
   city: Duisburg
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.434999, 6.759562
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: North Carolina
   city: Durham
-  neighborhood: 
+  neighborhood: ''
   coordinates: 54.776415, -1.575854
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

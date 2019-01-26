@@ -4,7 +4,7 @@ location:
   country: United States
   state: Washington
   city: Oak Harbor
-  neighborhood: 
+  neighborhood: ''
   coordinates: 48.293156, -122.643224
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

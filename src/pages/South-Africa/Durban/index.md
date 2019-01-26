@@ -2,9 +2,9 @@
 title: Durban
 location:
   country: South Africa
-  state: 
+  state: ''
   city: Durban
-  neighborhood: 
+  neighborhood: ''
   coordinates: -29.861825, 31.00991
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

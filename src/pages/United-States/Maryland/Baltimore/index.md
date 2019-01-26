@@ -4,7 +4,7 @@ location:
   country: United States
   state: Maryland
   city: Baltimore
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.290861, -76.610807
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

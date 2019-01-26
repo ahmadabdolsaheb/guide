@@ -2,9 +2,9 @@
 title: Prishtina
 location:
   country: Kosovo
-  state: 
+  state: ''
   city: Prishtina
-  neighborhood: 
+  neighborhood: ''
   coordinates: 42.6629138,21.1655028
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

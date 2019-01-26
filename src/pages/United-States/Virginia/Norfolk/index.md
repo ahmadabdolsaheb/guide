@@ -4,7 +4,7 @@ location:
   country: United States
   state: Virginia
   city: Norfolk
-  neighborhood: 
+  neighborhood: ''
   coordinates: 42.028338, -97.416996
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

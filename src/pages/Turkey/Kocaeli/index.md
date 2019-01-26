@@ -2,9 +2,9 @@
 title: Kocaeli
 location:
   country: Turkey
-  state: 
+  state: ''
   city: Kocaeli
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.768407, 29.96832
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

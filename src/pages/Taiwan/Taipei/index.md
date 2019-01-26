@@ -2,9 +2,9 @@
 title: Taipei
 location:
   country: Taiwan
-  state: 
+  state: ''
   city: Taipei
-  neighborhood: 
+  neighborhood: ''
   coordinates: 25.037517, 121.5637
   plusCode: ''
 social:

@@ -4,7 +4,7 @@ location:
   country: India
   state: Uttar Pradesh
   city: Meerut
-  neighborhood: 
+  neighborhood: ''
   coordinates: 28.99633, 77.706192
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

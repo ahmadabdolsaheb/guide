@@ -2,9 +2,9 @@
 title: Newcastle
 location:
   country: England
-  state: 
+  state: ''
   city: Newcastle
-  neighborhood: 
+  neighborhood: ''
   coordinates: 54.977092, -1.614206
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

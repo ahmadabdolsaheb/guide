@@ -4,7 +4,7 @@ location:
   country: India
   state: Khanpur
   city: Ludhiana
-  neighborhood: 
+  neighborhood: ''
   coordinates: 30.909016, 75.851601
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

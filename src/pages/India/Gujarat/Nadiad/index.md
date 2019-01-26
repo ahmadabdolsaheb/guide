@@ -4,7 +4,7 @@ location:
   country: India
   state: Gujarat
   city: Nadiad
-  neighborhood: 
+  neighborhood: ''
   coordinates: 22.6859, 72.860129
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

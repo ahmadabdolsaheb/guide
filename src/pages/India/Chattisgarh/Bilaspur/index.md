@@ -4,7 +4,7 @@ location:
   country: India
   state: Chattisgarh
   city: Bilaspur
-  neighborhood: 
+  neighborhood: ''
   coordinates: 22.079102, 82.14807
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

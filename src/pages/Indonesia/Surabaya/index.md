@@ -2,9 +2,9 @@
 title: Surabaya
 location:
   country: Indonesia
-  state: 
+  state: ''
   city: Surabaya
-  neighborhood: 
+  neighborhood: ''
   coordinates: -7.245972, 112.737827
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Isparta
 location:
   country: Turkey
-  state: 
+  state: ''
   city: Isparta
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.77035, 30.555693
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

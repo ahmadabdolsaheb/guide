@@ -2,9 +2,9 @@
 title: Kano
 location:
   country: Congo
-  state: 
+  state: ''
   city: Kano
-  neighborhood: 
+  neighborhood: ''
   coordinates: 11.991867, 8.530365
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

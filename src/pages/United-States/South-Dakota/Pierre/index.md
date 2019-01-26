@@ -4,7 +4,7 @@ location:
   country: United States
   state: South Dakota
   city: Pierre
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.368305, -100.351185
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

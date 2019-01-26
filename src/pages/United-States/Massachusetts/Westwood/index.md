@@ -4,7 +4,7 @@ location:
   country: United States
   state: Massachusetts
   city: Westwood
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.28007, -85.582738
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

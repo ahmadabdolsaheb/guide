@@ -3,8 +3,8 @@ title: Tainan City
 location:
   country: Taiwan
   state: Tainan City
-  city: 
-  neighborhood: 
+  city: ''
+  neighborhood: ''
   coordinates: 22.9997281,120.2270277
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

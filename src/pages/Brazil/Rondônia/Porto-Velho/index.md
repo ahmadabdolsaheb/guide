@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Rondônia
   city: Porto Velho
-  neighborhood: 
+  neighborhood: ''
   coordinates: -8.749452, -63.873544
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

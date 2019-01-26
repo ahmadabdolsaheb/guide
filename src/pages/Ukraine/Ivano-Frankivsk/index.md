@@ -2,9 +2,9 @@
 title: Ivano Frankivsk
 location:
   country: Ukraine
-  state: 
+  state: ''
   city: Ivano Frankivsk
-  neighborhood: 
+  neighborhood: ''
   coordinates: 48.922522, 24.710319
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

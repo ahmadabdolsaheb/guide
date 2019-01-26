@@ -2,9 +2,9 @@
 title: Gdynia
 location:
   country: Poland
-  state: 
+  state: ''
   city: Gdynia
-  neighborhood: 
+  neighborhood: ''
   coordinates: 54.516498, 18.540274
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

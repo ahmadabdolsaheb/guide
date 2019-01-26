@@ -4,7 +4,7 @@ location:
   country: United States
   state: North Carolina
   city: Greenville
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.851354, -82.398488
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

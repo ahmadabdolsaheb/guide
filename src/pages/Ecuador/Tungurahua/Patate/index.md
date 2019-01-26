@@ -4,7 +4,7 @@ location:
   country: Ecuador
   state: Tungurahua
   city: Patate
-  neighborhood: 
+  neighborhood: ''
   coordinates: -1.3128375,-78.50644729999999
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

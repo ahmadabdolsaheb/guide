@@ -2,9 +2,9 @@
 title: Göteborg
 location:
   country: Sweden
-  state: 
+  state: ''
   city: Göteborg
-  neighborhood: 
+  neighborhood: ''
   coordinates: 57.707233, 11.967017
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: New Jersey
   city: Maple Shade Township
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.9526127,-74.9923915
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

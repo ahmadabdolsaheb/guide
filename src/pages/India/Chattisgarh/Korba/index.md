@@ -4,7 +4,7 @@ location:
   country: India
   state: Chattisgarh
   city: Korba
-  neighborhood: 
+  neighborhood: ''
   coordinates: 36.573553, 10.856499
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

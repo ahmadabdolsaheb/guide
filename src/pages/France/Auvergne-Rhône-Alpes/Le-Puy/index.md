@@ -4,7 +4,7 @@ location:
   country: France
   state: Auvergne-Rhône-Alpes
   city: Le Puy
-  neighborhood: 
+  neighborhood: ''
   coordinates: 45.042768,3.882936
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Mato Grosso
   city: Cuiabá
-  neighborhood: 
+  neighborhood: ''
   coordinates: -15.598669, -56.09913
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

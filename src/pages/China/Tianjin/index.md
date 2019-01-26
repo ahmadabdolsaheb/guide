@@ -2,9 +2,9 @@
 title: Tianjin
 location:
   country: China
-  state: 
+  state: ''
   city: Tianjin
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.123564, 117.198079
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: Florida
   city: Vero Beach
-  neighborhood: 
+  neighborhood: ''
   coordinates: 27.638716, -80.39754
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

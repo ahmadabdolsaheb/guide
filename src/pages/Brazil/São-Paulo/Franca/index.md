@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: São Paulo
   city: Franca
-  neighborhood: 
+  neighborhood: ''
   coordinates: -20.538177, -47.400979
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

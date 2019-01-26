@@ -2,9 +2,9 @@
 title: Cajamarca
 location:
   country: Peru
-  state: 
+  state: ''
   city: Cajamarca
-  neighborhood: 
+  neighborhood: ''
   coordinates: -7.156668, -78.517306
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

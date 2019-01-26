@@ -2,9 +2,9 @@
 title: Luxembourg
 location:
   country: Luxembourg
-  state: 
+  state: ''
   city: Luxembourg
-  neighborhood: 
+  neighborhood: ''
   coordinates: 48.849513, 2.332417
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Johannesburg
 location:
   country: South Africa
-  state: 
+  state: ''
   city: Johannesburg
-  neighborhood: 
+  neighborhood: ''
   coordinates: -26.205, 28.049722
   plusCode: ''
 social:

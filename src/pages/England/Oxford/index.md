@@ -2,9 +2,9 @@
 title: Oxford
 location:
   country: England
-  state: 
+  state: ''
   city: Oxford
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.752225, -1.258303
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

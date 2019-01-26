@@ -2,9 +2,9 @@
 title: Valladolid
 location:
   country: Spain
-  state: 
+  state: ''
   city: Valladolid
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.652133, -4.728562
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

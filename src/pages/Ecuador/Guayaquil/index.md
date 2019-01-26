@@ -2,9 +2,9 @@
 title: Guayaquil
 location:
   country: Ecuador
-  state: 
+  state: ''
   city: Guayaquil
-  neighborhood: 
+  neighborhood: ''
   coordinates: -2.212436, -79.895812
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

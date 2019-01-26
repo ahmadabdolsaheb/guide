@@ -2,9 +2,9 @@
 title: Corrientes
 location:
   country: Argentina
-  state: 
+  state: ''
   city: Corrientes
-  neighborhood: 
+  neighborhood: ''
   coordinates: -27.472034, -58.832866
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

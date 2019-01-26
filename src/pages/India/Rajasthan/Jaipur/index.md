@@ -4,7 +4,7 @@ location:
   country: India
   state: Rajasthan
   city: Jaipur
-  neighborhood: 
+  neighborhood: ''
   coordinates: 26.916129, 75.820406
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

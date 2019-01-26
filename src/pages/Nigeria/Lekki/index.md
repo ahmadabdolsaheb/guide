@@ -2,9 +2,9 @@
 title: Lekki
 location:
   country: Nigeria
-  state: 
+  state: ''
   city: Lekki
-  neighborhood: 
+  neighborhood: ''
   coordinates: 6.360679, 4.833312
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

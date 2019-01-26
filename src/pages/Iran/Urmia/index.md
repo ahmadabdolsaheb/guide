@@ -2,9 +2,9 @@
 title: Urmia
 location:
   country: Iran
-  state: 
+  state: ''
   city: Urmia
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.549347, 45.068286
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

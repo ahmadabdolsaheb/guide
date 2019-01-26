@@ -4,7 +4,7 @@ location:
   country: Canada
   state: Manitoba
   city: Winnipeg
-  neighborhood: 
+  neighborhood: ''
   coordinates: 49.883334, -97.166674
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

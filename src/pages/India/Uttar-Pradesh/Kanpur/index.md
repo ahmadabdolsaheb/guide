@@ -4,7 +4,7 @@ location:
   country: India
   state: Uttar Pradesh
   city: Kanpur
-  neighborhood: 
+  neighborhood: ''
   coordinates: 26.461024, 80.322141
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

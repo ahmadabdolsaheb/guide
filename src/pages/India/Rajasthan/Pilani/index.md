@@ -4,7 +4,7 @@ location:
   country: India
   state: Rajasthan
   city: Pilani
-  neighborhood: 
+  neighborhood: ''
   coordinates: 28.362266, 75.604234
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

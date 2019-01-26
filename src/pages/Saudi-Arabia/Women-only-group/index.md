@@ -2,9 +2,9 @@
 title: Women only group
 location:
   country: Saudi Arabia
-  state: 
+  state: ''
   city: Women only group
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.78373, -100.445882
   plusCode: ''
 social:

@@ -4,7 +4,7 @@ location:
   country: United States
   state: New Jersey
   city: Palisades Park
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.848156, -73.997639
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

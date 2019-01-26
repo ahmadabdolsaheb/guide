@@ -2,9 +2,9 @@
 title: Secunda
 location:
   country: South Africa
-  state: 
+  state: ''
   city: Secunda
-  neighborhood: 
+  neighborhood: ''
   coordinates: -26.509696, 29.185567
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

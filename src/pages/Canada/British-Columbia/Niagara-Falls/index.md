@@ -4,7 +4,7 @@ location:
   country: Canada
   state: British Columbia
   city: Niagara Falls
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.103093, -79.030262
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

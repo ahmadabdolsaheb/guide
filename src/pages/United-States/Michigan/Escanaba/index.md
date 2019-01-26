@@ -4,7 +4,7 @@ location:
   country: United States
   state: Michigan
   city: Escanaba
-  neighborhood: 
+  neighborhood: ''
   coordinates: 45.745571, -87.064743
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

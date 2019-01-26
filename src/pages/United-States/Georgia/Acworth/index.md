@@ -4,7 +4,7 @@ location:
   country: United States
   state: Georgia
   city: Acworth
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.065933, -84.67688
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

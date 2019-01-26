@@ -2,9 +2,9 @@
 title: Leuven
 location:
   country: Belgium
-  state: 
+  state: ''
   city: Leuven
-  neighborhood: 
+  neighborhood: ''
   coordinates: 50.881213, 4.694183
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

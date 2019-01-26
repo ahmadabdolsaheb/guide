@@ -2,9 +2,9 @@
 title: Mérida
 location:
   country: Mexico
-  state: 
+  state: ''
   city: Mérida
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.917467, -6.344398
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

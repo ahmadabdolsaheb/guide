@@ -4,7 +4,7 @@ location:
   country: Zimbabwe
   state: Bulawayo
   city: Bulawayo
-  neighborhood: 
+  neighborhood: ''
   coordinates: -20.1325066,28.626479
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

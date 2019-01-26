@@ -4,7 +4,7 @@ location:
   country: India
   state: Karnataka
   city: Mangalore
-  neighborhood: 
+  neighborhood: ''
   coordinates: -42.653894, 147.241578
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

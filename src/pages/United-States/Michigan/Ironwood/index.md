@@ -4,7 +4,7 @@ location:
   country: United States
   state: Michigan
   city: Ironwood
-  neighborhood: 
+  neighborhood: ''
   coordinates: 46.454571, -90.168582
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

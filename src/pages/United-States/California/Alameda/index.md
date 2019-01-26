@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Alameda
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.765207, -122.241635
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

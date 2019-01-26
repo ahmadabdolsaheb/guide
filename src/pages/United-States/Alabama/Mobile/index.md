@@ -4,7 +4,7 @@ location:
   country: United States
   state: Alabama
   city: Mobile
-  neighborhood: 
+  neighborhood: ''
   coordinates: 30.694357, -88.043054
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

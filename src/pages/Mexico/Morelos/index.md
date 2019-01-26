@@ -2,9 +2,9 @@
 title: Morelos
 location:
   country: Mexico
-  state: 
+  state: ''
   city: Morelos
-  neighborhood: 
+  neighborhood: ''
   coordinates: 17.085, -97.72
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

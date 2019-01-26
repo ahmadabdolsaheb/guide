@@ -2,9 +2,9 @@
 title: Mexicali
 location:
   country: Mexico
-  state: 
+  state: ''
   city: Mexicali
-  neighborhood: 
+  neighborhood: ''
   coordinates: 32.62007, -115.44407
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

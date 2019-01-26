@@ -2,9 +2,9 @@
 title: Brasov
 location:
   country: Romania
-  state: 
+  state: ''
   city: Brasov
-  neighborhood: 
+  neighborhood: ''
   coordinates: 45.652309, 25.610275
   plusCode: ''
 social:

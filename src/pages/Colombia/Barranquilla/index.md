@@ -2,9 +2,9 @@
 title: Barranquilla
 location:
   country: Colombia
-  state: 
+  state: ''
   city: Barranquilla
-  neighborhood: 
+  neighborhood: ''
   coordinates: 10.979959, -74.801914
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

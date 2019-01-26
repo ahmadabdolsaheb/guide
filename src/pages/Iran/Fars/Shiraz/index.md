@@ -4,7 +4,7 @@ location:
   country: Iran
   state: Fars
   city: Shiraz
-  neighborhood: 
+  neighborhood: ''
   coordinates: 29.615676, 52.547660
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

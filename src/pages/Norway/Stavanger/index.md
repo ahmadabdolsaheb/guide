@@ -2,9 +2,9 @@
 title: Stavanger
 location:
   country: Norway
-  state: 
+  state: ''
   city: Stavanger
-  neighborhood: 
+  neighborhood: ''
   coordinates: 58.968043, 5.732472
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

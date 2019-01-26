@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Minas Gerais
   city: Belo Horizonte
-  neighborhood: 
+  neighborhood: ''
   coordinates: -19.922732, -43.945095
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Blagoveshchensk
 location:
   country: Russia
-  state: 
+  state: ''
   city: Blagoveshchensk
-  neighborhood: 
+  neighborhood: ''
   coordinates: 50.290529, 127.527158
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

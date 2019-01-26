@@ -2,9 +2,9 @@
 title: London
 location:
   country: England
-  state: 
+  state: ''
   city: London
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.516596, -0.129757
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

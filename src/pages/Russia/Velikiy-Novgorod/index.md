@@ -2,9 +2,9 @@
 title: Velikiy Novgorod
 location:
   country: Russia
-  state: 
+  state: ''
   city: Velikiy Novgorod
-  neighborhood: 
+  neighborhood: ''
   coordinates: 58.521143, 31.27529
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

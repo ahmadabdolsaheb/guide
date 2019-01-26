@@ -2,9 +2,9 @@
 title: Adana
 location:
   country: Turkey
-  state: 
+  state: ''
   city: Adana
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.003348, 35.326325
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

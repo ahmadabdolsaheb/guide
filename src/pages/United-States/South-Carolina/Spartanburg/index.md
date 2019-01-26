@@ -4,7 +4,7 @@ location:
   country: United States
   state: South Carolina
   city: Spartanburg
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.949801, -81.932016
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

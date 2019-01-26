@@ -4,7 +4,7 @@ location:
   country: United States
   state: New Hampshire
   city: Derry
-  neighborhood: 
+  neighborhood: ''
   coordinates: 54.991942, -7.316801
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: Maine
   city: Rockland
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.103692, -69.108929
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

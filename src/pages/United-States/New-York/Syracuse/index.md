@@ -4,7 +4,7 @@ location:
   country: United States
   state: New York
   city: Syracuse
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.048122, -76.147424
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Santo Domingo
 location:
   country: Ecuador
-  state: 
+  state: ''
   city: Santo Domingo
-  neighborhood: 
+  neighborhood: ''
   coordinates: 18.480197, -69.942111
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

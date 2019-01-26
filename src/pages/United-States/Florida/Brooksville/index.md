@@ -4,7 +4,7 @@ location:
   country: United States
   state: Florida
   city: Brooksville
-  neighborhood: 
+  neighborhood: ''
   coordinates: 33.234569, -88.582267
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

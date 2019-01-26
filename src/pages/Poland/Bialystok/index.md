@@ -2,9 +2,9 @@
 title: Bialystok
 location:
   country: Poland
-  state: 
+  state: ''
   city: Bialystok
-  neighborhood: 
+  neighborhood: ''
   coordinates: 53.132398, 23.159168
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Novosibirsk
 location:
   country: Russia
-  state: 
+  state: ''
   city: Novosibirsk
-  neighborhood: 
+  neighborhood: ''
   coordinates: 55.028222, 82.923448
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

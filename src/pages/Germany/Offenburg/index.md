@@ -2,9 +2,9 @@
 title: Offenburg
 location:
   country: Germany
-  state: 
+  state: ''
   city: Offenburg
-  neighborhood: 
+  neighborhood: ''
   coordinates: 48.471656, 7.944378
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

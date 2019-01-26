@@ -4,7 +4,7 @@ location:
   country: Canada
   state: Québec
   city: Saint-Jean-sur-Richelieu
-  neighborhood: 
+  neighborhood: ''
   coordinates: 45.305688, -73.25334
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

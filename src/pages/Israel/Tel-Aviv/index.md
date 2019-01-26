@@ -2,9 +2,9 @@
 title: Tel Aviv
 location:
   country: Israel
-  state: 
+  state: ''
   city: Tel Aviv
-  neighborhood: 
+  neighborhood: ''
   coordinates: 32.080481, 34.780527
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

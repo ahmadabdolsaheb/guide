@@ -4,7 +4,7 @@ location:
   country: United States
   state: Michigan
   city: Tri-cities
-  neighborhood: 
+  neighborhood: ''
   coordinates: 46.22546, -119.220891
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: Oregon
   city: Newport
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.637636, -124.053332
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

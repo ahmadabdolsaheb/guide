@@ -4,7 +4,7 @@ location:
   country: Canada
   state: New Brunswick
   city: Fredericton
-  neighborhood: 
+  neighborhood: ''
   coordinates: 45.964649, -66.643753
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

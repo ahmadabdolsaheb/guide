@@ -2,9 +2,9 @@
 title: Tijuana
 location:
   country: Mexico
-  state: 
+  state: ''
   city: Tijuana
-  neighborhood: 
+  neighborhood: ''
   coordinates: 32.500863, -116.964166
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

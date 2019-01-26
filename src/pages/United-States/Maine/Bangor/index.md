@@ -4,7 +4,7 @@ location:
   country: United States
   state: Maine
   city: Bangor
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.801182, -68.777814
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

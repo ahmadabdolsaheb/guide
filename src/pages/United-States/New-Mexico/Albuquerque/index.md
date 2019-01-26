@@ -4,7 +4,7 @@ location:
   country: United States
   state: New Mexico
   city: Albuquerque
-  neighborhood: 
+  neighborhood: ''
   coordinates: 35.084103, -106.650985
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

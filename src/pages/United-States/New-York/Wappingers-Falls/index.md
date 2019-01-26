@@ -4,7 +4,7 @@ location:
   country: United States
   state: New York
   city: Wappingers Falls
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.596564, -73.91121
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

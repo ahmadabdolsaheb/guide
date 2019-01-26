@@ -2,9 +2,9 @@
 title: Colombo
 location:
   country: Sri Lanka
-  state: 
+  state: ''
   city: Colombo
-  neighborhood: 
+  neighborhood: ''
   coordinates: 6.934287, 79.85327
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

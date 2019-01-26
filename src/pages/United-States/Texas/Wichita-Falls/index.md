@@ -4,7 +4,7 @@ location:
   country: United States
   state: Texas
   city: Wichita Falls
-  neighborhood: 
+  neighborhood: ''
   coordinates: 33.913709, -98.493387
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

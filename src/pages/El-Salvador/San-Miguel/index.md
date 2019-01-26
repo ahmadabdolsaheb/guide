@@ -2,9 +2,9 @@
 title: San Miguel
 location:
   country: El Salvador
-  state: 
+  state: ''
   city: San Miguel
-  neighborhood: 
+  neighborhood: ''
   coordinates: -12.078656, -77.095283
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

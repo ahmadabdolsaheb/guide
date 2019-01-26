@@ -2,9 +2,9 @@
 title: Kumasi
 location:
   country: Ghana
-  state: 
+  state: ''
   city: Kumasi
-  neighborhood: 
+  neighborhood: ''
   coordinates: 6.698081, -1.62304
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

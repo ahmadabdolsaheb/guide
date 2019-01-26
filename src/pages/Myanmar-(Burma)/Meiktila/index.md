@@ -2,9 +2,9 @@
 title: Meiktila
 location:
   country: Myanmar (Burma)
-  state: 
+  state: ''
   city: Meiktila
-  neighborhood: 
+  neighborhood: ''
   coordinates: 20.958296, 95.895638
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

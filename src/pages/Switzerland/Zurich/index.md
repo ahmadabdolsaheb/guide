@@ -2,9 +2,9 @@
 title: Zurich
 location:
   country: Switzerland
-  state: 
+  state: ''
   city: Zurich
-  neighborhood: 
+  neighborhood: ''
   coordinates: 47.368559, 8.540443
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

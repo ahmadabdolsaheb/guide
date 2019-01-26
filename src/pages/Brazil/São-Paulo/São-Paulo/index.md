@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: São Paulo
   city: São Paulo
-  neighborhood: 
+  neighborhood: ''
   coordinates: -23.550651, -46.633382
   plusCode: ''
 social:

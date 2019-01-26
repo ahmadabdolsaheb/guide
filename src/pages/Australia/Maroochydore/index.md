@@ -2,9 +2,9 @@
 title: Maroochydore
 location:
   country: Australia
-  state: 
+  state: ''
   city: Maroochydore
-  neighborhood: 
+  neighborhood: ''
   coordinates: -26.655652, 153.094668
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

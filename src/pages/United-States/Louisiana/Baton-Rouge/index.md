@@ -4,7 +4,7 @@ location:
   country: United States
   state: Louisiana
   city: Baton Rouge
-  neighborhood: 
+  neighborhood: ''
   coordinates: 30.450746, -91.154551
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

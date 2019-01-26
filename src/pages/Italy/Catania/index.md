@@ -2,9 +2,9 @@
 title: Catania
 location:
   country: Italy
-  state: 
+  state: ''
   city: Catania
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.502608, 15.087111
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

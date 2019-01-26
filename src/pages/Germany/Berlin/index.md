@@ -2,9 +2,9 @@
 title: Berlin
 location:
   country: Germany
-  state: 
+  state: ''
   city: Berlin
-  neighborhood: 
+  neighborhood: ''
   coordinates: 52.517037, 13.38886
   plusCode: ''
 social:

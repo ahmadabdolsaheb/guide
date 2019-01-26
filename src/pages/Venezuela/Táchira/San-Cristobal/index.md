@@ -4,7 +4,7 @@ location:
   country: Venezuela
   state: Táchira
   city: San Cristobal
-  neighborhood: 
+  neighborhood: ''
   coordinates: 7.771357200000001,-72.22614659999999
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Phnom Penh
 location:
   country: Cambodia
-  state: 
+  state: ''
   city: Phnom Penh
-  neighborhood: 
+  neighborhood: ''
   coordinates: 11.568271, 104.922443
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

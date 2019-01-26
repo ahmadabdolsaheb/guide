@@ -2,9 +2,9 @@
 title: Ciudad Real
 location:
   country: Spain
-  state: 
+  state: ''
   city: Ciudad Real
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.98542, -3.928514
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

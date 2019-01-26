@@ -4,7 +4,7 @@ location:
   country: United States
   state: Washington
   city: Port Orchard
-  neighborhood: 
+  neighborhood: ''
   coordinates: 47.531563, -122.638406
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

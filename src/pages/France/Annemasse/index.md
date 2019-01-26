@@ -2,9 +2,9 @@
 title: Annemasse
 location:
   country: France
-  state: 
+  state: ''
   city: Annemasse
-  neighborhood: 
+  neighborhood: ''
   coordinates: 46.193401, 6.234109
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Carolina
 location:
   country: South Africa
-  state: 
+  state: ''
   city: Carolina
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.274248, -3.61527
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

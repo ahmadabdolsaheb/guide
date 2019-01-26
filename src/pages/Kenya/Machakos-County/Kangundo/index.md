@@ -4,7 +4,7 @@ location:
   country: Kenya
   state: Machakos County
   city: Kangundo
-  neighborhood: 
+  neighborhood: ''
   coordinates: -1.3055671,37.3453215
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

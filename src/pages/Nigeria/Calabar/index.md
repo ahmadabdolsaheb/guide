@@ -2,9 +2,9 @@
 title: Calabar
 location:
   country: Nigeria
-  state: 
+  state: ''
   city: Calabar
-  neighborhood: 
+  neighborhood: ''
   coordinates: 4.9796, 8.33736
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

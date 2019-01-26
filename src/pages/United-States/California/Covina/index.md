@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Covina
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.087793, -117.889116
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

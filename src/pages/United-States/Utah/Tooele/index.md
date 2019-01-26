@@ -4,7 +4,7 @@ location:
   country: United States
   state: Utah
   city: Tooele
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.530778, -112.29828
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

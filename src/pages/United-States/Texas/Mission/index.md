@@ -4,7 +4,7 @@ location:
   country: United States
   state: Texas
   city: Mission
-  neighborhood: 
+  neighborhood: ''
   coordinates: 26.215907, -98.325293
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

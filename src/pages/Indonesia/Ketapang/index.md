@@ -2,9 +2,9 @@
 title: Ketapang
 location:
   country: Indonesia
-  state: 
+  state: ''
   city: Ketapang
-  neighborhood: 
+  neighborhood: ''
   coordinates: -6.894206, 113.285651
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

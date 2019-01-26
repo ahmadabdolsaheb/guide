@@ -4,7 +4,7 @@ location:
   country: United States
   state: New Mexico
   city: Los Alamos
-  neighborhood: 
+  neighborhood: ''
   coordinates: 35.889297, -106.320659
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

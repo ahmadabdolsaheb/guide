@@ -2,9 +2,9 @@
 title: Bellingham
 location:
   country: Australia
-  state: 
+  state: ''
   city: Bellingham
-  neighborhood: 
+  neighborhood: ''
   coordinates: 48.754402, -122.47886
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Bihac
 location:
   country: Bosnia and Herzegovina
-  state: 
+  state: ''
   city: Bihac
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.814641, 15.869086
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Rio Grande do Sul
   city: Pelotas
-  neighborhood: 
+  neighborhood: ''
   coordinates: -31.77001, -52.341154
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

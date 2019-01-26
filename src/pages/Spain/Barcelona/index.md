@@ -2,9 +2,9 @@
 title: Barcelona
 location:
   country: Spain
-  state: 
+  state: ''
   city: Barcelona
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.38256, 2.177135
   plusCode: ''
 social:

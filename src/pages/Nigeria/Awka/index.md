@@ -2,9 +2,9 @@
 title: Awka
 location:
   country: Nigeria
-  state: 
+  state: ''
   city: Awka
-  neighborhood: 
+  neighborhood: ''
   coordinates: 6.210095, 7.074115
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

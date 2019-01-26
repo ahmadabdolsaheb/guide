@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Arcadia
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.136208, -118.04015
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

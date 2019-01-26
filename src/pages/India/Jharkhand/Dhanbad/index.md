@@ -4,7 +4,7 @@ location:
   country: India
   state: Jharkhand
   city: Dhanbad
-  neighborhood: 
+  neighborhood: ''
   coordinates: 23.795281, 86.430964
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: South Carolina
   city: Mount Pleasant
-  neighborhood: 
+  neighborhood: ''
   coordinates: 32.794065, -79.862585
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

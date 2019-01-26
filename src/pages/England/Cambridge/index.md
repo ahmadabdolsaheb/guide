@@ -2,9 +2,9 @@
 title: Cambridge
 location:
   country: England
-  state: 
+  state: ''
   city: Cambridge
-  neighborhood: 
+  neighborhood: ''
   coordinates: 52.203305, 0.124862
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Miskolc
 location:
   country: Hungary
-  state: 
+  state: ''
   city: Miskolc
-  neighborhood: 
+  neighborhood: ''
   coordinates: 48.103152, 20.790216
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

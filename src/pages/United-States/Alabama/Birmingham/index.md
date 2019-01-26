@@ -4,7 +4,7 @@ location:
   country: United States
   state: Alabama
   city: Birmingham
-  neighborhood: 
+  neighborhood: ''
   coordinates: 33.520682, -86.802433
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

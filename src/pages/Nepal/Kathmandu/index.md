@@ -2,9 +2,9 @@
 title: Kathmandu
 location:
   country: Nepal
-  state: 
+  state: ''
   city: Kathmandu
-  neighborhood: 
+  neighborhood: ''
   coordinates: 27.707676, 85.314888
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

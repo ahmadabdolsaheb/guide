@@ -2,9 +2,9 @@
 title: Médéa
 location:
   country: Algeria
-  state: 
+  state: ''
   city: Médéa
-  neighborhood: 
+  neighborhood: ''
   coordinates: 36.265344, 2.766957
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

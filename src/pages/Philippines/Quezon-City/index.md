@@ -2,9 +2,9 @@
 title: Quezon City
 location:
   country: Philippines
-  state: 
+  state: ''
   city: Quezon City
-  neighborhood: 
+  neighborhood: ''
   coordinates: 14.650991, 121.048616
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

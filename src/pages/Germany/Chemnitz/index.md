@@ -2,9 +2,9 @@
 title: Chemnitz
 location:
   country: Germany
-  state: 
+  state: ''
   city: Chemnitz
-  neighborhood: 
+  neighborhood: ''
   coordinates: 50.832261, 12.925298
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

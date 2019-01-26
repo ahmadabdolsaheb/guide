@@ -2,9 +2,9 @@
 title: Valparaiso
 location:
   country: Chile
-  state: 
+  state: ''
   city: Valparaiso
-  neighborhood: 
+  neighborhood: ''
   coordinates: -33.046247, -71.619803
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

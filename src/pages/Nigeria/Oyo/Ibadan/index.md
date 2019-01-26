@@ -4,7 +4,7 @@ location:
   country: Nigeria
   state: Oyo
   city: Ibadan
-  neighborhood: 
+  neighborhood: ''
   coordinates: 7.3775355,3.9470396
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Lutsk
 location:
   country: Ukraine
-  state: 
+  state: ''
   city: Lutsk
-  neighborhood: 
+  neighborhood: ''
   coordinates: 50.745073, 25.320078
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

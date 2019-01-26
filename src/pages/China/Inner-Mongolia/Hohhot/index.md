@@ -4,7 +4,7 @@ location:
   country: China
   state: Inner Mongolia
   city: Hohhot
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.833796, 111.673079
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

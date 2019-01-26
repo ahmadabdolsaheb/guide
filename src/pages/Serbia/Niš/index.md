@@ -2,9 +2,9 @@
 title: Niš
 location:
   country: Serbia
-  state: 
+  state: ''
   city: Niš
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.321504, 21.89573
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

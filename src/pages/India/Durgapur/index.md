@@ -2,9 +2,9 @@
 title: Durgapur
 location:
   country: India
-  state: 
+  state: ''
   city: Durgapur
-  neighborhood: 
+  neighborhood: ''
   coordinates: 23.535048, 87.338043
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

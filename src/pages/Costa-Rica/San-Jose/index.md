@@ -2,9 +2,9 @@
 title: San Jose
 location:
   country: Costa Rica
-  state: 
+  state: ''
   city: San Jose
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.336191, -121.890583
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

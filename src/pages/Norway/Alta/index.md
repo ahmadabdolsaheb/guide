@@ -2,9 +2,9 @@
 title: Alta
 location:
   country: Norway
-  state: 
+  state: ''
   city: Alta
-  neighborhood: 
+  neighborhood: ''
   coordinates: 70.066989, 23.096644
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

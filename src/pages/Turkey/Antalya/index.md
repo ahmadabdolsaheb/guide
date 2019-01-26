@@ -2,9 +2,9 @@
 title: Antalya
 location:
   country: Turkey
-  state: 
+  state: ''
   city: Antalya
-  neighborhood: 
+  neighborhood: ''
   coordinates: 36.900878, 30.693712
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

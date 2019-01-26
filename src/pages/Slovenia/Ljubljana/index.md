@@ -2,9 +2,9 @@
 title: Ljubljana
 location:
   country: Slovenia
-  state: 
+  state: ''
   city: Ljubljana
-  neighborhood: 
+  neighborhood: ''
   coordinates: 46.049865, 14.506892
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

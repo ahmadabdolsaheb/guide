@@ -2,9 +2,9 @@
 title: Maseru
 location:
   country: Lesotho
-  state: 
+  state: ''
   city: Maseru
-  neighborhood: 
+  neighborhood: ''
   coordinates: -29.310054, 27.478222
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: Indiana
   city: Carmel
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.978371, -86.118043
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

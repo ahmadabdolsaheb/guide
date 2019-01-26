@@ -4,7 +4,7 @@ location:
   country: United States
   state: New Jersey
   city: Newark
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.735657, -74.172367
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

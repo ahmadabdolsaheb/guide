@@ -4,7 +4,7 @@ location:
   country: United States
   state: North Carolina
   city: Rockingham
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.93932, -79.773946
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

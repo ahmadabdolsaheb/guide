@@ -2,9 +2,9 @@
 title: Berne
 location:
   country: Switzerland
-  state: 
+  state: ''
   city: Berne
-  neighborhood: 
+  neighborhood: ''
   coordinates: 46.948276, 7.451501
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

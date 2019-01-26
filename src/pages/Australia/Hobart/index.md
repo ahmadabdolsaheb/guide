@@ -2,9 +2,9 @@
 title: Hobart
 location:
   country: Australia
-  state: 
+  state: ''
   city: Hobart
-  neighborhood: 
+  neighborhood: ''
   coordinates: -42.882509, 147.328123
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

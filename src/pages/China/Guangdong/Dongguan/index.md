@@ -4,7 +4,7 @@ location:
   country: China
   state: Guangdong
   city: Dongguan
-  neighborhood: 
+  neighborhood: ''
   coordinates: 23.044928, 113.752478
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

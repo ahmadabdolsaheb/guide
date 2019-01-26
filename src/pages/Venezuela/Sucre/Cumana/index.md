@@ -4,7 +4,7 @@ location:
   country: Venezuela
   state: Sucre
   city: Cumana
-  neighborhood: 
+  neighborhood: ''
   coordinates: 10.431916,-64.18331599999999
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

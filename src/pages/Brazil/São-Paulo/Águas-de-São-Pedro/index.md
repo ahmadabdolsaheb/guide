@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: São Paulo
   city: Águas de São Pedro
-  neighborhood: 
+  neighborhood: ''
   coordinates: -22.60109, -47.875884
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

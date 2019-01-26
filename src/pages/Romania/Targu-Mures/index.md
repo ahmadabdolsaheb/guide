@@ -2,9 +2,9 @@
 title: Targu Mures
 location:
   country: Romania
-  state: 
+  state: ''
   city: Targu Mures
-  neighborhood: 
+  neighborhood: ''
   coordinates: 46.544624, 24.561195
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

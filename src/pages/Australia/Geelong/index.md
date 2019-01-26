@@ -2,9 +2,9 @@
 title: Geelong
 location:
   country: Australia
-  state: 
+  state: ''
   city: Geelong
-  neighborhood: 
+  neighborhood: ''
   coordinates: -38.149281, 144.359827
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

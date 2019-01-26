@@ -4,7 +4,7 @@ location:
   country: United States
   state: Kentucky
   city: Fort Campbell
-  neighborhood: 
+  neighborhood: ''
   coordinates: 36.632027, -87.614848
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

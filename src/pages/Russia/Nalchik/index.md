@@ -2,9 +2,9 @@
 title: Nalchik
 location:
   country: Russia
-  state: 
+  state: ''
   city: Nalchik
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.493075, 43.619357
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

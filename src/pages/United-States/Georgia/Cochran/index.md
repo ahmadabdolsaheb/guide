@@ -4,7 +4,7 @@ location:
   country: United States
   state: Georgia
   city: Cochran
-  neighborhood: 
+  neighborhood: ''
   coordinates: 32.386828, -83.35461
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

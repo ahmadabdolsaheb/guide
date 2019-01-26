@@ -2,9 +2,9 @@
 title: Gujranwala
 location:
   country: Pakistan
-  state: 
+  state: ''
   city: Gujranwala
-  neighborhood: 
+  neighborhood: ''
   coordinates: 32.152531, 74.193375
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

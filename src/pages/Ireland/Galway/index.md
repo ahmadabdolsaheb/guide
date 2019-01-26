@@ -2,9 +2,9 @@
 title: Galway
 location:
   country: Ireland
-  state: 
+  state: ''
   city: Galway
-  neighborhood: 
+  neighborhood: ''
   coordinates: 53.274412, -9.049063
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

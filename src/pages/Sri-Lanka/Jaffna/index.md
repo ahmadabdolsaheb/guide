@@ -2,9 +2,9 @@
 title: Jaffna
 location:
   country: Sri Lanka
-  state: 
+  state: ''
   city: Jaffna
-  neighborhood: 
+  neighborhood: ''
   coordinates: 9.664926, 80.009172
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

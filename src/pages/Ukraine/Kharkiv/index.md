@@ -2,9 +2,9 @@
 title: Kharkiv
 location:
   country: Ukraine
-  state: 
+  state: ''
   city: Kharkiv
-  neighborhood: 
+  neighborhood: ''
   coordinates: 49.990279, 36.230389
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

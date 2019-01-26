@@ -2,9 +2,9 @@
 title: Dresden
 location:
   country: Germany
-  state: 
+  state: ''
   city: Dresden
-  neighborhood: 
+  neighborhood: ''
   coordinates: 52.979468, -2.143697
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

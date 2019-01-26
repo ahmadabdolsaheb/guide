@@ -4,7 +4,7 @@ location:
   country: United States
   state: North Carolina
   city: Charlotte
-  neighborhood: 
+  neighborhood: ''
   coordinates: 35.227087, -80.843127
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

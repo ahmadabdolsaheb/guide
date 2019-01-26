@@ -2,9 +2,9 @@
 title: Constanta
 location:
   country: Romania
-  state: 
+  state: ''
   city: Constanta
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.171786, 28.631977
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

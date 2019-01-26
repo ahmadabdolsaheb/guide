@@ -4,7 +4,7 @@ location:
   country: United States
   state: Michigan
   city: Muskegon
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.234181, -86.248392
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

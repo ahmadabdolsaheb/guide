@@ -2,9 +2,9 @@
 title: Oradea
 location:
   country: Romania
-  state: 
+  state: ''
   city: Oradea
-  neighborhood: 
+  neighborhood: ''
   coordinates: 47.056927, 21.932605
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

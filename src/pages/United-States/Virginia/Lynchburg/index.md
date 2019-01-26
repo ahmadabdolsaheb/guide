@@ -4,7 +4,7 @@ location:
   country: United States
   state: Virginia
   city: Lynchburg
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.413754, -79.142246
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Diyarbakir
 location:
   country: Turkey
-  state: 
+  state: ''
   city: Diyarbakir
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.935484, 40.181387
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

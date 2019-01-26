@@ -4,7 +4,7 @@ location:
   country: Canada
   state: Saskatchewan
   city: Regina
-  neighborhood: 
+  neighborhood: ''
   coordinates: 50.448095, -104.615818
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

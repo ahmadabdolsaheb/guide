@@ -4,7 +4,7 @@ location:
   country: Nigeria
   state: Anambra
   city: Onitsha
-  neighborhood: 
+  neighborhood: ''
   coordinates: 6.1329419,6.7923994
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

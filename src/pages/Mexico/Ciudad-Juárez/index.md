@@ -2,9 +2,9 @@
 title: Ciudad Juárez
 location:
   country: Mexico
-  state: 
+  state: ''
   city: Ciudad Juárez
-  neighborhood: 
+  neighborhood: ''
   coordinates: 31.654653, -106.42911
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

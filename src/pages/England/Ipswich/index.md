@@ -2,9 +2,9 @@
 title: Ipswich
 location:
   country: England
-  state: 
+  state: ''
   city: Ipswich
-  neighborhood: 
+  neighborhood: ''
   coordinates: 52.05795, 1.152635
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

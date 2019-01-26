@@ -4,7 +4,7 @@ location:
   country: United States
   state: Alabama
   city: Enterprise
-  neighborhood: 
+  neighborhood: ''
   coordinates: 31.315171, -85.855216
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: Canada
   state: Ontario
   city: Toronto
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.652921, -79.384901
   plusCode: ''
 social:

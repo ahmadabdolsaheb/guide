@@ -2,9 +2,9 @@
 title: Antananarivo
 location:
   country: Madagascar
-  state: 
+  state: ''
   city: Antananarivo
-  neighborhood: 
+  neighborhood: ''
   coordinates: -18.910012, 47.525581
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

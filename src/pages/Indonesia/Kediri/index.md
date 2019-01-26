@@ -2,9 +2,9 @@
 title: Kediri
 location:
   country: Indonesia
-  state: 
+  state: ''
   city: Kediri
-  neighborhood: 
+  neighborhood: ''
   coordinates: -7.813601, 112.006239
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

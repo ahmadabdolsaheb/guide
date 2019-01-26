@@ -4,7 +4,7 @@ location:
   country: United States
   state: Louisiana
   city: Slidell
-  neighborhood: 
+  neighborhood: ''
   coordinates: 30.275195, -89.781174
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

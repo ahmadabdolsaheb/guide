@@ -2,9 +2,9 @@
 title: The Hague
 location:
   country: Netherlands
-  state: 
+  state: ''
   city: The Hague
-  neighborhood: 
+  neighborhood: ''
   coordinates: 52.079984, 4.311346
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

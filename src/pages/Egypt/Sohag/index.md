@@ -2,9 +2,9 @@
 title: Sohag
 location:
   country: Egypt
-  state: 
+  state: ''
   city: Sohag
-  neighborhood: 
+  neighborhood: ''
   coordinates: 26.547748, 31.699264
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

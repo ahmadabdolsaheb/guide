@@ -4,7 +4,7 @@ location:
   country: United States
   state: Iowa
   city: Cedar Rapids
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.975887, -91.670405
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

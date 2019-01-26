@@ -2,9 +2,9 @@
 title: Birmingham
 location:
   country: England
-  state: 
+  state: ''
   city: Birmingham
-  neighborhood: 
+  neighborhood: ''
   coordinates: 52.494460, -1.891031
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

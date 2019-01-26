@@ -2,9 +2,9 @@
 title: Maastricht
 location:
   country: Netherlands
-  state: 
+  state: ''
   city: Maastricht
-  neighborhood: 
+  neighborhood: ''
   coordinates: 50.857985, 5.696988
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

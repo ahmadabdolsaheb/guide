@@ -2,9 +2,9 @@
 title: Vienna
 location:
   country: Austria
-  state: 
+  state: ''
   city: Vienna
-  neighborhood: 
+  neighborhood: ''
   coordinates: 48.208354, 16.372504
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

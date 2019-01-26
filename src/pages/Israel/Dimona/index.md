@@ -2,9 +2,9 @@
 title: Dimona
 location:
   country: Israel
-  state: 
+  state: ''
   city: Dimona
-  neighborhood: 
+  neighborhood: ''
   coordinates: 31.066667, 35.033333
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

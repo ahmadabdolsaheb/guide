@@ -4,7 +4,7 @@ location:
   country: United States
   state: Florida
   city: West Palm Beach
-  neighborhood: 
+  neighborhood: ''
   coordinates: 26.715343, -80.053375
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

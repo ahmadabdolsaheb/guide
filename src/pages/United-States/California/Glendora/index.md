@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Glendora
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.136119, -117.865339
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

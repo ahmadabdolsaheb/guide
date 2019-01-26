@@ -2,9 +2,9 @@
 title: Almería
 location:
   country: Spain
-  state: 
+  state: ''
   city: Almería
-  neighborhood: 
+  neighborhood: ''
   coordinates: 36.84142, -2.462813
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: Canada
   state: New Brunswick
   city: Saint John
-  neighborhood: 
+  neighborhood: ''
   coordinates: 45.278015, -66.055875
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Santa Catarina
   city: Joinville
-  neighborhood: 
+  neighborhood: ''
   coordinates: -26.30449, -48.848673
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

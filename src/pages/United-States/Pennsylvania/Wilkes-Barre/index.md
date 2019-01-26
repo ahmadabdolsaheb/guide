@@ -4,7 +4,7 @@ location:
   country: United States
   state: Pennsylvania
   city: Wilkes-Barre
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.246482, -75.881732
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

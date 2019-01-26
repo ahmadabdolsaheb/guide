@@ -4,7 +4,7 @@ location:
   country: United States
   state: Washington
   city: Lake Stevens
-  neighborhood: 
+  neighborhood: ''
   coordinates: 48.019779, -122.066091
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

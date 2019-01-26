@@ -2,9 +2,9 @@
 title: Groningen
 location:
   country: Netherlands
-  state: 
+  state: ''
   city: Groningen
-  neighborhood: 
+  neighborhood: ''
   coordinates: 53.221793, 6.558245
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

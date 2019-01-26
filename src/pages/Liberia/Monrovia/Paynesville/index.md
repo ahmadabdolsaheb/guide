@@ -4,7 +4,7 @@ location:
   country: Liberia
   state: Monrovia
   city: Paynesville
-  neighborhood: 
+  neighborhood: ''
   coordinates: 6.268674, -10.708537
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

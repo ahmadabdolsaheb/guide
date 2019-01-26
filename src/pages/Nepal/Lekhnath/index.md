@@ -2,9 +2,9 @@
 title: Lekhnath
 location:
   country: Nepal
-  state: 
+  state: ''
   city: Lekhnath
-  neighborhood: 
+  neighborhood: ''
   coordinates: 28.154358, 84.079764
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

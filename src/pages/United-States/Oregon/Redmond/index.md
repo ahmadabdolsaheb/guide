@@ -4,7 +4,7 @@ location:
   country: United States
   state: Oregon
   city: Redmond
-  neighborhood: 
+  neighborhood: ''
   coordinates: 47.669414, -122.123877
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Craiova
 location:
   country: Romania
-  state: 
+  state: ''
   city: Craiova
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.319016, 23.796561
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

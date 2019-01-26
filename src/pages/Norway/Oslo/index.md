@@ -2,9 +2,9 @@
 title: Oslo
 location:
   country: Norway
-  state: 
+  state: ''
   city: Oslo
-  neighborhood: 
+  neighborhood: ''
   coordinates: 59.913269, 10.739111
   plusCode: ''
 social:

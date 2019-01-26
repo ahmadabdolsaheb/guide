@@ -4,7 +4,7 @@ location:
   country: United States
   state: Arizona
   city: Phoenix
-  neighborhood: 
+  neighborhood: ''
   coordinates: 33.446768, -112.075672
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

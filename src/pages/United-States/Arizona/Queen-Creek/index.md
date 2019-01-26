@@ -4,7 +4,7 @@ location:
   country: United States
   state: Arizona
   city: Queen Creek
-  neighborhood: 
+  neighborhood: ''
   coordinates: 33.222657, -111.620697
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

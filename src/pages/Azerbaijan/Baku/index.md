@@ -2,9 +2,9 @@
 title: Baku
 location:
   country: Azerbaijan
-  state: 
+  state: ''
   city: Baku
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.392514, 49.846679
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: Texas
   city: Corpus Christi
-  neighborhood: 
+  neighborhood: ''
   coordinates: 27.800254, -97.395574
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

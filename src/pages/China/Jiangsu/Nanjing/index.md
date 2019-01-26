@@ -4,7 +4,7 @@ location:
   country: China
   state: Jiangsu
   city: Nanjing
-  neighborhood: 
+  neighborhood: ''
   coordinates: 23.413611, 120.384722
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

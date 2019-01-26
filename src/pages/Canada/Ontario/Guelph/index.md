@@ -4,7 +4,7 @@ location:
   country: Canada
   state: Ontario
   city: Guelph
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.5448048,-80.24816659999999
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

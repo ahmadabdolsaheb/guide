@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Gridley
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.363777, -121.693583
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

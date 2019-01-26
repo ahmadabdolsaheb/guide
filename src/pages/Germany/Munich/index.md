@@ -2,9 +2,9 @@
 title: Munich
 location:
   country: Germany
-  state: 
+  state: ''
   city: Munich
-  neighborhood: 
+  neighborhood: ''
   coordinates: 48.669174, -98.832631
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

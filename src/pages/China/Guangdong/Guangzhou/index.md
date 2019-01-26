@@ -4,7 +4,7 @@ location:
   country: China
   state: Guangdong
   city: Guangzhou
-  neighborhood: 
+  neighborhood: ''
   coordinates: 23.130004, 113.259001
   plusCode: ''
 social:

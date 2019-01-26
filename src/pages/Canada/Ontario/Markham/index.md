@@ -4,7 +4,7 @@ location:
   country: Canada
   state: Ontario
   city: Markham
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.853917, -79.324255
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

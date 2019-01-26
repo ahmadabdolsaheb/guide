@@ -4,7 +4,7 @@ location:
   country: India
   state: Punjab
   city: Bathinda
-  neighborhood: 
+  neighborhood: ''
   coordinates: 30.210994,74.9454745
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

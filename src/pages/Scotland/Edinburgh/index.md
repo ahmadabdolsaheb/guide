@@ -2,9 +2,9 @@
 title: Edinburgh
 location:
   country: Scotland
-  state: 
+  state: ''
   city: Edinburgh
-  neighborhood: 
+  neighborhood: ''
   coordinates: 55.946458, -3.205901
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

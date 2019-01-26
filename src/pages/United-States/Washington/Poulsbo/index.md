@@ -4,7 +4,7 @@ location:
   country: United States
   state: Washington
   city: Poulsbo
-  neighborhood: 
+  neighborhood: ''
   coordinates: 47.739137, -122.63928
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

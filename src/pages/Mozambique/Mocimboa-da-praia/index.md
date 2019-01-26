@@ -2,9 +2,9 @@
 title: Mocimboa da praia
 location:
   country: Mozambique
-  state: 
+  state: ''
   city: Mocimboa da praia
-  neighborhood: 
+  neighborhood: ''
   coordinates: -11.343896, 40.357672
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

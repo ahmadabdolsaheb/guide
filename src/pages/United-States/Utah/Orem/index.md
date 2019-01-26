@@ -4,7 +4,7 @@ location:
   country: United States
   state: Utah
   city: Orem
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.297519, -111.694468
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

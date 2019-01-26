@@ -4,7 +4,7 @@ location:
   country: United States
   state: Texas
   city: Tyler
-  neighborhood: 
+  neighborhood: ''
   coordinates: 32.35126, -95.301062
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

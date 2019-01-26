@@ -55,7 +55,17 @@ const Layout = ({ children }) => (
     `}
     render={data => {
       const { edges } = data.allNavigationNode;
-      const pages = edges.map(edge => edge.node);
+      const pages = edges.map(edge => edge.node).sort(
+        function(a, b) {
+        let obj1 = a.path;
+        let obj2 = b.path;
+        if (obj1 < obj2) {
+          return -1;
+        } else {
+          return 1;
+        }
+      });
+      console.log(pages);
       return (
         <NavigationContext>
           {({

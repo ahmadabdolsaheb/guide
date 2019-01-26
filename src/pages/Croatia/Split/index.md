@@ -2,9 +2,9 @@
 title: Split
 location:
   country: Croatia
-  state: 
+  state: ''
   city: Split
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.511556, 16.43968
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

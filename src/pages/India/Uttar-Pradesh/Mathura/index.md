@@ -4,7 +4,7 @@ location:
   country: India
   state: Uttar Pradesh
   city: Mathura
-  neighborhood: 
+  neighborhood: ''
   coordinates: 27.495554, 77.685555
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

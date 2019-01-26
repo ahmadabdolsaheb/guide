@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Mountain View
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.385575, -122.08205
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

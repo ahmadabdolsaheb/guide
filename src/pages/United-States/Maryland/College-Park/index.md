@@ -4,7 +4,7 @@ location:
   country: United States
   state: Maryland
   city: College Park
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.980666, -76.936919
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

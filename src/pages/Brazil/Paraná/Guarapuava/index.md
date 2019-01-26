@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Paraná
   city: Guarapuava
-  neighborhood: 
+  neighborhood: ''
   coordinates: -25.395099, -51.462202
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

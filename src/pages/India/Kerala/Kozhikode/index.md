@@ -4,7 +4,7 @@ location:
   country: India
   state: Kerala
   city: Kozhikode
-  neighborhood: 
+  neighborhood: ''
   coordinates: 11.244614, 75.775937
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

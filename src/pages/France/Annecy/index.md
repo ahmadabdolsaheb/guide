@@ -2,9 +2,9 @@
 title: Annecy
 location:
   country: France
-  state: 
+  state: ''
   city: Annecy
-  neighborhood: 
+  neighborhood: ''
   coordinates: 45.899559, 6.128761
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

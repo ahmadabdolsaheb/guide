@@ -2,9 +2,9 @@
 title: Tver
 location:
   country: Russia
-  state: 
+  state: ''
   city: Tver
-  neighborhood: 
+  neighborhood: ''
   coordinates: 56.858675, 35.920828
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

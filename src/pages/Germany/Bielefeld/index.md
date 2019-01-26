@@ -2,9 +2,9 @@
 title: Bielefeld
 location:
   country: Germany
-  state: 
+  state: ''
   city: Bielefeld
-  neighborhood: 
+  neighborhood: ''
   coordinates: 52.022901, 8.535069
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

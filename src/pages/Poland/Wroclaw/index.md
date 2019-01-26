@@ -2,9 +2,9 @@
 title: Wroclaw
 location:
   country: Poland
-  state: 
+  state: ''
   city: Wroclaw
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.108978, 17.032669
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

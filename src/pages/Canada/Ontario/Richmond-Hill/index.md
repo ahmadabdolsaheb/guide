@@ -4,7 +4,7 @@ location:
   country: Canada
   state: Ontario
   city: Richmond Hill
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.878165, -79.438503
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

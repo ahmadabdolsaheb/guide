@@ -2,9 +2,9 @@
 title: Casablanca
 location:
   country: Morocco
-  state: 
+  state: ''
   city: Casablanca
-  neighborhood: 
+  neighborhood: ''
   coordinates: 33.594973, -7.618801
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

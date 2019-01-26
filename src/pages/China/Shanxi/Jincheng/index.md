@@ -4,7 +4,7 @@ location:
   country: China
   state: Shanxi
   city: Jincheng
-  neighborhood: 
+  neighborhood: ''
   coordinates: 35.493783, 112.851986
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

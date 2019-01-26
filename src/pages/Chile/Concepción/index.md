@@ -2,9 +2,9 @@
 title: Concepción
 location:
   country: Chile
-  state: 
+  state: ''
   city: Concepción
-  neighborhood: 
+  neighborhood: ''
   coordinates: -36.827074, -73.050246
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

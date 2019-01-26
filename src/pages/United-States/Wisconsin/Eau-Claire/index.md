@@ -4,7 +4,7 @@ location:
   country: United States
   state: Wisconsin
   city: Eau Claire
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.811349, -91.498494
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

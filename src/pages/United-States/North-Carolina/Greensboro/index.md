@@ -4,7 +4,7 @@ location:
   country: United States
   state: North Carolina
   city: Greensboro
-  neighborhood: 
+  neighborhood: ''
   coordinates: 36.072636, -79.791975
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

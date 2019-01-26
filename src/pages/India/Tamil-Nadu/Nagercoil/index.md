@@ -4,7 +4,7 @@ location:
   country: India
   state: Tamil Nadu
   city: Nagercoil
-  neighborhood: 
+  neighborhood: ''
   coordinates: 8.188047, 77.429049
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

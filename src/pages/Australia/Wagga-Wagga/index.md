@@ -2,9 +2,9 @@
 title: Wagga Wagga
 location:
   country: Australia
-  state: 
+  state: ''
   city: Wagga Wagga
-  neighborhood: 
+  neighborhood: ''
   coordinates: -35.115, 147.367778
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

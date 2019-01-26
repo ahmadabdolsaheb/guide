@@ -2,9 +2,9 @@
 title: Nancy
 location:
   country: France
-  state: 
+  state: ''
   city: Nancy
-  neighborhood: 
+  neighborhood: ''
   coordinates: 48.693722, 6.18341
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

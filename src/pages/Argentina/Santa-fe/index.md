@@ -2,9 +2,9 @@
 title: Santa fe
 location:
   country: Argentina
-  state: 
+  state: ''
   city: Santa fe
-  neighborhood: 
+  neighborhood: ''
   coordinates: 35.687, -105.9378
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

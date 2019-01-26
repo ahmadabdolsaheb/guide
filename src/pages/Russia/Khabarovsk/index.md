@@ -2,9 +2,9 @@
 title: Khabarovsk
 location:
   country: Russia
-  state: 
+  state: ''
   city: Khabarovsk
-  neighborhood: 
+  neighborhood: ''
   coordinates: 48.481402, 135.07694
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

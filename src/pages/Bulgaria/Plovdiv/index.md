@@ -2,9 +2,9 @@
 title: Plovdiv
 location:
   country: Bulgaria
-  state: 
+  state: ''
   city: Plovdiv
-  neighborhood: 
+  neighborhood: ''
   coordinates: 42.141912, 24.749839
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

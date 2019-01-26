@@ -4,7 +4,7 @@ location:
   country: United States
   state: Michigan
   city: Traverse City
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.760644, -85.61653
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

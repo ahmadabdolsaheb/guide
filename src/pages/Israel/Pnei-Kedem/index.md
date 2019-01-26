@@ -2,9 +2,9 @@
 title: Pnei Kedem
 location:
   country: Israel
-  state: 
+  state: ''
   city: Pnei Kedem
-  neighborhood: 
+  neighborhood: ''
   coordinates: 31.588744, 35.194748
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Bucaramanga
 location:
   country: Colombia
-  state: 
+  state: ''
   city: Bucaramanga
-  neighborhood: 
+  neighborhood: ''
   coordinates: 7.111461, -73.117287
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

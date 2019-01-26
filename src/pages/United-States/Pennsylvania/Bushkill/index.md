@@ -4,7 +4,7 @@ location:
   country: United States
   state: Pennsylvania
   city: Bushkill
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.093429, -75.00184
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

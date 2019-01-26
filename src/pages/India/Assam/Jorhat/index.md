@@ -4,7 +4,7 @@ location:
   country: India
   state: Assam
   city: Jorhat
-  neighborhood: 
+  neighborhood: ''
   coordinates: 26.757793, 94.207965
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

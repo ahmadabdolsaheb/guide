@@ -2,9 +2,9 @@
 title: Porlamar
 location:
   country: Venezuela
-  state: 
+  state: ''
   city: Porlamar
-  neighborhood: 
+  neighborhood: ''
   coordinates: 10.959223, -63.849938
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

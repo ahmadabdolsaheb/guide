@@ -2,9 +2,9 @@
 title: Bydgoszcz
 location:
   country: Poland
-  state: 
+  state: ''
   city: Bydgoszcz
-  neighborhood: 
+  neighborhood: ''
   coordinates: 53.12561, 18.009013
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Tenerife
 location:
   country: Spain
-  state: 
+  state: ''
   city: Tenerife
-  neighborhood: 
+  neighborhood: ''
   coordinates: 9.900349, -74.858997
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

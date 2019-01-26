@@ -2,9 +2,9 @@
 title: Tiraspol
 location:
   country: Moldova
-  state: 
+  state: ''
   city: Tiraspol
-  neighborhood: 
+  neighborhood: ''
   coordinates: 46.851604, 29.634944
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

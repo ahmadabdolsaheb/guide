@@ -2,9 +2,9 @@
 title: Málaga
 location:
   country: Spain
-  state: 
+  state: ''
   city: Málaga
-  neighborhood: 
+  neighborhood: ''
   coordinates: 36.721086, -4.422002
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

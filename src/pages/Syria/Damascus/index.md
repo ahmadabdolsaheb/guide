@@ -2,9 +2,9 @@
 title: Damascus
 location:
   country: Syria
-  state: 
+  state: ''
   city: Damascus
-  neighborhood: 
+  neighborhood: ''
   coordinates: 33.51307, 36.309581
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

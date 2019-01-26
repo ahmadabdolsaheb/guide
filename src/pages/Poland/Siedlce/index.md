@@ -2,9 +2,9 @@
 title: Siedlce
 location:
   country: Poland
-  state: 
+  state: ''
   city: Siedlce
-  neighborhood: 
+  neighborhood: ''
   coordinates: 52.166375, 22.276514
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

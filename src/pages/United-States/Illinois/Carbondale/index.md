@@ -4,7 +4,7 @@ location:
   country: United States
   state: Illinois
   city: Carbondale
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.727469, -89.216655
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

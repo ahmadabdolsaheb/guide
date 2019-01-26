@@ -2,9 +2,9 @@
 title: Opava
 location:
   country: Czech Republic
-  state: 
+  state: ''
   city: Opava
-  neighborhood: 
+  neighborhood: ''
   coordinates: 49.932438, 17.901184
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

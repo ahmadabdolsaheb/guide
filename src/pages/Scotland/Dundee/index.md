@@ -2,9 +2,9 @@
 title: Dundee
 location:
   country: Scotland
-  state: 
+  state: ''
   city: Dundee
-  neighborhood: 
+  neighborhood: ''
   coordinates: 56.459365, -2.973521
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

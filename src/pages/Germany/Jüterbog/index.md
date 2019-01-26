@@ -2,9 +2,9 @@
 title: Jüterbog
 location:
   country: Germany
-  state: 
+  state: ''
   city: Jüterbog
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.991649, 13.080113
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

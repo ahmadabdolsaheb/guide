@@ -2,9 +2,9 @@
 title: Mostar
 location:
   country: Bosnia and Herzegovina
-  state: 
+  state: ''
   city: Mostar
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.337649, 17.810684
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

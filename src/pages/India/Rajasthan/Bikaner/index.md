@@ -4,7 +4,7 @@ location:
   country: India
   state: Rajasthan
   city: Bikaner
-  neighborhood: 
+  neighborhood: ''
   coordinates: 28.015929, 73.317137
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

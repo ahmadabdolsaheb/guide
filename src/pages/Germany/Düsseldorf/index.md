@@ -2,9 +2,9 @@
 title: Düsseldorf
 location:
   country: Germany
-  state: 
+  state: ''
   city: Düsseldorf
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.225402, 6.776314
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

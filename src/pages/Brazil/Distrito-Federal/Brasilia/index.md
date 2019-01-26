@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Distrito Federal
   city: Brasilia
-  neighborhood: 
+  neighborhood: ''
   coordinates: -15.7934, -47.882293
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

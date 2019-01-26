@@ -2,9 +2,9 @@
 title: Montevideo
 location:
   country: Uruguay
-  state: 
+  state: ''
   city: Montevideo
-  neighborhood: 
+  neighborhood: ''
   coordinates: -34.905904, -56.191357
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

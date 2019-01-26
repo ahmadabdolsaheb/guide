@@ -4,7 +4,7 @@ location:
   country: Bosnia and Herzegovina
   state: Republika Srpska
   city: Derventa
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.97839, 17.90779
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

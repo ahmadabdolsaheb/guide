@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Yreka
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.732616, -122.637765
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

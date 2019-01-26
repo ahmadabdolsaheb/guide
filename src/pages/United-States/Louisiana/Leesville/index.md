@@ -4,7 +4,7 @@ location:
   country: United States
   state: Louisiana
   city: Leesville
-  neighborhood: 
+  neighborhood: ''
   coordinates: 31.143519, -93.260998
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

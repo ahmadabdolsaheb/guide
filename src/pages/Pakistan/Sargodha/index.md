@@ -2,9 +2,9 @@
 title: Sargodha
 location:
   country: Pakistan
-  state: 
+  state: ''
   city: Sargodha
-  neighborhood: 
+  neighborhood: ''
   coordinates: 32.089801, 72.678257
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

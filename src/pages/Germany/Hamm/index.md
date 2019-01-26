@@ -2,9 +2,9 @@
 title: Hamm
 location:
   country: Germany
-  state: 
+  state: ''
   city: Hamm
-  neighborhood: 
+  neighborhood: ''
   coordinates: 50.016578, 6.417888
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

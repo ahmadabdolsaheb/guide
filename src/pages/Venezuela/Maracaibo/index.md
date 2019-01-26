@@ -2,9 +2,9 @@
 title: Maracaibo
 location:
   country: Venezuela
-  state: 
+  state: ''
   city: Maracaibo
-  neighborhood: 
+  neighborhood: ''
   coordinates: 10.665156, -71.623075
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Hamar
 location:
   country: Norway
-  state: 
+  state: ''
   city: Hamar
-  neighborhood: 
+  neighborhood: ''
   coordinates: 61.00265, 11.163251
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

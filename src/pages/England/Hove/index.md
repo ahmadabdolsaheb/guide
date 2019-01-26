@@ -2,9 +2,9 @@
 title: Hove
 location:
   country: England
-  state: 
+  state: ''
   city: Hove
-  neighborhood: 
+  neighborhood: ''
   coordinates: 50.8279, -0.1687
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

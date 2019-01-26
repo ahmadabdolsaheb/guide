@@ -4,7 +4,7 @@ location:
   country: India
   state: Khanpur
   city: Pondicherry
-  neighborhood: 
+  neighborhood: ''
   coordinates: 11.934057, 79.830645
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

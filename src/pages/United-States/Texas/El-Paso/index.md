@@ -4,7 +4,7 @@ location:
   country: United States
   state: Texas
   city: El Paso
-  neighborhood: 
+  neighborhood: ''
   coordinates: 31.811131, -106.501349
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

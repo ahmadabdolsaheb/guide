@@ -2,9 +2,9 @@
 title: Yerevan
 location:
   country: Armenia
-  state: 
+  state: ''
   city: Yerevan
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.177612, 44.512585
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

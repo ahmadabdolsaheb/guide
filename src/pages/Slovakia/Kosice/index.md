@@ -2,9 +2,9 @@
 title: Kosice
 location:
   country: Slovakia
-  state: 
+  state: ''
   city: Kosice
-  neighborhood: 
+  neighborhood: ''
   coordinates: 48.717227, 21.249677
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

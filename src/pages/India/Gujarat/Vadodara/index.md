@@ -4,7 +4,7 @@ location:
   country: India
   state: Gujarat
   city: Vadodara
-  neighborhood: 
+  neighborhood: ''
   coordinates: 22.297076, 73.195737
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

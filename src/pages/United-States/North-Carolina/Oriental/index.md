@@ -4,7 +4,7 @@ location:
   country: United States
   state: North Carolina
   city: Oriental
-  neighborhood: 
+  neighborhood: ''
   coordinates: 19.375673, -97.6196
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

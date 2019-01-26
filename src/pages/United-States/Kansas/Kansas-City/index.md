@@ -4,7 +4,7 @@ location:
   country: United States
   state: Kansas
   city: Kansas City
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.084469, -94.56303
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

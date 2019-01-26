@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Santa Catarina
   city: Chapeco
-  neighborhood: 
+  neighborhood: ''
   coordinates: -27.10131, -52.618467
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

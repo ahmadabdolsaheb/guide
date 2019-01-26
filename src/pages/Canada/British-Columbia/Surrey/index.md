@@ -4,7 +4,7 @@ location:
   country: Canada
   state: British Columbia
   city: Surrey
-  neighborhood: 
+  neighborhood: ''
   coordinates: 49.185083, -122.844655
   plusCode: ''
 social:

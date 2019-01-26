@@ -2,9 +2,9 @@
 title: Sevilla
 location:
   country: Spain
-  state: 
+  state: ''
   city: Sevilla
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.38863, -5.995317
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

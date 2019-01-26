@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Merced
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.3021632,-120.4829677
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

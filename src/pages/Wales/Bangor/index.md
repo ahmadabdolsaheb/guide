@@ -2,9 +2,9 @@
 title: Bangor
 location:
   country: Wales
-  state: 
+  state: ''
   city: Bangor
-  neighborhood: 
+  neighborhood: ''
   coordinates: 53.228702, -4.129300
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

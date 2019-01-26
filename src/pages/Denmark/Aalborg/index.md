@@ -2,9 +2,9 @@
 title: Aalborg
 location:
   country: Denmark
-  state: 
+  state: ''
   city: Aalborg
-  neighborhood: 
+  neighborhood: ''
   coordinates: 57.048221, 9.919394
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

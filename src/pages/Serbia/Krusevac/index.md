@@ -2,9 +2,9 @@
 title: Krusevac
 location:
   country: Serbia
-  state: 
+  state: ''
   city: Krusevac
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.582754, 21.326304
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: Georgia
   city: Columbus
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.96226, -83.000706
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

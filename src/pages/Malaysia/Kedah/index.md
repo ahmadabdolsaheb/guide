@@ -3,8 +3,8 @@ title: Kedah
 location:
   country: Malaysia
   state: Kedah
-  city: 
-  neighborhood: 
+  city: ''
+  neighborhood: ''
   coordinates: 6.1183964,100.3684595
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

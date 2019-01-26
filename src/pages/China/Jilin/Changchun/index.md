@@ -4,7 +4,7 @@ location:
   country: China
   state: Jilin
   city: Changchun
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.814405, 125.316942
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: Ohio
   city: Cleveland
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.505161, -81.693445
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

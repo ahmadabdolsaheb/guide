@@ -2,9 +2,9 @@
 title: Limassol
 location:
   country: Cyprus
-  state: 
+  state: ''
   city: Limassol
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.673564, 33.042341
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

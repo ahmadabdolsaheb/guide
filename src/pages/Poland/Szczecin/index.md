@@ -2,9 +2,9 @@
 title: Szczecin
 location:
   country: Poland
-  state: 
+  state: ''
   city: Szczecin
-  neighborhood: 
+  neighborhood: ''
   coordinates: 53.430212, 14.550978
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Carlisle
 location:
   country: England
-  state: 
+  state: ''
   city: Carlisle
-  neighborhood: 
+  neighborhood: ''
   coordinates: 54.895535, -2.934735
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

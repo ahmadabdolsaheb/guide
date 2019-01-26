@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Minas Gerais
   city: Uberlândia
-  neighborhood: 
+  neighborhood: ''
   coordinates: -18.918804, -48.276784
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

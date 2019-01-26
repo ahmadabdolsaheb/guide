@@ -2,9 +2,9 @@
 title: Biskra
 location:
   country: Algeria
-  state: 
+  state: ''
   city: Biskra
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.850851, 5.728688
   plusCode: ''
 social:

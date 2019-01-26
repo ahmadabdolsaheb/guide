@@ -2,9 +2,9 @@
 title: Constantine
 location:
   country: Algeria
-  state: 
+  state: ''
   city: Constantine
-  neighborhood: 
+  neighborhood: ''
   coordinates: 36.364519, 6.60826
   plusCode: ''
 social:

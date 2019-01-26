@@ -2,9 +2,9 @@
 title: Milan
 location:
   country: Italy
-  state: 
+  state: ''
   city: Milan
-  neighborhood: 
+  neighborhood: ''
   coordinates: 45.466797, 9.190498
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

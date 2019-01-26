@@ -2,9 +2,9 @@
 title: Novorossiysk
 location:
   country: Russia
-  state: 
+  state: ''
   city: Novorossiysk
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.723958, 37.769071
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

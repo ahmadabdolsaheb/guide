@@ -4,7 +4,7 @@ location:
   country: United States
   state: Tennessee
   city: Johnson City
-  neighborhood: 
+  neighborhood: ''
   coordinates: 36.31344, -82.353473
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

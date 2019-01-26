@@ -4,7 +4,7 @@ location:
   country: United States
   state: Kentucky
   city: Berea
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.366161, -81.854303
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

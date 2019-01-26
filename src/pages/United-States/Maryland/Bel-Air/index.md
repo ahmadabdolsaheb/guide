@@ -4,7 +4,7 @@ location:
   country: United States
   state: Maryland
   city: Bel Air
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.535492, -76.347343
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: São Paulo
   city: Taubaté
-  neighborhood: 
+  neighborhood: ''
   coordinates: -23.031448, -45.561279
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

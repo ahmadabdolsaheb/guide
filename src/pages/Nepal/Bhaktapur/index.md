@@ -2,9 +2,9 @@
 title: Bhaktapur
 location:
   country: Nepal
-  state: 
+  state: ''
   city: Bhaktapur
-  neighborhood: 
+  neighborhood: ''
   coordinates: 27.704332, 85.452119
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

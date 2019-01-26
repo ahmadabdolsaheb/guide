@@ -2,9 +2,9 @@
 title: Montpellier
 location:
   country: France
-  state: 
+  state: ''
   city: Montpellier
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.611242, 3.876734
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

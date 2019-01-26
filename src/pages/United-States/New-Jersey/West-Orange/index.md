@@ -4,7 +4,7 @@ location:
   country: United States
   state: New Jersey
   city: West Orange
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.798711, -74.239035
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

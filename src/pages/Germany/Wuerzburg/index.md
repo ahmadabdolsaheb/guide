@@ -2,9 +2,9 @@
 title: Wuerzburg
 location:
   country: Germany
-  state: 
+  state: ''
   city: Wuerzburg
-  neighborhood: 
+  neighborhood: ''
   coordinates: 49.79245, 9.932966
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

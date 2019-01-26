@@ -4,7 +4,7 @@ location:
   country: United States
   state: Colorado
   city: Boulder
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.014986, -105.270546
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

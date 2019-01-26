@@ -2,9 +2,9 @@
 title: Khartoum
 location:
   country: Sudan
-  state: 
+  state: ''
   city: Khartoum
-  neighborhood: 
+  neighborhood: ''
   coordinates: 15.593325, 32.53565
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

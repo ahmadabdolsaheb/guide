@@ -2,9 +2,9 @@
 title: Arak
 location:
   country: Iran
-  state: 
+  state: ''
   city: Arak
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.086384, 49.68887
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Kryvyi Rih
 location:
   country: Ukraine
-  state: 
+  state: ''
   city: Kryvyi Rih
-  neighborhood: 
+  neighborhood: ''
   coordinates: 47.910273, 33.39177
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

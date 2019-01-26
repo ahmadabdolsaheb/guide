@@ -2,9 +2,9 @@
 title: Istanbul
 location:
   country: Turkey
-  state: 
+  state: ''
   city: Istanbul
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.009633, 28.965165
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

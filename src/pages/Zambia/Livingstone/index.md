@@ -2,9 +2,9 @@
 title: Livingstone
 location:
   country: Zambia
-  state: 
+  state: ''
   city: Livingstone
-  neighborhood: 
+  neighborhood: ''
   coordinates: -17.853135, 25.861429
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

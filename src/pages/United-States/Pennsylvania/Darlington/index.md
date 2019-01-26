@@ -4,7 +4,7 @@ location:
   country: United States
   state: Pennsylvania
   city: Darlington
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.8097107,-80.4244418
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

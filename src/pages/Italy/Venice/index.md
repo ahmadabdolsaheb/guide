@@ -2,9 +2,9 @@
 title: Venice
 location:
   country: Italy
-  state: 
+  state: ''
   city: Venice
-  neighborhood: 
+  neighborhood: ''
   coordinates: 45.437191, 12.33459
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

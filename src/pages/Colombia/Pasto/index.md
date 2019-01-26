@@ -2,9 +2,9 @@
 title: Pasto
 location:
   country: Colombia
-  state: 
+  state: ''
   city: Pasto
-  neighborhood: 
+  neighborhood: ''
   coordinates: 1.214629, -77.278252
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Minas Gerais
   city: Lavras
-  neighborhood: 
+  neighborhood: ''
   coordinates: -21.245, -45
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

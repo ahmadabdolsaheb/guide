@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Chico
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.729575,-121.8473287
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

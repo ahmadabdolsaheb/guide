@@ -4,7 +4,7 @@ location:
   country: Argentina
   state: Misiones
   city: Posadas
-  neighborhood: 
+  neighborhood: ''
   coordinates: -27.3621374,-55.90087459999999
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

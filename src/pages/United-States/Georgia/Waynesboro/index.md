@@ -4,7 +4,7 @@ location:
   country: United States
   state: Georgia
   city: Waynesboro
-  neighborhood: 
+  neighborhood: ''
   coordinates: 33.0898731,-82.0156736
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

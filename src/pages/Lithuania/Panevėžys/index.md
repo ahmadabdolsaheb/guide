@@ -2,9 +2,9 @@
 title: Panevėžys
 location:
   country: Lithuania
-  state: 
+  state: ''
   city: Panevėžys
-  neighborhood: 
+  neighborhood: ''
   coordinates: 55.734499, 24.357806
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

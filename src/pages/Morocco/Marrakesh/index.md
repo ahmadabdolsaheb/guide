@@ -2,9 +2,9 @@
 title: Marrakesh
 location:
   country: Morocco
-  state: 
+  state: ''
   city: Marrakesh
-  neighborhood: 
+  neighborhood: ''
   coordinates: 31.62599, -7.988608
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

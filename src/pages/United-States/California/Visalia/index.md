@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Visalia
-  neighborhood: 
+  neighborhood: ''
   coordinates: 36.330228, -119.292058
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: Texas
   city: El Campo
-  neighborhood: 
+  neighborhood: ''
   coordinates: 29.19664049999999,-96.2696867
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Pontianak
 location:
   country: Indonesia
-  state: 
+  state: ''
   city: Pontianak
-  neighborhood: 
+  neighborhood: ''
   coordinates: -0.022654, 109.34476
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

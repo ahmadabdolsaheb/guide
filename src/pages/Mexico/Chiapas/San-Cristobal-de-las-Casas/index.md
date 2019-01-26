@@ -4,7 +4,7 @@ location:
   country: Mexico
   state: Chiapas
   city: San Cristobal de las Casas
-  neighborhood: 
+  neighborhood: ''
   coordinates: 16.7370359,-92.6376186
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

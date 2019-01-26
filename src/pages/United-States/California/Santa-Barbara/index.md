@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Santa Barbara
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.409811, -119.697024
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

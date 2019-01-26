@@ -2,9 +2,9 @@
 title: Iasi
 location:
   country: Romania
-  state: 
+  state: ''
   city: Iasi
-  neighborhood: 
+  neighborhood: ''
   coordinates: 47.161494, 27.58405
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

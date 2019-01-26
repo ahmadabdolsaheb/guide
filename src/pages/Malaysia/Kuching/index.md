@@ -2,9 +2,9 @@
 title: Kuching
 location:
   country: Malaysia
-  state: 
+  state: ''
   city: Kuching
-  neighborhood: 
+  neighborhood: ''
   coordinates: 1.560091, 110.345414
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

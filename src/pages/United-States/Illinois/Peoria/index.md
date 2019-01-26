@@ -4,7 +4,7 @@ location:
   country: United States
   state: Illinois
   city: Peoria
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.693861, -89.589101
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

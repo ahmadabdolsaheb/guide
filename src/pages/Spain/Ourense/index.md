@@ -2,9 +2,9 @@
 title: Ourense
 location:
   country: Spain
-  state: 
+  state: ''
   city: Ourense
-  neighborhood: 
+  neighborhood: ''
   coordinates: 42.343642, -7.867424
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

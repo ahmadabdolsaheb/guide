@@ -2,9 +2,9 @@
 title: Kosovo
 location:
   country: Serbia
-  state: 
+  state: ''
   city: Kosovo
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.728966, 21.134034
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

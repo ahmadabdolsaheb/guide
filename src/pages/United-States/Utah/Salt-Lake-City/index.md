@@ -4,7 +4,7 @@ location:
   country: United States
   state: Utah
   city: Salt Lake City
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.767013, -111.890431
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

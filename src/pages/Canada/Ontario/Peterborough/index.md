@@ -4,7 +4,7 @@ location:
   country: Canada
   state: Ontario
   city: Peterborough
-  neighborhood: 
+  neighborhood: ''
   coordinates: 52.573888, -0.24167
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

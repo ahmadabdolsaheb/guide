@@ -2,9 +2,9 @@
 title: Athlone
 location:
   country: Ireland
-  state: 
+  state: ''
   city: Athlone
-  neighborhood: 
+  neighborhood: ''
   coordinates: 53.424646, -7.940548
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

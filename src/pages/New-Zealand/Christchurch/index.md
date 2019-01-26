@@ -2,9 +2,9 @@
 title: Christchurch
 location:
   country: New Zealand
-  state: 
+  state: ''
   city: Christchurch
-  neighborhood: 
+  neighborhood: ''
   coordinates: -43.530955, 172.636646
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: Canada
   state: British Columbia
   city: Vancouver
-  neighborhood: 
+  neighborhood: ''
   coordinates: 49.260894, -123.113938
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

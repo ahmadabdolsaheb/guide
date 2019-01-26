@@ -3,8 +3,8 @@ title: Abia
 location:
   country: Nigeria
   state: Abia
-  city: 
-  neighborhood: 
+  city: ''
+  neighborhood: ''
   coordinates: 5.430892099999999,7.524724300000001
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

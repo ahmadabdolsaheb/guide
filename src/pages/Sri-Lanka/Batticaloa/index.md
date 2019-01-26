@@ -2,9 +2,9 @@
 title: Batticaloa
 location:
   country: Sri Lanka
-  state: 
+  state: ''
   city: Batticaloa
-  neighborhood: 
+  neighborhood: ''
   coordinates: 7.735603, 81.694196
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

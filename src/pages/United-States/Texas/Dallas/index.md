@@ -4,7 +4,7 @@ location:
   country: United States
   state: Texas
   city: Dallas
-  neighborhood: 
+  neighborhood: ''
   coordinates: 32.776272, -96.796856
   plusCode: ''
 social:

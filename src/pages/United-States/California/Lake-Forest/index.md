@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Lake Forest
-  neighborhood: 
+  neighborhood: ''
   coordinates: 33.645093, -117.686496
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

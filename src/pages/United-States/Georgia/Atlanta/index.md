@@ -4,7 +4,7 @@ location:
   country: United States
   state: Georgia
   city: Atlanta
-  neighborhood: 
+  neighborhood: ''
   coordinates: 33.749099, -84.390185
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

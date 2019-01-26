@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Ceará
   city: Sobral
-  neighborhood: 
+  neighborhood: ''
   coordinates: -3.687913, -40.345637
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

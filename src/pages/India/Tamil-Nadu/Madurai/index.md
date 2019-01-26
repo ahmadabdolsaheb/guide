@@ -4,7 +4,7 @@ location:
   country: India
   state: Tamil Nadu
   city: Madurai
-  neighborhood: 
+  neighborhood: ''
   coordinates: 9.926115, 78.114098
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

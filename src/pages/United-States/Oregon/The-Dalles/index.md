@@ -4,7 +4,7 @@ location:
   country: United States
   state: Oregon
   city: The Dalles
-  neighborhood: 
+  neighborhood: ''
   coordinates: 45.5945645,-121.1786823
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

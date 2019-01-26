@@ -2,9 +2,9 @@
 title: Nusajaya
 location:
   country: Indonesia
-  state: 
+  state: ''
   city: Nusajaya
-  neighborhood: 
+  neighborhood: ''
   coordinates: -6.211122, 106.619144
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

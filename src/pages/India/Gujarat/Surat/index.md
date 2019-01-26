@@ -4,7 +4,7 @@ location:
   country: India
   state: Gujarat
   city: Surat
-  neighborhood: 
+  neighborhood: ''
   coordinates: 21.186461, 72.808128
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

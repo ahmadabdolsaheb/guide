@@ -2,9 +2,9 @@
 title: Odense
 location:
   country: Denmark
-  state: 
+  state: ''
   city: Odense
-  neighborhood: 
+  neighborhood: ''
   coordinates: 55.399723, 10.38521
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

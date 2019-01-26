@@ -2,9 +2,9 @@
 title: Perm
 location:
   country: Russia
-  state: 
+  state: ''
   city: Perm
-  neighborhood: 
+  neighborhood: ''
   coordinates: 58.014964, 56.246724
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

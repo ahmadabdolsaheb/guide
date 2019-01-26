@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Pernambuco
   city: Olinda
-  neighborhood: 
+  neighborhood: ''
   coordinates: -7.99864, -34.845955
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

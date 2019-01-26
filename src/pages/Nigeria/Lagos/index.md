@@ -2,9 +2,9 @@
 title: Lagos
 location:
   country: Nigeria
-  state: 
+  state: ''
   city: Lagos
-  neighborhood: 
+  neighborhood: ''
   coordinates: 6.455058, 3.39418
   plusCode: ''
 social:

@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Santa Rosa
-  neighborhood: 
+  neighborhood: ''
   coordinates: -27.864355, -54.477929
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

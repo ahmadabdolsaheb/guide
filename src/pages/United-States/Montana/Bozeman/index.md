@@ -4,7 +4,7 @@ location:
   country: United States
   state: Montana
   city: Bozeman
-  neighborhood: 
+  neighborhood: ''
   coordinates: 45.679984, -111.044675
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

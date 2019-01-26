@@ -4,7 +4,7 @@ location:
   country: United States
   state: Colorado
   city: Fort Collins
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.550853, -105.066808
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

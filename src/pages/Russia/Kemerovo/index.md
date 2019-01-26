@@ -2,9 +2,9 @@
 title: Kemerovo
 location:
   country: Russia
-  state: 
+  state: ''
   city: Kemerovo
-  neighborhood: 
+  neighborhood: ''
   coordinates: 55.355125, 86.087232
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

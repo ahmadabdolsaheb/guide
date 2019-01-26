@@ -2,9 +2,9 @@
 title: Tivat
 location:
   country: Montenegro
-  state: 
+  state: ''
   city: Tivat
-  neighborhood: 
+  neighborhood: ''
   coordinates: 42.42888, 18.700095
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

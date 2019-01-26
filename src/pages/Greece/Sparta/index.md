@@ -2,9 +2,9 @@
 title: Sparta
 location:
   country: Greece
-  state: 
+  state: ''
   city: Sparta
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.944133, -90.812912
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

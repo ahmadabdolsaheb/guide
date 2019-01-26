@@ -4,7 +4,7 @@ location:
   country: United States
   state: Texas
   city: McKinney
-  neighborhood: 
+  neighborhood: ''
   coordinates: 33.1972465,-96.6397822
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

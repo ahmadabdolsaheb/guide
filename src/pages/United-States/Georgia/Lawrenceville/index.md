@@ -4,7 +4,7 @@ location:
   country: United States
   state: Georgia
   city: Lawrenceville
-  neighborhood: 
+  neighborhood: ''
   coordinates: 33.956215, -83.987962
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: Canada
   state: Ontario
   city: Kitchener
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.451655, -80.492461
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

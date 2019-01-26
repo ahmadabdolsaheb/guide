@@ -2,9 +2,9 @@
 title: Seremban
 location:
   country: Malaysia
-  state: 
+  state: ''
   city: Seremban
-  neighborhood: 
+  neighborhood: ''
   coordinates: 2.724756, 101.934491
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

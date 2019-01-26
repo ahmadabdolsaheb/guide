@@ -4,7 +4,7 @@ location:
   country: South Korea
   state: Gyeongsangbuk
   city: Daegu
-  neighborhood: 
+  neighborhood: ''
   coordinates: 11.106116, 9.708971
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

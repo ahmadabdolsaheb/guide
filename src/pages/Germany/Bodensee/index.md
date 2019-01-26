@@ -2,9 +2,9 @@
 title: Bodensee
 location:
   country: Germany
-  state: 
+  state: ''
   city: Bodensee
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.603949, 10.13364
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

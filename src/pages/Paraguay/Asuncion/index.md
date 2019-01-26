@@ -2,9 +2,9 @@
 title: Asuncion
 location:
   country: Paraguay
-  state: 
+  state: ''
   city: Asuncion
-  neighborhood: 
+  neighborhood: ''
   coordinates: -25.295992, -57.63112
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

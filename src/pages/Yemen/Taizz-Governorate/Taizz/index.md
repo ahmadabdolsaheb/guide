@@ -4,7 +4,7 @@ location:
   country: Yemen
   state: Taizz Governorate
   city: Taizz
-  neighborhood: 
+  neighborhood: ''
   coordinates: 13.5775886,44.0177989
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

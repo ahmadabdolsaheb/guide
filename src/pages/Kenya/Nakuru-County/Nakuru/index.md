@@ -4,7 +4,7 @@ location:
   country: Kenya
   state: Nakuru County
   city: Nakuru
-  neighborhood: 
+  neighborhood: ''
   coordinates: -0.3030988,36.080026
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

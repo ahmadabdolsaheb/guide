@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Goiás
   city: Anápolis
-  neighborhood: 
+  neighborhood: ''
   coordinates: -16.333283, -48.952576
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: North Dakota
   city: Minot
-  neighborhood: 
+  neighborhood: ''
   coordinates: 48.23251, -101.296273
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

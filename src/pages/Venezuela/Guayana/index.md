@@ -2,9 +2,9 @@
 title: Guayana
 location:
   country: Venezuela
-  state: 
+  state: ''
   city: Guayana
-  neighborhood: 
+  neighborhood: ''
   coordinates: 5.471696, -74.897694
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

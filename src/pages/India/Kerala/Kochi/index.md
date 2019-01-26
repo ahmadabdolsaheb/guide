@@ -4,7 +4,7 @@ location:
   country: India
   state: Kerala
   city: Kochi
-  neighborhood: 
+  neighborhood: ''
   coordinates: 33.568038, 133.539422
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

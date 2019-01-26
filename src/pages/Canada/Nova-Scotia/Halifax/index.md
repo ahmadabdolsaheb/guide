@@ -4,7 +4,7 @@ location:
   country: Canada
   state: Nova Scotia
   city: Halifax
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.648425, -63.574972
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

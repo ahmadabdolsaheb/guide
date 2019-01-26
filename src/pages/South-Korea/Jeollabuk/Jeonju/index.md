@@ -4,7 +4,7 @@ location:
   country: South Korea
   state: Jeollabuk
   city: Jeonju
-  neighborhood: 
+  neighborhood: ''
   coordinates: 35.824272, 127.148066
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

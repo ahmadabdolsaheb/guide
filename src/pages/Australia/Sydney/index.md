@@ -2,9 +2,9 @@
 title: Sydney
 location:
   country: Australia
-  state: 
+  state: ''
   city: Sydney
-  neighborhood: 
+  neighborhood: ''
   coordinates: -33.867957, 151.210047
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

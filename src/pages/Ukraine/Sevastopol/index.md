@@ -2,9 +2,9 @@
 title: Sevastopol
 location:
   country: Ukraine
-  state: 
+  state: ''
   city: Sevastopol
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.606115, 33.522478
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

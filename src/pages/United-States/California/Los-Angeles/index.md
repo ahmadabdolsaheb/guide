@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Los Angeles
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.054394, -118.243941
   plusCode: ''
 social:

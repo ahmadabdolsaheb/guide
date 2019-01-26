@@ -4,7 +4,7 @@ location:
   country: India
   state: Rajasthan
   city: Udaipur
-  neighborhood: 
+  neighborhood: ''
   coordinates: 24.578723, 73.686255
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

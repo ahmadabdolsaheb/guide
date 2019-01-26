@@ -4,7 +4,7 @@ location:
   country: United States
   state: North Dakota
   city: Bismarck
-  neighborhood: 
+  neighborhood: ''
   coordinates: 46.808327, -100.783739
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: Tennessee
   city: Jackson
-  neighborhood: 
+  neighborhood: ''
   coordinates: 32.410438, -90.162065
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

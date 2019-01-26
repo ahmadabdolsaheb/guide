@@ -2,9 +2,9 @@
 title: Bielsko
 location:
   country: Poland
-  state: 
+  state: ''
   city: Bielsko
-  neighborhood: 
+  neighborhood: ''
   coordinates: 52.815, 16.228333
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

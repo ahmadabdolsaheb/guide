@@ -2,9 +2,9 @@
 title: Chepstow
 location:
   country: Wales
-  state: 
+  state: ''
   city: Chepstow
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.642847, -2.675126
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

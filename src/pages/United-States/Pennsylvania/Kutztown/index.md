@@ -4,7 +4,7 @@ location:
   country: United States
   state: Pennsylvania
   city: Kutztown
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.517317, -75.777418
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

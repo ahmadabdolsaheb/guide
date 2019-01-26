@@ -2,9 +2,9 @@
 title: Bekasi
 location:
   country: Indonesia
-  state: 
+  state: ''
   city: Bekasi
-  neighborhood: 
+  neighborhood: ''
   coordinates: -6.234874, 106.994316
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: Georgia
   city: Dahlonega
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.532125, -83.984589
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

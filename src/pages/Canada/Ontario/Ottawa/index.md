@@ -4,7 +4,7 @@ location:
   country: Canada
   state: Ontario
   city: Ottawa
-  neighborhood: 
+  neighborhood: ''
   coordinates: 45.421033, -75.690022
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

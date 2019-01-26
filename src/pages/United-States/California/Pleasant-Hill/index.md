@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Pleasant Hill
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.947979, -122.060796
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

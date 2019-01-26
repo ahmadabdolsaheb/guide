@@ -4,7 +4,7 @@ location:
   country: China
   state: Shandong
   city: Qingdao
-  neighborhood: 
+  neighborhood: ''
   coordinates: 36.089509, 120.349719
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

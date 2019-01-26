@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Berkeley
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.870839, -122.272864
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

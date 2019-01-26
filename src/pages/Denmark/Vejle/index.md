@@ -2,9 +2,9 @@
 title: Vejle
 location:
   country: Denmark
-  state: 
+  state: ''
   city: Vejle
-  neighborhood: 
+  neighborhood: ''
   coordinates: 55.7113112,9.536354
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Albacete
 location:
   country: Spain
-  state: 
+  state: ''
   city: Albacete
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.995105, -1.855961
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

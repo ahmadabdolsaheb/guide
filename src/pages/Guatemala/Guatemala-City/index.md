@@ -2,9 +2,9 @@
 title: Guatemala City
 location:
   country: Guatemala
-  state: 
+  state: ''
   city: Guatemala City
-  neighborhood: 
+  neighborhood: ''
   coordinates: 14.641789, -90.513224
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

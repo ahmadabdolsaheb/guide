@@ -4,7 +4,7 @@ location:
   country: United States
   state: Minnesota
   city: Fergus Falls
-  neighborhood: 
+  neighborhood: ''
   coordinates: 46.283015, -96.077558
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

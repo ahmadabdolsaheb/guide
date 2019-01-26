@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: São Paulo
   city: Araraquara
-  neighborhood: 
+  neighborhood: ''
   coordinates: -21.788671, -48.17731
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

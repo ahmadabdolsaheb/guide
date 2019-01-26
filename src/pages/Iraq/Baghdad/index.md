@@ -2,9 +2,9 @@
 title: Baghdad
 location:
   country: Iraq
-  state: 
+  state: ''
   city: Baghdad
-  neighborhood: 
+  neighborhood: ''
   coordinates: 33.302425, 44.378799
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

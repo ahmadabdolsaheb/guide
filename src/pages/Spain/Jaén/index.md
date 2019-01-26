@@ -2,9 +2,9 @@
 title: Jaén
 location:
   country: Spain
-  state: 
+  state: ''
   city: Jaén
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.772886, -3.788329
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

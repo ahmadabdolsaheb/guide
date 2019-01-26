@@ -4,7 +4,7 @@ location:
   country: United States
   state: Pennsylvania
   city: Altoona
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.518681, -78.394736
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

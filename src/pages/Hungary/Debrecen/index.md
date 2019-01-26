@@ -2,9 +2,9 @@
 title: Debrecen
 location:
   country: Hungary
-  state: 
+  state: ''
   city: Debrecen
-  neighborhood: 
+  neighborhood: ''
   coordinates: 47.531399, 21.625978
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

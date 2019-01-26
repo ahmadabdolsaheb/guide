@@ -2,9 +2,9 @@
 title: Sibiu
 location:
   country: Romania
-  state: 
+  state: ''
   city: Sibiu
-  neighborhood: 
+  neighborhood: ''
   coordinates: 45.797391, 24.15192
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

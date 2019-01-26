@@ -4,7 +4,7 @@ location:
   country: United States
   state: Illinois
   city: Carrollton
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.3022693,-90.4070632
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

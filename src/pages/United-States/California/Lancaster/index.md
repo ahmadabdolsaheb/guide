@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Lancaster
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.03813, -76.305669
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Popayan
 location:
   country: Colombia
-  state: 
+  state: ''
   city: Popayan
-  neighborhood: 
+  neighborhood: ''
   coordinates: 2.441852, -76.606062
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

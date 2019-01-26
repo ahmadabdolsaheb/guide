@@ -2,9 +2,9 @@
 title: Rotterdam
 location:
   country: Netherlands
-  state: 
+  state: ''
   city: Rotterdam
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.927798, 4.488623
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: New Jersey
   city: Hoboken
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.743307, -74.032375
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

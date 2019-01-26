@@ -2,9 +2,9 @@
 title: Turku
 location:
   country: Finland
-  state: 
+  state: ''
   city: Turku
-  neighborhood: 
+  neighborhood: ''
   coordinates: 60.451753, 22.267052
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

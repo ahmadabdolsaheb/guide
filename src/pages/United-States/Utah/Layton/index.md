@@ -4,7 +4,7 @@ location:
   country: United States
   state: Utah
   city: Layton
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.060289, -111.966149
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

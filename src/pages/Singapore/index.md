@@ -2,9 +2,9 @@
 title: Singapore
 location:
   country: Singapore
-  state: 
-  city: 
-  neighborhood: 
+  state: ''
+  city: ''
+  neighborhood: ''
   coordinates: 1.290453, 103.852038
   plusCode: ''
 social:

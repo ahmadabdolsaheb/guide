@@ -4,7 +4,7 @@ location:
   country: Zambia
   state: Copperbelt
   city: Kitwe
-  neighborhood: 
+  neighborhood: ''
   coordinates: -12.8231947,28.2175744
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

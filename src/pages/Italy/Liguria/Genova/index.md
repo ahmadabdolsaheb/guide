@@ -4,7 +4,7 @@ location:
   country: Italy
   state: Liguria
   city: Genova
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.405600, 8.946300
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

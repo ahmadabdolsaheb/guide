@@ -4,7 +4,7 @@ location:
   country: United States
   state: New Jersey
   city: Jersey City
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.728158, -74.077642
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

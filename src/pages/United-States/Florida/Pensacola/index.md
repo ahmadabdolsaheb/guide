@@ -4,7 +4,7 @@ location:
   country: United States
   state: Florida
   city: Pensacola
-  neighborhood: 
+  neighborhood: ''
   coordinates: 30.421309, -87.216915
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

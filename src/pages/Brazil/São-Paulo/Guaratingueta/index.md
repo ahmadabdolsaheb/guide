@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: São Paulo
   city: Guaratingueta
-  neighborhood: 
+  neighborhood: ''
   coordinates: -22.805784, -45.190893
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

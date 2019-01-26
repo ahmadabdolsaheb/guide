@@ -4,7 +4,7 @@ location:
   country: United States
   state: Kansas
   city: Hays
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.879178, -99.32677
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

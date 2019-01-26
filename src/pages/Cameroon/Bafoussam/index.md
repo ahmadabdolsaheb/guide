@@ -2,9 +2,9 @@
 title: Bafoussam
 location:
   country: Cameroon
-  state: 
+  state: ''
   city: Bafoussam
-  neighborhood: 
+  neighborhood: ''
   coordinates: 5.475808, 10.421557
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

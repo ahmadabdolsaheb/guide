@@ -4,7 +4,7 @@ location:
   country: United States
   state: Michigan
   city: Kalamazoo
-  neighborhood: 
+  neighborhood: ''
   coordinates: 42.291707, -85.587229
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

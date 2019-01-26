@@ -2,9 +2,9 @@
 title: Bemmel
 location:
   country: Netherlands
-  state: 
+  state: ''
   city: Bemmel
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.899913, 5.893718
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

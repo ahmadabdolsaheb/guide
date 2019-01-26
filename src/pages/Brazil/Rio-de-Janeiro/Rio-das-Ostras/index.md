@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Rio de Janeiro
   city: Rio das Ostras
-  neighborhood: 
+  neighborhood: ''
   coordinates: -22.526743, -41.944519
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: Louisiana
   city: New Orleans
-  neighborhood: 
+  neighborhood: ''
   coordinates: 29.949932, -90.070116
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

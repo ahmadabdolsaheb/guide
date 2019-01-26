@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Santa Catarina
   city: Timbó
-  neighborhood: 
+  neighborhood: ''
   coordinates: -26.828274, -49.270641
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

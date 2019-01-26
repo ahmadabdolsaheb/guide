@@ -4,7 +4,7 @@ location:
   country: Malaysia
   state: Johor
   city: Parit Raja
-  neighborhood: 
+  neighborhood: ''
   coordinates: 1.863472,103.1088661
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

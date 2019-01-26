@@ -4,7 +4,7 @@ location:
   country: Germany
   state: Niedersachsen
   city: Buchholz in der Nordheide
-  neighborhood: 
+  neighborhood: ''
   coordinates: 53.312412, 9.864794
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

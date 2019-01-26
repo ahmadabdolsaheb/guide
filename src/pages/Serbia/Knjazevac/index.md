@@ -2,9 +2,9 @@
 title: Knjazevac
 location:
   country: Serbia
-  state: 
+  state: ''
   city: Knjazevac
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.567516, 22.255655
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

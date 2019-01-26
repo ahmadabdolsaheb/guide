@@ -4,7 +4,7 @@ location:
   country: United States
   state: Pennsylvania
   city: Chambersburg
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.94059, -77.659862
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

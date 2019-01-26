@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: São Paulo
   city: São Joao da Boa Vista
-  neighborhood: 
+  neighborhood: ''
   coordinates: -21.977814, -46.788172
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

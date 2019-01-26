@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: São Paulo
   city: Americana
-  neighborhood: 
+  neighborhood: ''
   coordinates: -22.739177, -47.331386
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

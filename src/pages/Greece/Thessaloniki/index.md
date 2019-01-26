@@ -2,9 +2,9 @@
 title: Thessaloniki
 location:
   country: Greece
-  state: 
+  state: ''
   city: Thessaloniki
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.640317, 22.935272
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

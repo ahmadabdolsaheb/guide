@@ -4,7 +4,7 @@ location:
   country: United States
   state: Washington
   city: Yakima
-  neighborhood: 
+  neighborhood: ''
   coordinates: 46.596449, -120.55318
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

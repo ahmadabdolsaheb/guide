@@ -4,7 +4,7 @@ location:
   country: United States
   state: Florida
   city: Pembroke Pines
-  neighborhood: 
+  neighborhood: ''
   coordinates: 26.02322, -80.341239
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

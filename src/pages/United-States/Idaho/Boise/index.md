@@ -4,7 +4,7 @@ location:
   country: United States
   state: Idaho
   city: Boise
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.61656, -116.200835
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

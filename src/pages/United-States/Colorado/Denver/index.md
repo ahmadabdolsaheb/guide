@@ -4,7 +4,7 @@ location:
   country: United States
   state: Colorado
   city: Denver
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.739154, -104.984703
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

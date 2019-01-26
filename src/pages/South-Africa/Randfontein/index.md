@@ -2,9 +2,9 @@
 title: Randfontein
 location:
   country: South Africa
-  state: 
+  state: ''
   city: Randfontein
-  neighborhood: 
+  neighborhood: ''
   coordinates: -26.173611, 27.694167
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

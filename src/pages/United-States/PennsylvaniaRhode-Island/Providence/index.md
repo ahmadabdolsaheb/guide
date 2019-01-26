@@ -4,7 +4,7 @@ location:
   country: United States
   state: PennsylvaniaRhode Island
   city: Providence
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.823989, -71.412834
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

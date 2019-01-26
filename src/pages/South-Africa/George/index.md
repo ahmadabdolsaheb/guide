@@ -2,9 +2,9 @@
 title: George
 location:
   country: South Africa
-  state: 
+  state: ''
   city: George
-  neighborhood: 
+  neighborhood: ''
   coordinates: -33.964444, 22.459722
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

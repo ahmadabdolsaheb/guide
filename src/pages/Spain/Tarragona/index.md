@@ -2,9 +2,9 @@
 title: Tarragona
 location:
   country: Spain
-  state: 
+  state: ''
   city: Tarragona
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.117236, 1.254606
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

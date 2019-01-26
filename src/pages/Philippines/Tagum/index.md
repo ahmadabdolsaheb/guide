@@ -2,9 +2,9 @@
 title: Tagum
 location:
   country: Philippines
-  state: 
+  state: ''
   city: Tagum
-  neighborhood: 
+  neighborhood: ''
   coordinates: 7.44689, 125.809577
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Rehovot
 location:
   country: Israel
-  state: 
+  state: ''
   city: Rehovot
-  neighborhood: 
+  neighborhood: ''
   coordinates: 31.895253, 34.810562
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

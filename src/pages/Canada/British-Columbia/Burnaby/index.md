@@ -4,7 +4,7 @@ location:
   country: Canada
   state: British Columbia
   city: Burnaby
-  neighborhood: 
+  neighborhood: ''
   coordinates: 49.243277, -122.972593
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

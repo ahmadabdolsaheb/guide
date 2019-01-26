@@ -2,9 +2,9 @@
 title: Leicester
 location:
   country: England
-  state: 
+  state: ''
   city: Leicester
-  neighborhood: 
+  neighborhood: ''
   coordinates: 52.636781, -1.131229
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

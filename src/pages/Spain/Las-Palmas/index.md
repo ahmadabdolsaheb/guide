@@ -2,9 +2,9 @@
 title: Las Palmas
 location:
   country: Spain
-  state: 
+  state: ''
   city: Las Palmas
-  neighborhood: 
+  neighborhood: ''
   coordinates: 18.235942, -66.656092
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

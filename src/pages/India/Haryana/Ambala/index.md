@@ -4,7 +4,7 @@ location:
   country: India
   state: Haryana
   city: Ambala
-  neighborhood: 
+  neighborhood: ''
   coordinates: 30.3781788,76.7766974
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: Michigan
   city: Bad Axe
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.801959, -83.000777
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

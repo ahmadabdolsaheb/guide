@@ -4,7 +4,7 @@ location:
   country: India
   state: Himachal Pradesh
   city: Dharamshala
-  neighborhood: 
+  neighborhood: ''
   coordinates: 32.214304, 76.319672
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

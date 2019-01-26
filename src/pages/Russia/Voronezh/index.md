@@ -2,9 +2,9 @@
 title: Voronezh
 location:
   country: Russia
-  state: 
+  state: ''
   city: Voronezh
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.65488, 39.212949
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

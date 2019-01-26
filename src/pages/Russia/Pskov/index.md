@@ -2,9 +2,9 @@
 title: Pskov
 location:
   country: Russia
-  state: 
+  state: ''
   city: Pskov
-  neighborhood: 
+  neighborhood: ''
   coordinates: 57.8174, 28.334368
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

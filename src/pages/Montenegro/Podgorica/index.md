@@ -2,9 +2,9 @@
 title: Podgorica
 location:
   country: Montenegro
-  state: 
+  state: ''
   city: Podgorica
-  neighborhood: 
+  neighborhood: ''
   coordinates: 42.441524, 19.262108
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

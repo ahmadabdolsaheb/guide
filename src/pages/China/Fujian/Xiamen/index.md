@@ -4,7 +4,7 @@ location:
   country: China
   state: Fujian
   city: Xiamen
-  neighborhood: 
+  neighborhood: ''
   coordinates: 24.497442, 118.135564
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

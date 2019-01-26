@@ -4,7 +4,7 @@ location:
   country: Germany
   state: Rheinland-Pfalz
   city: Hassloch
-  neighborhood: 
+  neighborhood: ''
   coordinates: 49.359849, 8.256891
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

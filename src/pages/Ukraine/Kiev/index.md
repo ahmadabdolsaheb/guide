@@ -2,9 +2,9 @@
 title: Kiev
 location:
   country: Ukraine
-  state: 
+  state: ''
   city: Kiev
-  neighborhood: 
+  neighborhood: ''
   coordinates: 50.450107, 30.52405
   plusCode: ''
 social:

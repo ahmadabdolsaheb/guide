@@ -2,9 +2,9 @@
 title: Santiago de Querétaro
 location:
   country: Mexico
-  state: 
+  state: ''
   city: Santiago de Querétaro
-  neighborhood: 
+  neighborhood: ''
   coordinates: 20.587837, -100.38799
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

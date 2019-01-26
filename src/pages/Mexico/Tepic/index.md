@@ -2,9 +2,9 @@
 title: Tepic
 location:
   country: Mexico
-  state: 
+  state: ''
   city: Tepic
-  neighborhood: 
+  neighborhood: ''
   coordinates: 21.504441, -104.894667
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

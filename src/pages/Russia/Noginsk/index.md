@@ -2,9 +2,9 @@
 title: Noginsk
 location:
   country: Russia
-  state: 
+  state: ''
   city: Noginsk
-  neighborhood: 
+  neighborhood: ''
   coordinates: 55.855351, 38.44119
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

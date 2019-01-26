@@ -2,9 +2,9 @@
 title: Palma de Mallorca
 location:
   country: Spain
-  state: 
+  state: ''
   city: Palma de Mallorca
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.569582, 2.650075
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

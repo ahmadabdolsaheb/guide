@@ -2,9 +2,9 @@
 title: Dhaka
 location:
   country: Bangladesh
-  state: 
+  state: ''
   city: Dhaka
-  neighborhood: 
+  neighborhood: ''
   coordinates: 23.759357, 90.378814
   plusCode: ''
 social:

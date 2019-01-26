@@ -2,9 +2,9 @@
 title: San Felipe
 location:
   country: Venezuela
-  state: 
+  state: ''
   city: San Felipe
-  neighborhood: 
+  neighborhood: ''
   coordinates: 9.903482, -84.106334
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: São Paulo
   city: São Carlos
-  neighborhood: 
+  neighborhood: ''
   coordinates: -22.017543, -47.890971
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

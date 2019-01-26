@@ -2,9 +2,9 @@
 title: Liverpool
 location:
   country: England
-  state: 
+  state: ''
   city: Liverpool
-  neighborhood: 
+  neighborhood: ''
   coordinates: 53.405472, -2.980539
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

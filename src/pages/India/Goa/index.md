@@ -3,8 +3,8 @@ title: Goa
 location:
   country: India
   state: Goa
-  city: 
-  neighborhood: 
+  city: ''
+  neighborhood: ''
   coordinates: 15.2832, 73.9862
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: China
   state: Jiangsu
   city: Suzhou
-  neighborhood: 
+  neighborhood: ''
   coordinates: 31.298476, 120.622239
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

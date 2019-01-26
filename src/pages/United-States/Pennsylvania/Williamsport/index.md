@@ -4,7 +4,7 @@ location:
   country: United States
   state: Pennsylvania
   city: Williamsport
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.249329, -77.002767
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Bordeaux
 location:
   country: France
-  state: 
+  state: ''
   city: Bordeaux
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.841225, -0.580036
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

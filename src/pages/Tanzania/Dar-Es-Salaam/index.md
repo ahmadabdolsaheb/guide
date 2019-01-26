@@ -2,9 +2,9 @@
 title: Dar-Es-Salaam
 location:
   country: Tanzania
-  state: 
+  state: ''
   city: Dar-Es-Salaam
-  neighborhood: 
+  neighborhood: ''
   coordinates: -6.814274, 39.280376
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

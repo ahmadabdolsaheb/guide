@@ -4,7 +4,7 @@ location:
   country: United States
   state: Louisiana
   city: Ponchatoula
-  neighborhood: 
+  neighborhood: ''
   coordinates: 30.438804, -90.441476
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

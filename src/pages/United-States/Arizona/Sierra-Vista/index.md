@@ -4,7 +4,7 @@ location:
   country: United States
   state: Arizona
   city: Sierra Vista
-  neighborhood: 
+  neighborhood: ''
   coordinates: 31.55454, -110.303693
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Flensburg
 location:
   country: Germany
-  state: 
+  state: ''
   city: Flensburg
-  neighborhood: 
+  neighborhood: ''
   coordinates: 54.783302, 9.433326
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

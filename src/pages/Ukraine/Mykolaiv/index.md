@@ -2,9 +2,9 @@
 title: Mykolaiv
 location:
   country: Ukraine
-  state: 
+  state: ''
   city: Mykolaiv
-  neighborhood: 
+  neighborhood: ''
   coordinates: 49.75811, 24.34467
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Brno
 location:
   country: Czech Republic
-  state: 
+  state: ''
   city: Brno
-  neighborhood: 
+  neighborhood: ''
   coordinates: 49.192244, 16.611338
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Arequipa
 location:
   country: Peru
-  state: 
+  state: ''
   city: Arequipa
-  neighborhood: 
+  neighborhood: ''
   coordinates: -12.433267, -73.982587
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

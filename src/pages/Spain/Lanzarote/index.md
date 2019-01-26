@@ -2,9 +2,9 @@
 title: Lanzarote
 location:
   country: Spain
-  state: 
+  state: ''
   city: Lanzarote
-  neighborhood: 
+  neighborhood: ''
   coordinates: 28.037924, -15.580172
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

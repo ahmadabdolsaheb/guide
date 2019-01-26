@@ -4,7 +4,7 @@ location:
   country: Canada
   state: Ontario
   city: Mississauga
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.589285, -79.644165
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

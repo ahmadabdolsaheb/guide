@@ -4,7 +4,7 @@ location:
   country: United States
   state: Maryland
   city: Hagerstown
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.641922, -77.720264
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

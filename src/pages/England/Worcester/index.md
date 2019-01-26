@@ -2,9 +2,9 @@
 title: Worcester
 location:
   country: England
-  state: 
+  state: ''
   city: Worcester
-  neighborhood: 
+  neighborhood: ''
   coordinates: 52.191829, -2.221601
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

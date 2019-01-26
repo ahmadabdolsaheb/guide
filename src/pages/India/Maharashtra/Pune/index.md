@@ -4,7 +4,7 @@ location:
   country: India
   state: Maharashtra
   city: Pune
-  neighborhood: 
+  neighborhood: ''
   coordinates: 18.520316, 73.85432
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

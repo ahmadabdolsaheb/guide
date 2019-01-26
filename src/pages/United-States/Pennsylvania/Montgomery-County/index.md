@@ -4,7 +4,7 @@ location:
   country: United States
   state: Pennsylvania
   city: Montgomery County
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.177150, -75.278513
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

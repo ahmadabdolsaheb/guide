@@ -4,7 +4,7 @@ location:
   country: Malaysia
   state: Johor
   city: Nusajaya
-  neighborhood: 
+  neighborhood: ''
   coordinates: 1.4200356,103.6304834
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

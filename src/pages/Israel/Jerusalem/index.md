@@ -2,9 +2,9 @@
 title: Jerusalem
 location:
   country: Israel
-  state: 
+  state: ''
   city: Jerusalem
-  neighborhood: 
+  neighborhood: ''
   coordinates: 31.779113, 35.226629
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Maitland
 location:
   country: Australia
-  state: 
+  state: ''
   city: Maitland
-  neighborhood: 
+  neighborhood: ''
   coordinates: -32.731668, 151.551112
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

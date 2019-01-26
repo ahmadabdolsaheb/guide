@@ -2,9 +2,9 @@
 title: Yekaterinburg
 location:
   country: Russia
-  state: 
+  state: ''
   city: Yekaterinburg
-  neighborhood: 
+  neighborhood: ''
   coordinates: 56.839103, 60.60825
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

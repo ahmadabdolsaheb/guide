@@ -2,9 +2,9 @@
 title: Asyut
 location:
   country: Egypt
-  state: 
+  state: ''
   city: Asyut
-  neighborhood: 
+  neighborhood: ''
   coordinates: 27.180178, 31.187651
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

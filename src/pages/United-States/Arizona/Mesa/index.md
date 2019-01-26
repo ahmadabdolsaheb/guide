@@ -4,7 +4,7 @@ location:
   country: United States
   state: Arizona
   city: Mesa
-  neighborhood: 
+  neighborhood: ''
   coordinates: 33.436188, -111.586066
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

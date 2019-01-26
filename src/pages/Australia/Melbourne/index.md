@@ -2,9 +2,9 @@
 title: Melbourne
 location:
   country: Australia
-  state: 
+  state: ''
   city: Melbourne
-  neighborhood: 
+  neighborhood: ''
   coordinates: -37.814218, 144.963161
   plusCode: ''
 social:

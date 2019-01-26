@@ -4,7 +4,7 @@ location:
   country: United States
   state: Georgia
   city: Macon
-  neighborhood: 
+  neighborhood: ''
   coordinates: 32.840695, -83.632402
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

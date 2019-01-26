@@ -4,7 +4,7 @@ location:
   country: India
   state: Uttar Pradesh
   city: Jhansi
-  neighborhood: 
+  neighborhood: ''
   coordinates: 25.450246, 78.580009
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

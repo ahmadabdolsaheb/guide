@@ -2,9 +2,9 @@
 title: Ado Ekiti
 location:
   country: Nigeria
-  state: 
+  state: ''
   city: Ado Ekiti
-  neighborhood: 
+  neighborhood: ''
   coordinates: 7.623248, 5.22274
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

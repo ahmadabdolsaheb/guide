@@ -4,7 +4,7 @@ location:
   country: United States
   state: Kansas
   city: Lawrence
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.971938, -95.23595
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

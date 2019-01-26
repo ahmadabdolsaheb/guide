@@ -4,7 +4,7 @@ location:
   country: Netherlands
   state: South Holland
   city: Leiden
-  neighborhood: 
+  neighborhood: ''
   coordinates: 52.1601144,4.4970097
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

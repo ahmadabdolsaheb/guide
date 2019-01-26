@@ -2,9 +2,9 @@
 title: Heerlen
 location:
   country: Netherlands
-  state: 
+  state: ''
   city: Heerlen
-  neighborhood: 
+  neighborhood: ''
   coordinates: 50.876277, 5.982795
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: Mexico
   state: Chihuahua
   city: Ciudad Cuauhtemoc
-  neighborhood: 
+  neighborhood: ''
   coordinates: 28.406359,-106.8654066
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

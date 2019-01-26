@@ -2,9 +2,9 @@
 title: Graz
 location:
   country: Austria
-  state: 
+  state: ''
   city: Graz
-  neighborhood: 
+  neighborhood: ''
   coordinates: 47.07081, 15.438292
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Naxos
 location:
   country: Greece
-  state: 
+  state: ''
   city: Naxos
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.824286, 15.270838
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

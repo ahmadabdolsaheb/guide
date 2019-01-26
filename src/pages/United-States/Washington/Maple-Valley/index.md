@@ -4,7 +4,7 @@ location:
   country: United States
   state: Washington
   city: Maple Valley
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.966306, -88.305443
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

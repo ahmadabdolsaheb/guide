@@ -2,9 +2,9 @@
 title: Kirovohrad
 location:
   country: Ukraine
-  state: 
+  state: ''
   city: Kirovohrad
-  neighborhood: 
+  neighborhood: ''
   coordinates: 48.510581, 32.265628
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

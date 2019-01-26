@@ -4,7 +4,7 @@ location:
   country: Russia
   state: Kostroma Oblast
   city: Kostroma
-  neighborhood: 
+  neighborhood: ''
   coordinates: 57.77748159999999,40.9698928
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

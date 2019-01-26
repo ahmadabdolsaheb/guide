@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Victorville
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.536107, -117.291156
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: Michigan
   city: Milford
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.222319, -73.056495
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

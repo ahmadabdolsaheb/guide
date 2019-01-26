@@ -4,7 +4,7 @@ location:
   country: Pakistan
   state: Punjab
   city: Faisalabad
-  neighborhood: 
+  neighborhood: ''
   coordinates: 31.45036619999999,73.13496049999999
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

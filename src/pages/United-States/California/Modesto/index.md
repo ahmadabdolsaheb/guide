@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Modesto
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.639097, -120.996878
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

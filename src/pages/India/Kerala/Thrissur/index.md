@@ -4,7 +4,7 @@ location:
   country: India
   state: Kerala
   city: Thrissur
-  neighborhood: 
+  neighborhood: ''
   coordinates: 10.524748, 76.214394
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Roskilde
 location:
   country: Denmark
-  state: 
+  state: ''
   city: Roskilde
-  neighborhood: 
+  neighborhood: ''
   coordinates: 55.643348, 12.081925
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

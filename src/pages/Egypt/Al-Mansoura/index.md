@@ -2,9 +2,9 @@
 title: Al-Mansoura
 location:
   country: Egypt
-  state: 
+  state: ''
   city: Al-Mansoura
-  neighborhood: 
+  neighborhood: ''
   coordinates: 25.265651, 51.532111
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

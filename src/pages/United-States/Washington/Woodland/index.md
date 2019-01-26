@@ -4,7 +4,7 @@ location:
   country: United States
   state: Washington
   city: Woodland
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.678611, -121.773328
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

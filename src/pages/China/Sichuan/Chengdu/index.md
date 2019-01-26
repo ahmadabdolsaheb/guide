@@ -4,7 +4,7 @@ location:
   country: China
   state: Sichuan
   city: Chengdu
-  neighborhood: 
+  neighborhood: ''
   coordinates: 30.676555, 104.061278
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

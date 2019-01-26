@@ -2,9 +2,9 @@
 title: Buenos Aires
 location:
   country: Argentina
-  state: 
+  state: ''
   city: Buenos Aires
-  neighborhood: 
+  neighborhood: ''
   coordinates: -34.612869, -58.445979
   plusCode: ''
 social:

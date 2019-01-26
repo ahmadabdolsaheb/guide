@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Placerville
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.729625, -120.798546
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

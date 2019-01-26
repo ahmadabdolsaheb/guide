@@ -4,7 +4,7 @@ location:
   country: United States
   state: Kentucky
   city: London
-  neighborhood: 
+  neighborhood: ''
   coordinates: 42.988097, -81.246029
   plusCode: ''
 social:

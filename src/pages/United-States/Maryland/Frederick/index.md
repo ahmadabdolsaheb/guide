@@ -4,7 +4,7 @@ location:
   country: United States
   state: Maryland
   city: Frederick
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.414443, -77.410578
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

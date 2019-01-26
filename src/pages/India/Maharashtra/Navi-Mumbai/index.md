@@ -4,7 +4,7 @@ location:
   country: India
   state: Maharashtra
   city: Navi Mumbai
-  neighborhood: 
+  neighborhood: ''
   coordinates: 19.021521, 73.032263
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

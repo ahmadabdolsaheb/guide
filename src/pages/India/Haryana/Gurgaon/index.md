@@ -4,7 +4,7 @@ location:
   country: India
   state: Haryana
   city: Gurgaon
-  neighborhood: 
+  neighborhood: ''
   coordinates: 28.464615, 77.029919
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

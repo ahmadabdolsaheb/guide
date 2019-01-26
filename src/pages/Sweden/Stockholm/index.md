@@ -2,9 +2,9 @@
 title: Stockholm
 location:
   country: Sweden
-  state: 
+  state: ''
   city: Stockholm
-  neighborhood: 
+  neighborhood: ''
   coordinates: 59.325117, 18.071094
   plusCode: ''
 social:

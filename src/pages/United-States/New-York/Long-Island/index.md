@@ -4,7 +4,7 @@ location:
   country: United States
   state: New York
   city: Long Island
-  neighborhood: 
+  neighborhood: ''
   coordinates: 23.303, -75.105878
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

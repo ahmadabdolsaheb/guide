@@ -2,9 +2,9 @@
 title: Reims
 location:
   country: France
-  state: 
+  state: ''
   city: Reims
-  neighborhood: 
+  neighborhood: ''
   coordinates: 49.257789, 4.031926
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

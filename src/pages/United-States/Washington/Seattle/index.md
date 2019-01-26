@@ -4,7 +4,7 @@ location:
   country: United States
   state: Washington
   city: Seattle
-  neighborhood: 
+  neighborhood: ''
   coordinates: 47.603832, -122.330062
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

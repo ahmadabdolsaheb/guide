@@ -2,9 +2,9 @@
 title: Bremen
 location:
   country: Germany
-  state: 
+  state: ''
   city: Bremen
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.446436, -86.148058
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

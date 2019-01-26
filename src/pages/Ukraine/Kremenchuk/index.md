@@ -2,9 +2,9 @@
 title: Kremenchuk
 location:
   country: Ukraine
-  state: 
+  state: ''
   city: Kremenchuk
-  neighborhood: 
+  neighborhood: ''
   coordinates: 49.079722, 33.4325
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Eastbourne
 location:
   country: England
-  state: 
+  state: ''
   city: Eastbourne
-  neighborhood: 
+  neighborhood: ''
   coordinates: 50.770600, 0.281761
   plusCode: ''
 social:

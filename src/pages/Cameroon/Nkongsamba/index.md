@@ -2,9 +2,9 @@
 title: Nkongsamba
 location:
   country: Cameroon
-  state: 
+  state: ''
   city: Nkongsamba
-  neighborhood: 
+  neighborhood: ''
   coordinates: 4.964145, 9.935545
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

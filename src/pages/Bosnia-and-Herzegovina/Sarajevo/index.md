@@ -2,9 +2,9 @@
 title: Sarajevo
 location:
   country: Bosnia and Herzegovina
-  state: 
+  state: ''
   city: Sarajevo
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.851977, 18.386687
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

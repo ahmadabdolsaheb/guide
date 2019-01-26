@@ -2,9 +2,9 @@
 title: Lahore
 location:
   country: Pakistan
-  state: 
+  state: ''
   city: Lahore
-  neighborhood: 
+  neighborhood: ''
   coordinates: 31.562192, 74.322852
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

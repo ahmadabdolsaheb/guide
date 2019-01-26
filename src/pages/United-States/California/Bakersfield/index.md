@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Bakersfield
-  neighborhood: 
+  neighborhood: ''
   coordinates: 35.373871, -119.019464
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

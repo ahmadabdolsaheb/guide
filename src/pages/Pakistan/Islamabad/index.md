@@ -2,9 +2,9 @@
 title: Islamabad
 location:
   country: Pakistan
-  state: 
+  state: ''
   city: Islamabad
-  neighborhood: 
+  neighborhood: ''
   coordinates: 33.694576, 73.064374
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

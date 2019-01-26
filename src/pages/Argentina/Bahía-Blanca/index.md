@@ -2,9 +2,9 @@
 title: Bahía Blanca
 location:
   country: Argentina
-  state: 
+  state: ''
   city: Bahía Blanca
-  neighborhood: 
+  neighborhood: ''
   coordinates: -38.718236, -62.266245
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

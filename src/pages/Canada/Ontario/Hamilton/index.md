@@ -4,7 +4,7 @@ location:
   country: Canada
   state: Ontario
   city: Hamilton
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.254687, -79.86782
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

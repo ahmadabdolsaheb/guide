@@ -4,7 +4,7 @@ location:
   country: Canada
   state: Ontario
   city: Oshawa
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.917276, -78.861487
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

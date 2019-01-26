@@ -4,7 +4,7 @@ location:
   country: United States
   state: Georgia
   city: Rome
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.893344, 12.483072
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

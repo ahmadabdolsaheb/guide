@@ -2,9 +2,9 @@
 title: Brighton
 location:
   country: England
-  state: 
+  state: ''
   city: Brighton
-  neighborhood: 
+  neighborhood: ''
   coordinates: 50.82204, -0.137406
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

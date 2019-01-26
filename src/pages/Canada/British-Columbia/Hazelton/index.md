@@ -4,7 +4,7 @@ location:
   country: Canada
   state: British Columbia
   city: Hazelton
-  neighborhood: 
+  neighborhood: ''
   coordinates: 35.042192, -119.384561
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Bijeljina
 location:
   country: Bosnia and Herzegovina
-  state: 
+  state: ''
   city: Bijeljina
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.757474, 19.217891
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

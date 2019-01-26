@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Minas Gerais
   city: São Lourenço
-  neighborhood: 
+  neighborhood: ''
   coordinates: -22.116389, -45.054167
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

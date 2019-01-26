@@ -2,9 +2,9 @@
 title: Innsbruck
 location:
   country: Austria
-  state: 
+  state: ''
   city: Innsbruck
-  neighborhood: 
+  neighborhood: ''
   coordinates: 47.26543, 11.392769
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

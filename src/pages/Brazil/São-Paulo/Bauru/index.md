@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: São Paulo
   city: Bauru
-  neighborhood: 
+  neighborhood: ''
   coordinates: -22.32181, -49.070586
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

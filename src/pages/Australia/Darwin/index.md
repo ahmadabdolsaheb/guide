@@ -2,9 +2,9 @@
 title: Darwin
 location:
   country: Australia
-  state: 
+  state: ''
   city: Darwin
-  neighborhood: 
+  neighborhood: ''
   coordinates: -12.46044, 130.841047
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

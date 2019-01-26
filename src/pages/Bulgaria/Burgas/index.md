@@ -2,9 +2,9 @@
 title: Burgas
 location:
   country: Bulgaria
-  state: 
+  state: ''
   city: Burgas
-  neighborhood: 
+  neighborhood: ''
   coordinates: 42.494227, 27.455016
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

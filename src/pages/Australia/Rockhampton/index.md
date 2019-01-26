@@ -2,9 +2,9 @@
 title: Rockhampton
 location:
   country: Australia
-  state: 
+  state: ''
   city: Rockhampton
-  neighborhood: 
+  neighborhood: ''
   coordinates: -23.37825, 150.513444
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

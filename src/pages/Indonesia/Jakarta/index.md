@@ -2,9 +2,9 @@
 title: Jakarta
 location:
   country: Indonesia
-  state: 
+  state: ''
   city: Jakarta
-  neighborhood: 
+  neighborhood: ''
   coordinates: -6.175394, 106.827183
   plusCode: ''
 social:

@@ -4,7 +4,7 @@ location:
   country: Nigeria
   state: Lagos
   city: Fadeyi
-  neighborhood: 
+  neighborhood: ''
   coordinates: 6.528482899999999,3.3628242
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

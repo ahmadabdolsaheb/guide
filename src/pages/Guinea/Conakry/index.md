@@ -2,9 +2,9 @@
 title: Conakry
 location:
   country: Guinea
-  state: 
+  state: ''
   city: Conakry
-  neighborhood: 
+  neighborhood: ''
   coordinates: 9.517125, -13.699923
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

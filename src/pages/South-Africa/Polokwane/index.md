@@ -2,9 +2,9 @@
 title: Polokwane
 location:
   country: South Africa
-  state: 
+  state: ''
   city: Polokwane
-  neighborhood: 
+  neighborhood: ''
   coordinates: -23.905833, 29.461389
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Culiacán
 location:
   country: Mexico
-  state: 
+  state: ''
   city: Culiacán
-  neighborhood: 
+  neighborhood: ''
   coordinates: 32.695048, -114.758201
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

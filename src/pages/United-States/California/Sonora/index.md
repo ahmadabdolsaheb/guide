@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Sonora
-  neighborhood: 
+  neighborhood: ''
   coordinates: 30.566734, -100.642859
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

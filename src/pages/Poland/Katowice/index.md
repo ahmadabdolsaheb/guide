@@ -2,9 +2,9 @@
 title: Katowice
 location:
   country: Poland
-  state: 
+  state: ''
   city: Katowice
-  neighborhood: 
+  neighborhood: ''
   coordinates: 50.259432, 19.022134
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Cochabamba
 location:
   country: Bolivia
-  state: 
+  state: ''
   city: Cochabamba
-  neighborhood: 
+  neighborhood: ''
   coordinates: -17.393542, -66.157014
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

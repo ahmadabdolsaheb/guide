@@ -2,9 +2,9 @@
 title: Accra
 location:
   country: Ghana
-  state: 
+  state: ''
   city: Accra
-  neighborhood: 
+  neighborhood: ''
   coordinates: 5.560014, -0.205744
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

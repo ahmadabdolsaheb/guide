@@ -2,9 +2,9 @@
 title: Basel
 location:
   country: Switzerland
-  state: 
+  state: ''
   city: Basel
-  neighborhood: 
+  neighborhood: ''
   coordinates: 47.558108, 7.587826
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

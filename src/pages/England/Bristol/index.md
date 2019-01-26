@@ -2,9 +2,9 @@
 title: Bristol
 location:
   country: England
-  state: 
+  state: ''
   city: Bristol
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.453493, -2.597394
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

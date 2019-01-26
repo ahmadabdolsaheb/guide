@@ -2,7 +2,7 @@
 title: neighborhood-2
 location:
   country: Uzbekistan
-  state: 
+  state: ''
   city: Tashkent
   neighborhood: Neighborhood 2
   coordinates: 41.312336, 69.278708
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: India
   state: Punjab
   city: Amritsar
-  neighborhood: 
+  neighborhood: ''
   coordinates: 31.634308, 74.873679
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

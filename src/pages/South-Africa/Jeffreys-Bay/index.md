@@ -2,9 +2,9 @@
 title: Jeffreys Bay
 location:
   country: South Africa
-  state: 
+  state: ''
   city: Jeffreys Bay
-  neighborhood: 
+  neighborhood: ''
   coordinates: -34.051111, 24.922222
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

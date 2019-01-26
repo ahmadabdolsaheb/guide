@@ -4,7 +4,7 @@ location:
   country: Nigeria
   state: Bauchi
   city: Bauchi
-  neighborhood: 
+  neighborhood: ''
   coordinates: 10.3009641,9.8236533
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

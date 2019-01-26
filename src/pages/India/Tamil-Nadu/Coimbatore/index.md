@@ -4,7 +4,7 @@ location:
   country: India
   state: Tamil Nadu
   city: Coimbatore
-  neighborhood: 
+  neighborhood: ''
   coordinates: 11.001812, 76.962843
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

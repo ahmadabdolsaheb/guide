@@ -2,9 +2,9 @@
 title: Tbilisi
 location:
   country: Georgia
-  state: 
+  state: ''
   city: Tbilisi
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.693435, 44.801498
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

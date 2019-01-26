@@ -2,9 +2,9 @@
 title: Leeuwarden
 location:
   country: Bonaire
-  state: 
+  state: ''
   city: Leeuwarden
-  neighborhood: 
+  neighborhood: ''
   coordinates: 53.199734, 5.800653
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

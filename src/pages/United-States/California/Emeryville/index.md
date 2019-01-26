@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Emeryville
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.831409, -122.286527
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

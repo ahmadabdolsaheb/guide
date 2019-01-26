@@ -4,7 +4,7 @@ location:
   country: United States
   state: Colorado
   city: Montrose
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.478504, -107.877777
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

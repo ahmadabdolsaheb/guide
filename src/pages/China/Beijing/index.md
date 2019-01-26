@@ -2,9 +2,9 @@
 title: Beijing
 location:
   country: China
-  state: 
+  state: ''
   city: Beijing
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.905963, 116.391248
   plusCode: ''
 social:

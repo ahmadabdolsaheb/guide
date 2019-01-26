@@ -2,9 +2,9 @@
 title: Gaza
 location:
   country: Palestine
-  state: 
+  state: ''
   city: Gaza
-  neighborhood: 
+  neighborhood: ''
   coordinates: 31.507721, 34.460742
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

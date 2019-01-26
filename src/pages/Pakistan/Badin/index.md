@@ -2,9 +2,9 @@
 title: Badin
 location:
   country: Pakistan
-  state: 
+  state: ''
   city: Badin
-  neighborhood: 
+  neighborhood: ''
   coordinates: 24.655167, 68.840151
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

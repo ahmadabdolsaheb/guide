@@ -2,9 +2,9 @@
 title: Braga
 location:
   country: Portugal
-  state: 
+  state: ''
   city: Braga
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.551058, -8.428004
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Barnaul
 location:
   country: Russia
-  state: 
+  state: ''
   city: Barnaul
-  neighborhood: 
+  neighborhood: ''
   coordinates: 53.347421, 83.77843
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Makati
 location:
   country: Philippines
-  state: 
+  state: ''
   city: Makati
-  neighborhood: 
+  neighborhood: ''
   coordinates: 14.556885, 121.023532
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

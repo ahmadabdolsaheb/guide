@@ -2,9 +2,9 @@
 title: Jeddah
 location:
   country: Saudi Arabia
-  state: 
+  state: ''
   city: Jeddah
-  neighborhood: 
+  neighborhood: ''
   coordinates: 21.582225, 39.16404
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

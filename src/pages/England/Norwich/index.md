@@ -2,9 +2,9 @@
 title: Norwich
 location:
   country: England
-  state: 
+  state: ''
   city: Norwich
-  neighborhood: 
+  neighborhood: ''
   coordinates: 52.628606, 1.29227
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

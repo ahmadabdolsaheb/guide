@@ -4,7 +4,7 @@ location:
   country: United States
   state: Utah
   city: Logan
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.731345, -111.834863
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

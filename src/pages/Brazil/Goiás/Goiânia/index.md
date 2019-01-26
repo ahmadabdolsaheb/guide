@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Goiás
   city: Goiânia
-  neighborhood: 
+  neighborhood: ''
   coordinates: -16.680882, -49.253269
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

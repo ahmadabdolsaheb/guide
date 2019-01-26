@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Patterson
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.062259, -114.177677
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

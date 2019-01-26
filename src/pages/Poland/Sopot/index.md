@@ -2,9 +2,9 @@
 title: Sopot
 location:
   country: Poland
-  state: 
+  state: ''
   city: Sopot
-  neighborhood: 
+  neighborhood: ''
   coordinates: 54.444667, 18.568587
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

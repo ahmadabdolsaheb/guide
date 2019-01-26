@@ -4,7 +4,7 @@ location:
   country: India
   state: Kerala
   city: Trivandrum
-  neighborhood: 
+  neighborhood: ''
   coordinates: 8.505891, 76.957048
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Wuppertal
 location:
   country: Germany
-  state: 
+  state: ''
   city: Wuppertal
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.264018, 7.178037
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

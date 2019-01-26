@@ -2,9 +2,9 @@
 title: Camerino
 location:
   country: Italy
-  state: 
+  state: ''
   city: Camerino
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.135764, 13.068309
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Lindsay
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.355066, -78.740425
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Buzau
 location:
   country: Romania
-  state: 
+  state: ''
   city: Buzau
-  neighborhood: 
+  neighborhood: ''
   coordinates: 45.149006, 26.830656
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

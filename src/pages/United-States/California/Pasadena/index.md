@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Pasadena
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.147645, -118.144478
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

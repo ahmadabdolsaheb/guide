@@ -2,9 +2,9 @@
 title: San Juan
 location:
   country: Philippines
-  state: 
+  state: ''
   city: San Juan
-  neighborhood: 
+  neighborhood: ''
   coordinates: 18.465299, -66.116666
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

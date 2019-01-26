@@ -4,7 +4,7 @@ location:
   country: United States
   state: New York
   city: Binghampton
-  neighborhood: 
+  neighborhood: ''
   coordinates: 35.15009, -89.969534
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

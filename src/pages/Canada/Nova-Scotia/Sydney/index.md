@@ -4,7 +4,7 @@ location:
   country: Canada
   state: Nova Scotia
   city: Sydney
-  neighborhood: 
+  neighborhood: ''
   coordinates: -33.867957, 151.210047
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

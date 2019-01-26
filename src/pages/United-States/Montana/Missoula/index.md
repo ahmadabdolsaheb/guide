@@ -4,7 +4,7 @@ location:
   country: United States
   state: Montana
   city: Missoula
-  neighborhood: 
+  neighborhood: ''
   coordinates: 46.87008, -113.99528
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

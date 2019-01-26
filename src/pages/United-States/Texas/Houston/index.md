@@ -4,7 +4,7 @@ location:
   country: United States
   state: Texas
   city: Houston
-  neighborhood: 
+  neighborhood: ''
   coordinates: 29.758938, -95.367697
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

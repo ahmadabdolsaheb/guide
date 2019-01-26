@@ -4,7 +4,7 @@ location:
   country: United States
   state: Virginia
   city: Floyd
-  neighborhood: 
+  neighborhood: ''
   coordinates: 36.911244, -80.32005
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

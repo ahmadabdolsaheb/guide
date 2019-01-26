@@ -2,9 +2,9 @@
 title: Guadalajara
 location:
   country: Mexico
-  state: 
+  state: ''
   city: Guadalajara
-  neighborhood: 
+  neighborhood: ''
   coordinates: 20.676143, -103.346998
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

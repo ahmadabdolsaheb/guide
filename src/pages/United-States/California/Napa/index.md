@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Napa
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.297137, -122.285529
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

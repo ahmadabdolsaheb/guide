@@ -2,9 +2,9 @@
 title: Suceava
 location:
   country: Romania
-  state: 
+  state: ''
   city: Suceava
-  neighborhood: 
+  neighborhood: ''
   coordinates: 47.647001, 26.25226
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

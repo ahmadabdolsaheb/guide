@@ -4,7 +4,7 @@ location:
   country: India
   state: West Bengal
   city: NSEC, Kolkata
-  neighborhood: 
+  neighborhood: ''
   coordinates: 22.476058,88.4147846
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

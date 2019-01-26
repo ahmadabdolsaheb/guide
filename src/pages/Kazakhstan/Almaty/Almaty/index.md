@@ -4,7 +4,7 @@ location:
   country: Kazakhstan
   state: Almaty
   city: Almaty
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.2220146,76.8512485
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: Philippines
   state: Cagayan Valley
   city: Tuguegarao City
-  neighborhood: 
+  neighborhood: ''
   coordinates: 17.6131813,121.7270206
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

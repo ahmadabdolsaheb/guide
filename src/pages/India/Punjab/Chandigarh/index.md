@@ -4,7 +4,7 @@ location:
   country: India
   state: Punjab
   city: Chandigarh
-  neighborhood: 
+  neighborhood: ''
   coordinates: 30.720451, 76.76697
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

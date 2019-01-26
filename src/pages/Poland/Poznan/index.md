@@ -2,9 +2,9 @@
 title: Poznan
 location:
   country: Poland
-  state: 
+  state: ''
   city: Poznan
-  neighborhood: 
+  neighborhood: ''
   coordinates: 52.40823, 16.933364
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

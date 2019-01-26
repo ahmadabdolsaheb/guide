@@ -4,7 +4,7 @@ location:
   country: United States
   state: Texas
   city: Amarillo
-  neighborhood: 
+  neighborhood: ''
   coordinates: 35.207219, -101.833825
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

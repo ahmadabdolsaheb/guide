@@ -2,9 +2,9 @@
 title: Leipzig
 location:
   country: Germany
-  state: 
+  state: ''
   city: Leipzig
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.339183, 12.381055
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

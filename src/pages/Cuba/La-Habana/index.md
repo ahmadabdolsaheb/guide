@@ -2,9 +2,9 @@
 title: La Habana
 location:
   country: Cuba
-  state: 
+  state: ''
   city: La Habana
-  neighborhood: 
+  neighborhood: ''
   coordinates: 23.137991, -82.365856
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

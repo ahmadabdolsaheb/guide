@@ -2,9 +2,9 @@
 title: Guanajuato
 location:
   country: Mexico
-  state: 
+  state: ''
   city: Guanajuato
-  neighborhood: 
+  neighborhood: ''
   coordinates: 21.015851, -101.25287
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

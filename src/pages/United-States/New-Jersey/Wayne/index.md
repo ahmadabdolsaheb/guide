@@ -4,7 +4,7 @@ location:
   country: United States
   state: New Jersey
   city: Wayne
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.044015, -75.387862
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

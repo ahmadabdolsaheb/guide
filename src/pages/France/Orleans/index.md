@@ -2,9 +2,9 @@
 title: Orleans
 location:
   country: France
-  state: 
+  state: ''
   city: Orleans
-  neighborhood: 
+  neighborhood: ''
   coordinates: 45.481043, -75.50996
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Folsom
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.677959, -121.176058
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

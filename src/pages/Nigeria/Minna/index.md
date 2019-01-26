@@ -2,9 +2,9 @@
 title: Minna
 location:
   country: Nigeria
-  state: 
+  state: ''
   city: Minna
-  neighborhood: 
+  neighborhood: ''
   coordinates: 9.618709, 6.547575
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

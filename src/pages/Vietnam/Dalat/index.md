@@ -2,9 +2,9 @@
 title: Dalat
 location:
   country: Vietnam
-  state: 
+  state: ''
   city: Dalat
-  neighborhood: 
+  neighborhood: ''
   coordinates: 11.940242, 108.437576
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

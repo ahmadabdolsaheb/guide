@@ -4,7 +4,7 @@ location:
   country: United States
   state: Massachusetts
   city: Pepperell
-  neighborhood: 
+  neighborhood: ''
   coordinates: 42.665923, -71.588402
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

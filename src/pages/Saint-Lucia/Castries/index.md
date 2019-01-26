@@ -2,9 +2,9 @@
 title: Castries
 location:
   country: Saint Lucia
-  state: 
+  state: ''
   city: Castries
-  neighborhood: 
+  neighborhood: ''
   coordinates: 14.009602, -60.990274
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: India
   state: Himachal Pradesh
   city: Mandi
-  neighborhood: 
+  neighborhood: ''
   coordinates: 31.7081655,76.9313675
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

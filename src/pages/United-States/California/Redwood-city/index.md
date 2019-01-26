@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Redwood city
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.485215, -122.236355
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

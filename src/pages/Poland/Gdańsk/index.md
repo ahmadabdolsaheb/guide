@@ -2,9 +2,9 @@
 title: Gdańsk
 location:
   country: Poland
-  state: 
+  state: ''
   city: Gdańsk
-  neighborhood: 
+  neighborhood: ''
   coordinates: 54.348226, 18.654289
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: Canada
   state: New Brunswick
   city: Moncton
-  neighborhood: 
+  neighborhood: ''
   coordinates: 46.091543, -64.795237
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

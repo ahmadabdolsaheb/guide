@@ -2,9 +2,9 @@
 title: Sfax
 location:
   country: Tunisia
-  state: 
+  state: ''
   city: Sfax
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.739739, 10.759852
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

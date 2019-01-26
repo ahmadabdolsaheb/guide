@@ -4,7 +4,7 @@ location:
   country: United States
   state: Georgia
   city: Alpharetta
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.070958, -84.274733
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

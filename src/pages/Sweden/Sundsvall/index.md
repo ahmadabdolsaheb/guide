@@ -2,9 +2,9 @@
 title: Sundsvall
 location:
   country: Sweden
-  state: 
+  state: ''
   city: Sundsvall
-  neighborhood: 
+  neighborhood: ''
   coordinates: 62.392101, 17.30989
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

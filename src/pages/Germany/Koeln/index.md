@@ -2,9 +2,9 @@
 title: Koeln
 location:
   country: Germany
-  state: 
+  state: ''
   city: Koeln
-  neighborhood: 
+  neighborhood: ''
   coordinates: 50.938361, 6.959974
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

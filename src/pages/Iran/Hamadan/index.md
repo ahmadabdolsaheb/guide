@@ -2,9 +2,9 @@
 title: Hamadan
 location:
   country: Iran
-  state: 
+  state: ''
   city: Hamadan
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.79835, 48.514607
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

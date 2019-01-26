@@ -4,7 +4,7 @@ location:
   country: India
   state: Gujarat
   city: Rajkot
-  neighborhood: 
+  neighborhood: ''
   coordinates: 22.304577, 70.802161
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

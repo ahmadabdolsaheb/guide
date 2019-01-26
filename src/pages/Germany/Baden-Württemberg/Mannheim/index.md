@@ -4,7 +4,7 @@ location:
   country: Germany
   state: Baden-Württemberg
   city: Mannheim
-  neighborhood: 
+  neighborhood: ''
   coordinates: 49.4874592,8.466039499999999
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

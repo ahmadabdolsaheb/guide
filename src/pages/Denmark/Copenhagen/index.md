@@ -2,9 +2,9 @@
 title: Copenhagen
 location:
   country: Denmark
-  state: 
+  state: ''
   city: Copenhagen
-  neighborhood: 
+  neighborhood: ''
   coordinates: 55.686724, 12.570072
   plusCode: ''
 social:

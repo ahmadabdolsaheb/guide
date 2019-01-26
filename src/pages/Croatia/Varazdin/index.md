@@ -2,9 +2,9 @@
 title: Varazdin
 location:
   country: Croatia
-  state: 
+  state: ''
   city: Varazdin
-  neighborhood: 
+  neighborhood: ''
   coordinates: 46.308216, 16.337816
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

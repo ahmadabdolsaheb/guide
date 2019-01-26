@@ -2,9 +2,9 @@
 title: Poitiers
 location:
   country: France
-  state: 
+  state: ''
   city: Poitiers
-  neighborhood: 
+  neighborhood: ''
   coordinates: 46.58026, 0.340196
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

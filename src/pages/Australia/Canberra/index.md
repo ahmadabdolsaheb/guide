@@ -2,9 +2,9 @@
 title: Canberra
 location:
   country: Australia
-  state: 
+  state: ''
   city: Canberra
-  neighborhood: 
+  neighborhood: ''
   coordinates: -35.281207, 149.128766
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

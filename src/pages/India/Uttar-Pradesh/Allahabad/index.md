@@ -4,7 +4,7 @@ location:
   country: India
   state: Uttar Pradesh
   city: Allahabad
-  neighborhood: 
+  neighborhood: ''
   coordinates: 25.43813, 81.833801
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

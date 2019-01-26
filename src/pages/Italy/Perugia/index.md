@@ -2,9 +2,9 @@
 title: Perugia
 location:
   country: Italy
-  state: 
+  state: ''
   city: Perugia
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.111961, 12.38901
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Šabac
 location:
   country: Serbia
-  state: 
+  state: ''
   city: Šabac
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.751862, 19.691707
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

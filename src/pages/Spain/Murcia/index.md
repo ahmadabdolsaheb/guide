@@ -2,9 +2,9 @@
 title: Murcia
 location:
   country: Spain
-  state: 
+  state: ''
   city: Murcia
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.99238, -1.130543
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: Washington
   city: Spokane
-  neighborhood: 
+  neighborhood: ''
   coordinates: 47.65886, -117.424713
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

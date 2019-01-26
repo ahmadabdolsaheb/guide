@@ -2,9 +2,9 @@
 title: Mashhad
 location:
   country: Iran
-  state: 
+  state: ''
   city: Mashhad
-  neighborhood: 
+  neighborhood: ''
   coordinates: 36.297495, 59.605923
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

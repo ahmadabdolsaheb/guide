@@ -2,9 +2,9 @@
 title: Mersin
 location:
   country: Turkey
-  state: 
+  state: ''
   city: Mersin
-  neighborhood: 
+  neighborhood: ''
   coordinates: 36.81275, 34.630542
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

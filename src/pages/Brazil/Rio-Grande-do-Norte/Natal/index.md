@@ -4,7 +4,7 @@ location:
   country: Brazil
   state: Rio Grande do Norte
   city: Natal
-  neighborhood: 
+  neighborhood: ''
   coordinates: -5.805398, -35.20809
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

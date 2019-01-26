@@ -2,9 +2,9 @@
 title: Nelspruit
 location:
   country: South Africa
-  state: 
+  state: ''
   city: Nelspruit
-  neighborhood: 
+  neighborhood: ''
   coordinates: -25.481944, 30.984722
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

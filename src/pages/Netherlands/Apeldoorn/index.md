@@ -2,9 +2,9 @@
 title: Apeldoorn
 location:
   country: Netherlands
-  state: 
+  state: ''
   city: Apeldoorn
-  neighborhood: 
+  neighborhood: ''
   coordinates: 52.215646, 5.963949
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

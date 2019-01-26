@@ -2,9 +2,9 @@
 title: Chittagong
 location:
   country: Bangladesh
-  state: 
+  state: ''
   city: Chittagong
-  neighborhood: 
+  neighborhood: ''
   coordinates: 22.3308, 91.841286
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

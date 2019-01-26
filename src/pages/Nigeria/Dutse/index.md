@@ -2,9 +2,9 @@
 title: Dutse
 location:
   country: Nigeria
-  state: 
+  state: ''
   city: Dutse
-  neighborhood: 
+  neighborhood: ''
   coordinates: 11.759796, 9.339822
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Riyadh
 location:
   country: Saudi Arabia
-  state: 
+  state: ''
   city: Riyadh
-  neighborhood: 
+  neighborhood: ''
   coordinates: 24.631969, 46.715065
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

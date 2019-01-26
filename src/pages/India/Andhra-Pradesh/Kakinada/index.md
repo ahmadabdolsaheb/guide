@@ -4,7 +4,7 @@ location:
   country: India
   state: Andhra Pradesh
   city: Kakinada
-  neighborhood: 
+  neighborhood: ''
   coordinates: 16.943739, 82.235061
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

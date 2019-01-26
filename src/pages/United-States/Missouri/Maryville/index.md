@@ -4,7 +4,7 @@ location:
   country: United States
   state: Missouri
   city: Maryville
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.346102, -94.872471
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: New Jersey
   city: Bordentown
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.146221, -74.711826
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

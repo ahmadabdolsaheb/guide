@@ -2,9 +2,9 @@
 title: Taiping
 location:
   country: Malaysia
-  state: 
+  state: ''
   city: Taiping
-  neighborhood: 
+  neighborhood: ''
   coordinates: 4.847834, 100.73716
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

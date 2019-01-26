@@ -2,9 +2,9 @@
 title: King's Lynn
 location:
   country: England
-  state: 
+  state: ''
   city: King's Lynn
-  neighborhood: 
+  neighborhood: ''
   coordinates: 52.754891, 0.396461
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Mayagüez
 location:
   country: Puerto Rico
-  state: 
+  state: ''
   city: Mayagüez
-  neighborhood: 
+  neighborhood: ''
   coordinates: 18.201116, -67.139112
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

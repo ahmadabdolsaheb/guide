@@ -4,7 +4,7 @@ location:
   country: Pakistan
   state: Punjab
   city: Khanpur
-  neighborhood: 
+  neighborhood: ''
   coordinates: 28.6331825,70.6573694
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

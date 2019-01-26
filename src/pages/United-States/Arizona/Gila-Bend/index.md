@@ -4,7 +4,7 @@ location:
   country: United States
   state: Arizona
   city: Gila Bend
-  neighborhood: 
+  neighborhood: ''
   coordinates: 32.947827, -112.716824
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

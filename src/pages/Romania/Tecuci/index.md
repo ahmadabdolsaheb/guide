@@ -2,9 +2,9 @@
 title: Tecuci
 location:
   country: Romania
-  state: 
+  state: ''
   city: Tecuci
-  neighborhood: 
+  neighborhood: ''
   coordinates: 45.845782, 27.42908
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

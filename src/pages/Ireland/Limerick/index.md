@@ -2,9 +2,9 @@
 title: Limerick
 location:
   country: Ireland
-  state: 
+  state: ''
   city: Limerick
-  neighborhood: 
+  neighborhood: ''
   coordinates: 52.661258, -8.630208
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

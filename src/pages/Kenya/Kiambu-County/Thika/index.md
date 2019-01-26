@@ -4,7 +4,7 @@ location:
   country: Kenya
   state: Kiambu County
   city: Thika
-  neighborhood: 
+  neighborhood: ''
   coordinates: -1.0387569,37.0833753
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

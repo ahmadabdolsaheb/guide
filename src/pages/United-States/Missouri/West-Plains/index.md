@@ -4,7 +4,7 @@ location:
   country: United States
   state: Missouri
   city: West Plains
-  neighborhood: 
+  neighborhood: ''
   coordinates: 36.728115, -91.852371
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

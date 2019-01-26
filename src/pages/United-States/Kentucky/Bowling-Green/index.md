@@ -4,7 +4,7 @@ location:
   country: United States
   state: Kentucky
   city: Bowling Green
-  neighborhood: 
+  neighborhood: ''
   coordinates: 36.99032, -86.443602
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: China
   state: Guizhou
   city: Anshun
-  neighborhood: 
+  neighborhood: ''
   coordinates: 26.249696, 105.927781
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

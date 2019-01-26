@@ -4,7 +4,7 @@ location:
   country: United States
   state: Michigan
   city: Detroit
-  neighborhood: 
+  neighborhood: ''
   coordinates: 42.348664, -83.056737
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Hohenfels
 location:
   country: Germany
-  state: 
+  state: ''
   city: Hohenfels
-  neighborhood: 
+  neighborhood: ''
   coordinates: 50.132376, 5.788693
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

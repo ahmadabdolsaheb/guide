@@ -2,9 +2,9 @@
 title: Albany
 location:
   country: Australia
-  state: 
+  state: ''
   city: Albany
-  neighborhood: 
+  neighborhood: ''
   coordinates: 42.651167, -73.754968
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: India
   state: Bihar
   city: Patna
-  neighborhood: 
+  neighborhood: ''
   coordinates: 25.609575, 85.123819
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

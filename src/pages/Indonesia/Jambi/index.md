@@ -2,9 +2,9 @@
 title: Jambi
 location:
   country: Indonesia
-  state: 
+  state: ''
   city: Jambi
-  neighborhood: 
+  neighborhood: ''
   coordinates: -1.614128, 103.579671
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

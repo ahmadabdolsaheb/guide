@@ -2,9 +2,9 @@
 title: Ibadan
 location:
   country: Nigeria
-  state: 
+  state: ''
   city: Ibadan
-  neighborhood: 
+  neighborhood: ''
   coordinates: 7.378606, 3.896993
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Medellin
 location:
   country: Colombia
-  state: 
+  state: ''
   city: Medellin
-  neighborhood: 
+  neighborhood: ''
   coordinates: 6.244338, -75.573553
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

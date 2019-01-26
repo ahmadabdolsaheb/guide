@@ -4,7 +4,7 @@ location:
   country: India
   state: Uttarakhand
   city: Dehra Dun
-  neighborhood: 
+  neighborhood: ''
   coordinates: 30.325565, 78.043681
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

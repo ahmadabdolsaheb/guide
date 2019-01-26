@@ -4,7 +4,7 @@ location:
   country: United States
   state: Illinois
   city: Frankfort
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.4958665,-87.84866129999999
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

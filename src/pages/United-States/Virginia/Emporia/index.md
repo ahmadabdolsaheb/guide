@@ -4,7 +4,7 @@ location:
   country: United States
   state: Virginia
   city: Emporia
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.404005, -96.181623
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

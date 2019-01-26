@@ -4,7 +4,7 @@ location:
   country: India
   state: Uttar Pradesh
   city: Varanasi
-  neighborhood: 
+  neighborhood: ''
   coordinates: 25.335649, 83.007629
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

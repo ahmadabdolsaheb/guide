@@ -4,7 +4,7 @@ location:
   country: China
   state: Zhejiang
   city: Hangzhou
-  neighborhood: 
+  neighborhood: ''
   coordinates: 30.275674, 120.150486
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

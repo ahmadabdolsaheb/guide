@@ -2,9 +2,9 @@
 title: Belgrade
 location:
   country: Serbia
-  state: 
+  state: ''
   city: Belgrade
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.817879, 20.456809
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

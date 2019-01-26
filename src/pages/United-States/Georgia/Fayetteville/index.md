@@ -4,7 +4,7 @@ location:
   country: United States
   state: Georgia
   city: Fayetteville
-  neighborhood: 
+  neighborhood: ''
   coordinates: 33.4487257,-84.4549262
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

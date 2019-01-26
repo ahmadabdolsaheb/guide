@@ -2,9 +2,9 @@
 title: Itahari
 location:
   country: Nepal
-  state: 
+  state: ''
   city: Itahari
-  neighborhood: 
+  neighborhood: ''
   coordinates: 26.664208, 87.276803
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

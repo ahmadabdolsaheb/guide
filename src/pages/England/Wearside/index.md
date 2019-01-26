@@ -2,9 +2,9 @@
 title: Wearside
 location:
   country: England
-  state: 
+  state: ''
   city: Wearside
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.458884, -0.015894
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

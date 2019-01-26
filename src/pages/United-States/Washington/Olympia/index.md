@@ -4,7 +4,7 @@ location:
   country: United States
   state: Washington
   city: Olympia
-  neighborhood: 
+  neighborhood: ''
   coordinates: 47.04502, -122.894872
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

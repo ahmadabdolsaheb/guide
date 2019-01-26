@@ -4,7 +4,7 @@ location:
   country: United States
   state: Minnesota
   city: Saint Cloud
-  neighborhood: 
+  neighborhood: ''
   coordinates: 48.8426, 2.204531
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

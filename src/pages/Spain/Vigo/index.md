@@ -2,9 +2,9 @@
 title: Vigo
 location:
   country: Spain
-  state: 
+  state: ''
   city: Vigo
-  neighborhood: 
+  neighborhood: ''
   coordinates: 42.23766, -8.72472
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

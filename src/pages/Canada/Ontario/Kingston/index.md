@@ -4,7 +4,7 @@ location:
   country: Canada
   state: Ontario
   city: Kingston
-  neighborhood: 
+  neighborhood: ''
   coordinates: 17.971215, -76.792813
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

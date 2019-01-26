@@ -4,7 +4,7 @@ location:
   country: India
   state: Meghalaya
   city: Shillong
-  neighborhood: 
+  neighborhood: ''
   coordinates: 25.576015, 91.882803
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

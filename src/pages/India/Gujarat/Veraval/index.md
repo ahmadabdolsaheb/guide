@@ -4,7 +4,7 @@ location:
   country: India
   state: Gujarat
   city: Veraval
-  neighborhood: 
+  neighborhood: ''
   coordinates: 20.9057, 70.3781
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

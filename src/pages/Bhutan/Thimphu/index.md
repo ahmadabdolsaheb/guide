@@ -2,9 +2,9 @@
 title: Thimphu
 location:
   country: Bhutan
-  state: 
+  state: ''
   city: Thimphu
-  neighborhood: 
+  neighborhood: ''
   coordinates: 27.472762, 89.629548
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

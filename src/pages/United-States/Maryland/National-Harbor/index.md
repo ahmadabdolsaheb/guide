@@ -4,7 +4,7 @@ location:
   country: United States
   state: Maryland
   city: National Harbor
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.783436, -77.014142
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

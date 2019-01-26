@@ -2,9 +2,9 @@
 title: Yaroslavl
 location:
   country: Russia
-  state: 
+  state: ''
   city: Yaroslavl
-  neighborhood: 
+  neighborhood: ''
   coordinates: 57.626388, 39.893371
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

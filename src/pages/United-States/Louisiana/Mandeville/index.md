@@ -4,7 +4,7 @@ location:
   country: United States
   state: Louisiana
   city: Mandeville
-  neighborhood: 
+  neighborhood: ''
   coordinates: 18.043125, -77.50741
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

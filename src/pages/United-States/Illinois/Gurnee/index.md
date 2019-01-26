@@ -4,7 +4,7 @@ location:
   country: United States
   state: Illinois
   city: Gurnee
-  neighborhood: 
+  neighborhood: ''
   coordinates: 42.3703, -87.902019
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

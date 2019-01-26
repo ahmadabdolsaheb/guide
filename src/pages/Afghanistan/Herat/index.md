@@ -2,9 +2,9 @@
 title: Herat
 location:
   country: Afghanistan
-  state: 
+  state: ''
   city: Herat
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.350827, 62.2164
   plusCode: ''
 social:

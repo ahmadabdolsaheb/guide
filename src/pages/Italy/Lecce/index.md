@@ -2,9 +2,9 @@
 title: Lecce
 location:
   country: Italy
-  state: 
+  state: ''
   city: Lecce
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.357037, 18.171848
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

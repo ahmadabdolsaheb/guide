@@ -4,7 +4,7 @@ location:
   country: United States
   state: New Jersey
   city: McAfee
-  neighborhood: 
+  neighborhood: ''
   coordinates: 41.178429, -74.540437
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

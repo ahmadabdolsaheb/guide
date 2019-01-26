@@ -2,9 +2,9 @@
 title: Uppsala
 location:
   country: Sweden
-  state: 
+  state: ''
   city: Uppsala
-  neighborhood: 
+  neighborhood: ''
   coordinates: 59.859413, 17.64112
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

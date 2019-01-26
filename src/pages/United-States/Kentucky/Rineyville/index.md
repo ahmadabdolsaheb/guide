@@ -4,7 +4,7 @@ location:
   country: United States
   state: Kentucky
   city: Rineyville
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.74951, -85.969963
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

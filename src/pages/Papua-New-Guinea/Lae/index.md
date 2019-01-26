@@ -2,9 +2,9 @@
 title: Lae
 location:
   country: Papua New Guinea
-  state: 
+  state: ''
   city: Lae
-  neighborhood: 
+  neighborhood: ''
   coordinates: -6.73259, 147.002109
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Sofia
 location:
   country: Bulgaria
-  state: 
+  state: ''
   city: Sofia
-  neighborhood: 
+  neighborhood: ''
   coordinates: 42.697721, 23.322596
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Uzhgorod
 location:
   country: Ukraine
-  state: 
+  state: ''
   city: Uzhgorod
-  neighborhood: 
+  neighborhood: ''
   coordinates: 48.62235, 22.302126
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

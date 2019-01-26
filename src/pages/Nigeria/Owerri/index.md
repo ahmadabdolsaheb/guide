@@ -2,9 +2,9 @@
 title: Owerri
 location:
   country: Nigeria
-  state: 
+  state: ''
   city: Owerri
-  neighborhood: 
+  neighborhood: ''
   coordinates: 5.489736, 7.034197
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

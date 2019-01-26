@@ -4,7 +4,7 @@ location:
   country: India
   state: Odisha
   city: Bhubaneswar
-  neighborhood: 
+  neighborhood: ''
   coordinates: 20.260333, 85.839343
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

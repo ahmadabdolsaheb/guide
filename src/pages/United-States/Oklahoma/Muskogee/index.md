@@ -4,7 +4,7 @@ location:
   country: United States
   state: Oklahoma
   city: Muskogee
-  neighborhood: 
+  neighborhood: ''
   coordinates: 35.747877, -95.369691
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

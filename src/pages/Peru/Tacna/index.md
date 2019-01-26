@@ -2,9 +2,9 @@
 title: Tacna
 location:
   country: Peru
-  state: 
+  state: ''
   city: Tacna
-  neighborhood: 
+  neighborhood: ''
   coordinates: -9.865475, -66.357526
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

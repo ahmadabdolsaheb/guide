@@ -2,9 +2,9 @@
 title: Aarhus
 location:
   country: Denmark
-  state: 
+  state: ''
   city: Aarhus
-  neighborhood: 
+  neighborhood: ''
   coordinates: 56.149628, 10.213405
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

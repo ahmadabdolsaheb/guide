@@ -4,7 +4,7 @@ location:
   country: United States
   state: Michigan
   city: Ann Arbor
-  neighborhood: 
+  neighborhood: ''
   coordinates: 42.268157, -83.731229
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

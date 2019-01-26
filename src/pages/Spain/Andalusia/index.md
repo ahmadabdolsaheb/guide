@@ -3,8 +3,8 @@ title: Andalusia
 location:
   country: Spain
   state: Andalusia
-  city: 
-  neighborhood: 
+  city: ''
+  neighborhood: ''
   coordinates: 37.5442706,-4.7277528
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

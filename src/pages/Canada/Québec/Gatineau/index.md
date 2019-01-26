@@ -4,7 +4,7 @@ location:
   country: Canada
   state: Québec
   city: Gatineau
-  neighborhood: 
+  neighborhood: ''
   coordinates: 45.456305, -75.722883
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

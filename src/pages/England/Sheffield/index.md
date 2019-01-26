@@ -2,9 +2,9 @@
 title: Sheffield
 location:
   country: England
-  state: 
+  state: ''
   city: Sheffield
-  neighborhood: 
+  neighborhood: ''
   coordinates: 53.380663, -1.470228
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

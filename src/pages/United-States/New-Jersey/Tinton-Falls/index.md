@@ -4,7 +4,7 @@ location:
   country: United States
   state: New Jersey
   city: Tinton Falls
-  neighborhood: 
+  neighborhood: ''
   coordinates: 40.289073, -74.092797
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

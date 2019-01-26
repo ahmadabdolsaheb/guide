@@ -2,9 +2,9 @@
 title: Maun
 location:
   country: Botswana
-  state: 
+  state: ''
   city: Maun
-  neighborhood: 
+  neighborhood: ''
   coordinates: -19.986095, 23.422435
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

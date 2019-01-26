@@ -2,9 +2,9 @@
 title: Helsinki
 location:
   country: Finland
-  state: 
+  state: ''
   city: Helsinki
-  neighborhood: 
+  neighborhood: ''
   coordinates: 60.166628, 24.943508
   plusCode: ''
 social:

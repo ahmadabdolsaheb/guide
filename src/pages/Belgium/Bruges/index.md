@@ -2,9 +2,9 @@
 title: Bruges
 location:
   country: Belgium
-  state: 
+  state: ''
   city: Bruges
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.231579, 3.2081
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

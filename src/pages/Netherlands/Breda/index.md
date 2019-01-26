@@ -2,9 +2,9 @@
 title: Breda
 location:
   country: Netherlands
-  state: 
+  state: ''
   city: Breda
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.564448, 4.75123
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

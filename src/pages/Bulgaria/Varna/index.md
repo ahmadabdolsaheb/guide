@@ -2,9 +2,9 @@
 title: Varna
 location:
   country: Bulgaria
-  state: 
+  state: ''
   city: Varna
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.21661, 27.901713
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

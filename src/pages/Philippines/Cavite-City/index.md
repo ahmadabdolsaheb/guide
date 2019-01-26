@@ -2,9 +2,9 @@
 title: Cavite City
 location:
   country: Philippines
-  state: 
+  state: ''
   city: Cavite City
-  neighborhood: 
+  neighborhood: ''
   coordinates: 14.482032, 120.908915
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

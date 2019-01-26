@@ -4,7 +4,7 @@ location:
   country: United States
   state: Virginia
   city: Fredericksburg
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.303184, -77.46054
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

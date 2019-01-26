@@ -2,9 +2,9 @@
 title: Pietermaritzburg
 location:
   country: South Africa
-  state: 
+  state: ''
   city: Pietermaritzburg
-  neighborhood: 
+  neighborhood: ''
   coordinates: -29.6, 30.378889
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

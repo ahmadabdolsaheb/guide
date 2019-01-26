@@ -2,9 +2,9 @@
 title: Santander
 location:
   country: Spain
-  state: 
+  state: ''
   city: Santander
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.46231, -3.810107
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Kalamata
 location:
   country: Greece
-  state: 
+  state: ''
   city: Kalamata
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.037758, 22.110939
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

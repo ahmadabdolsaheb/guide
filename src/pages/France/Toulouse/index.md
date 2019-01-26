@@ -2,9 +2,9 @@
 title: Toulouse
 location:
   country: France
-  state: 
+  state: ''
   city: Toulouse
-  neighborhood: 
+  neighborhood: ''
   coordinates: 43.604462, 1.444247
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -2,9 +2,9 @@
 title: Cotonou
 location:
   country: Benin
-  state: 
+  state: ''
   city: Cotonou
-  neighborhood: 
+  neighborhood: ''
   coordinates: 6.367682, 2.425229
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

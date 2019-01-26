@@ -2,9 +2,9 @@
 title: Dakar
 location:
   country: Senegal
-  state: 
+  state: ''
   city: Dakar
-  neighborhood: 
+  neighborhood: ''
   coordinates: 14.693425, -17.447938
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

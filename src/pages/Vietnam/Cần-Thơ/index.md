@@ -3,8 +3,8 @@ title: Cần Thơ
 location:
   country: Vietnam
   state: Cần Thơ
-  city: 
-  neighborhood: 
+  city: ''
+  neighborhood: ''
   coordinates: 10.0495716,105.7853052
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

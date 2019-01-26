@@ -4,7 +4,7 @@ location:
   country: United States
   state: Georgia
   city: Statesboro
-  neighborhood: 
+  neighborhood: ''
   coordinates: 32.449014, -81.783291
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

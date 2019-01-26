@@ -2,9 +2,9 @@
 title: Acapulco
 location:
   country: Mexico
-  state: 
+  state: ''
   city: Acapulco
-  neighborhood: 
+  neighborhood: ''
   coordinates: 16.860291, -99.876832
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

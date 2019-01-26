@@ -2,9 +2,9 @@
 title: Villahermosa
 location:
   country: Mexico
-  state: 
+  state: ''
   city: Villahermosa
-  neighborhood: 
+  neighborhood: ''
   coordinates: 38.750781, -2.871768
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

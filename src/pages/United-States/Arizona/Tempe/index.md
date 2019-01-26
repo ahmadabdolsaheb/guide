@@ -4,7 +4,7 @@ location:
   country: United States
   state: Arizona
   city: Tempe
-  neighborhood: 
+  neighborhood: ''
   coordinates: 33.414631, -111.909376
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

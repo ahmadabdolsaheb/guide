@@ -4,7 +4,7 @@ location:
   country: United States
   state: Missouri
   city: Independence
-  neighborhood: 
+  neighborhood: ''
   coordinates: 37.224236, -95.708313
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

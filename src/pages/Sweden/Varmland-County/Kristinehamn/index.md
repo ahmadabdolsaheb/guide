@@ -4,7 +4,7 @@ location:
   country: Sweden
   state: Varmland County
   city: Kristinehamn
-  neighborhood: 
+  neighborhood: ''
   coordinates: 59.3100677,14.1089193
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

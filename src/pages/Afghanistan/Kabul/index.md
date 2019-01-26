@@ -2,9 +2,9 @@
 title: Kabul
 location:
   country: Afghanistan
-  state: 
+  state: ''
   city: Kabul
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.519706, 69.16243
   plusCode: ''
 social:

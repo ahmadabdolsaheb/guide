@@ -4,7 +4,7 @@ location:
   country: India
   state: Assam
   city: Guwahati
-  neighborhood: 
+  neighborhood: ''
   coordinates: 26.180598, 91.753943
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

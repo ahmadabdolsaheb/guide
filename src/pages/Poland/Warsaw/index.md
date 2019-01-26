@@ -2,9 +2,9 @@
 title: Warsaw
 location:
   country: Poland
-  state: 
+  state: ''
   city: Warsaw
-  neighborhood: 
+  neighborhood: ''
   coordinates: 52.231924, 21.006727
   plusCode: ''
 social:

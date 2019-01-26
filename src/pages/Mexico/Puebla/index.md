@@ -2,9 +2,9 @@
 title: Puebla
 location:
   country: Mexico
-  state: 
+  state: ''
   city: Puebla
-  neighborhood: 
+  neighborhood: ''
   coordinates: 19.043671, -98.198727
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

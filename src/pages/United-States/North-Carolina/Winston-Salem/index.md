@@ -4,7 +4,7 @@ location:
   country: United States
   state: North Carolina
   city: Winston Salem
-  neighborhood: 
+  neighborhood: ''
   coordinates: 36.099817, -80.244144
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

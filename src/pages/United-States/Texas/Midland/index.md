@@ -4,7 +4,7 @@ location:
   country: United States
   state: Texas
   city: Midland
-  neighborhood: 
+  neighborhood: ''
   coordinates: 31.9973500, -102.0779100
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

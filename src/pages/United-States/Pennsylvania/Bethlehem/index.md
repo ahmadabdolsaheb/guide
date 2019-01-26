@@ -4,7 +4,7 @@ location:
   country: United States
   state: Pennsylvania
   city: Bethlehem
-  neighborhood: 
+  neighborhood: ''
   coordinates: 31.710799, 35.1988
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: United States
   state: Minnesota
   city: Duluth
-  neighborhood: 
+  neighborhood: ''
   coordinates: 46.772932, -92.125122
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

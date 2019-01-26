@@ -2,9 +2,9 @@
 title: Larisa
 location:
   country: Greece
-  state: 
+  state: ''
   city: Larisa
-  neighborhood: 
+  neighborhood: ''
   coordinates: 39.638293, 22.41595
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

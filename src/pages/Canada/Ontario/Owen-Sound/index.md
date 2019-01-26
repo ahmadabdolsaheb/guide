@@ -4,7 +4,7 @@ location:
   country: Canada
   state: Ontario
   city: Owen Sound
-  neighborhood: 
+  neighborhood: ''
   coordinates: 44.56881, -80.949223
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: Egypt
   state: Ash Sharqia Governorate
   city: Zagazig
-  neighborhood: 
+  neighborhood: ''
   coordinates: 30.5765383,31.5040656
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

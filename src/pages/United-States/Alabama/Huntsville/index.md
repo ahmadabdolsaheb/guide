@@ -4,7 +4,7 @@ location:
   country: United States
   state: Alabama
   city: Huntsville
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.577718, -86.835836
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

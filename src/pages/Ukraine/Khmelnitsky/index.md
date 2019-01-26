@@ -2,9 +2,9 @@
 title: Khmelnitsky
 location:
   country: Ukraine
-  state: 
+  state: ''
   city: Khmelnitsky
-  neighborhood: 
+  neighborhood: ''
   coordinates: 48.508186, 32.26148
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

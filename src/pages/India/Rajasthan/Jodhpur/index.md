@@ -4,7 +4,7 @@ location:
   country: India
   state: Rajasthan
   city: Jodhpur
-  neighborhood: 
+  neighborhood: ''
   coordinates: 26.29893, 73.0334
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

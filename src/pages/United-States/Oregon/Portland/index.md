@@ -4,7 +4,7 @@ location:
   country: United States
   state: Oregon
   city: Portland
-  neighborhood: 
+  neighborhood: ''
   coordinates: 45.520247, -122.674195
   plusCode: ''
 social:

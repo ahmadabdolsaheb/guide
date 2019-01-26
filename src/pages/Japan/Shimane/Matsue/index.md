@@ -4,7 +4,7 @@ location:
   country: Japan
   state: Shimane
   city: Matsue
-  neighborhood: 
+  neighborhood: ''
   coordinates: 35.46806, 133.04861
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

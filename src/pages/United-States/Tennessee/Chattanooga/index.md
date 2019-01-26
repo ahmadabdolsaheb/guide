@@ -4,7 +4,7 @@ location:
   country: United States
   state: Tennessee
   city: Chattanooga
-  neighborhood: 
+  neighborhood: ''
   coordinates: 35.04563, -85.30968
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

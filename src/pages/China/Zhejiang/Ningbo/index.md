@@ -4,7 +4,7 @@ location:
   country: China
   state: Zhejiang
   city: Ningbo
-  neighborhood: 
+  neighborhood: ''
   coordinates: 29.856506, 121.577886
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

@@ -4,7 +4,7 @@ location:
   country: Russia
   state: Tuva
   city: Kyzyl
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.7150832,94.4574804
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

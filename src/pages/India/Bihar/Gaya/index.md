@@ -4,7 +4,7 @@ location:
   country: India
   state: Bihar
   city: Gaya
-  neighborhood: 
+  neighborhood: ''
   coordinates: 24.7913957,85.0002336
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

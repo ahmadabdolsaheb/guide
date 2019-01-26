@@ -2,9 +2,9 @@
 title: Orenburg
 location:
   country: Russia
-  state: 
+  state: ''
   city: Orenburg
-  neighborhood: 
+  neighborhood: ''
   coordinates: 51.767394, 55.097131
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

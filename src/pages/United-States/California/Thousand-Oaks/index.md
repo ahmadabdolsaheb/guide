@@ -4,7 +4,7 @@ location:
   country: United States
   state: California
   city: Thousand Oaks
-  neighborhood: 
+  neighborhood: ''
   coordinates: 34.171427, -118.910588
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

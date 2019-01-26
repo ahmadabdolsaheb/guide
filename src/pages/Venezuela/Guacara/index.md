@@ -2,9 +2,9 @@
 title: Guacara
 location:
   country: Venezuela
-  state: 
+  state: ''
   city: Guacara
-  neighborhood: 
+  neighborhood: ''
   coordinates: 10.227613, -67.877556
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

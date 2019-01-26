@@ -4,7 +4,7 @@ location:
   country: India
   state: Bihar
   city: Muzaffarpur
-  neighborhood: 
+  neighborhood: ''
   coordinates: 26.11829, 85.385789
   plusCode: ''
 social:
@@ -20,6 +20,6 @@ leaders:
 - name: ''
   URL: ''
 photos:
-  old: 
+  old: ''
   cover: ''
 ---

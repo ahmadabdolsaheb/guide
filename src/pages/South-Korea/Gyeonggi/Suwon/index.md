@@ -4,7 +4,7 @@ location:
   country: South Korea
   state: Gyeonggi
   city: Suwon
-  neighborhood: 
+  neighborhood: ''
   coordinates: 33.429441, 126.267859
   plusCode: ''
 social:
