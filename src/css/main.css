@@ -238,11 +238,13 @@
 .navItemTitle {
   color: #006400;
   cursor: pointer;
+  margin-left: 20px;
 }
 
 .navPanelUl {
   list-style: none;
   margin-bottom: 0px;
+  padding-left: 20px
 }
 
 .panelStyle {
