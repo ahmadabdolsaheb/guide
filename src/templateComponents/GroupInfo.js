@@ -31,9 +31,13 @@ function GroupInfo(props) {
     );
   }
   function leadersInfo(leaders) {
+    if (leaders.length === 1 && leaders[0].name === '') {
+      return '';
+    }
+    console.log(leaders);
     return (
       <p>
-        Our group leader{leaders.length > 1 ? 's are ' : ' is '}
+        Our group leader{validLeaderCounter(leaders) > 1 ? 's are ' : ' is '}
         {leaders.map(function(item, i) {
           if (checkifempty(item)) {
             return '';
@@ -52,7 +56,17 @@ function GroupInfo(props) {
     );
   }
 
-  const checkifempty = x => { return !x.name || !x.URL; };
+  const validLeaderCounter = x => {
+    let counter = 0;
+    for (let i of x) {
+      if (!checkifempty(i)) {counter++;}
+    }
+    console.log(counter);
+    return counter;
+  };
+  const checkifempty = x => {
+    return !x.name || !x.URL;
+  };
 
   return (
     <div>
